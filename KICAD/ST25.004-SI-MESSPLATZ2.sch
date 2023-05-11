@@ -1,0 +1,8112 @@
+EESchema Schematic File Version 4
+LIBS:ST25.004-cache
+EELAYER 26 0
+EELAYER END
+$Descr User 23508 18307
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Bus Line
+	7700 4200 7200 4200
+Wire Wire Line
+	8200 9350 8100 9350
+Wire Wire Line
+	8100 9350 8100 9400
+Wire Wire Line
+	8100 9400 8000 9400
+Wire Wire Line
+	8200 9450 8100 9450
+Wire Wire Line
+	8100 9450 8100 9400
+Connection ~ 8100 9400
+Wire Wire Line
+	18400 5950 18400 5850
+Wire Wire Line
+	18400 5850 18350 5850
+Wire Wire Line
+	18350 5850 18350 650 
+Wire Wire Line
+	18350 5850 18250 5850
+Connection ~ 18350 5850
+Wire Wire Line
+	18600 15100 18600 14850
+Wire Wire Line
+	18600 15100 18750 15100
+Wire Wire Line
+	18750 15100 18750 15050
+Wire Wire Line
+	18750 15100 18950 15100
+Wire Wire Line
+	18950 15100 18950 15050
+Wire Wire Line
+	18950 15100 19100 15100
+Wire Wire Line
+	19100 15100 19100 14850
+Connection ~ 18600 15100
+Connection ~ 18750 15100
+Connection ~ 18950 15100
+Text Label 18600 15100 0    10   ~ 0
+GND
+Wire Wire Line
+	14600 13200 14600 13150
+Wire Wire Line
+	16750 3400 16750 3300
+Wire Wire Line
+	16150 3400 16150 3350
+Text Label 16150 3400 0    10   ~ 0
+GND
+Wire Wire Line
+	14700 3450 14700 3350
+Wire Wire Line
+	14700 3250 14700 3350
+Wire Wire Line
+	14700 3350 14950 3350
+Wire Wire Line
+	14950 3350 14950 3300
+Connection ~ 14700 3350
+Text Label 14700 3450 0    10   ~ 0
+GND
+Wire Wire Line
+	22850 5200 22850 5300
+Wire Wire Line
+	23050 5450 23050 5300
+Wire Wire Line
+	22850 5300 23050 5300
+Wire Wire Line
+	23050 5200 23050 5300
+Connection ~ 23050 5300
+Text Label 22850 5200 0    10   ~ 0
+GND
+Wire Wire Line
+	20650 4000 20650 3900
+Wire Wire Line
+	20650 3900 20650 3800
+Wire Wire Line
+	20650 3900 20900 3900
+Wire Wire Line
+	20900 3900 20900 3600
+Connection ~ 20650 3900
+Text Label 20650 4000 0    10   ~ 0
+GND
+Wire Wire Line
+	21250 3950 21250 3800
+Text Label 21250 3950 0    10   ~ 0
+GND
+Wire Wire Line
+	20750 2350 20700 2350
+Text Label 20750 2350 0    10   ~ 0
+GND
+Wire Wire Line
+	22500 5550 22500 5450
+Text Label 22500 5550 0    10   ~ 0
+GND
+Wire Wire Line
+	10700 16750 10700 16350
+Text Label 10700 16750 0    10   ~ 0
+GND
+Wire Wire Line
+	8650 15350 8650 15300
+Wire Wire Line
+	7950 16750 7950 16850
+Wire Wire Line
+	7200 16750 7200 16650
+Wire Wire Line
+	7200 16750 7000 16750
+Wire Wire Line
+	7000 16750 7000 16650
+Wire Wire Line
+	7000 16750 6800 16750
+Wire Wire Line
+	6800 16750 6800 16650
+Wire Wire Line
+	6800 16750 6600 16750
+Wire Wire Line
+	6600 16750 6600 16650
+Connection ~ 6800 16750
+Connection ~ 7000 16750
+Connection ~ 7200 16750
+Wire Wire Line
+	7750 14150 7650 14150
+Wire Wire Line
+	7750 13400 7650 13400
+Wire Wire Line
+	7750 13400 7750 13650
+Wire Wire Line
+	7750 13650 7750 13900
+Wire Wire Line
+	7750 13900 7750 14150
+Wire Wire Line
+	7950 14150 7750 14150
+Wire Wire Line
+	7650 13650 7750 13650
+Wire Wire Line
+	7650 13900 7750 13900
+Connection ~ 7750 14150
+Connection ~ 7750 13650
+Connection ~ 7750 13900
+Text Label 7750 14150 0    10   ~ 0
+GND
+Wire Wire Line
+	3000 3750 3000 3650
+Wire Wire Line
+	2800 3650 2800 3750
+Wire Wire Line
+	2800 3750 3000 3750
+Connection ~ 3000 3750
+Text Label 3000 3750 0    10   ~ 0
+GND
+Wire Wire Line
+	4450 5050 4150 5050
+Wire Wire Line
+	4450 4750 4150 4750
+Wire Wire Line
+	4150 4750 4150 4850
+Wire Wire Line
+	4150 4850 4150 4950
+Wire Wire Line
+	4150 4950 4150 5050
+Wire Wire Line
+	4450 4850 4150 4850
+Wire Wire Line
+	4450 4950 4150 4950
+Wire Wire Line
+	4450 4650 4150 4650
+Wire Wire Line
+	4150 4650 4150 4750
+Connection ~ 4150 4850
+Connection ~ 4150 4950
+Connection ~ 4150 5050
+Connection ~ 4150 4750
+Text Label 4450 5050 0    10   ~ 0
+GND
+Wire Wire Line
+	9150 3250 8950 3250
+Wire Wire Line
+	8950 3250 8950 3150
+Text Label 9150 3250 0    10   ~ 0
+GND
+Wire Wire Line
+	3850 2750 3850 2800
+Wire Wire Line
+	3750 2700 3750 2800
+Wire Wire Line
+	3750 2800 3850 2800
+Connection ~ 3850 2800
+Text Label 3850 2750 0    10   ~ 0
+GND
+Wire Wire Line
+	3050 2750 3050 2800
+Wire Wire Line
+	3150 2700 3150 2750
+Wire Wire Line
+	3150 2750 3050 2750
+Connection ~ 3050 2750
+Text Label 3050 2750 0    10   ~ 0
+GND
+Wire Wire Line
+	6500 13550 6550 13550
+Text Label 6500 13550 0    10   ~ 0
+GND
+Wire Wire Line
+	11700 10750 11700 10650
+Text Label 11700 10750 0    10   ~ 0
+GND
+Wire Wire Line
+	13050 10750 13050 10650
+Text Label 13050 10750 0    10   ~ 0
+GND
+Wire Wire Line
+	13650 10750 13650 10650
+Text Label 13650 10750 0    10   ~ 0
+GND
+Wire Wire Line
+	14250 10750 14250 10650
+Text Label 14250 10750 0    10   ~ 0
+GND
+Wire Wire Line
+	12400 10750 12400 10650
+Text Label 12400 10750 0    10   ~ 0
+GND
+Wire Wire Line
+	9850 5950 9850 6050
+Text Label 9850 5950 0    10   ~ 0
+GND
+Wire Wire Line
+	12050 5900 12050 6050
+Wire Wire Line
+	11800 6000 11800 6050
+Wire Wire Line
+	11800 6050 12050 6050
+Wire Wire Line
+	12050 6050 12050 6100
+Connection ~ 12050 6050
+Text Label 12050 5900 0    10   ~ 0
+GND
+Wire Wire Line
+	11300 6400 11300 6900
+Wire Wire Line
+	11300 6900 11300 6950
+Wire Wire Line
+	10800 6900 11300 6900
+Connection ~ 11300 6900
+Text Label 11300 6400 0    10   ~ 0
+GND
+Text Label 1450 10000 0    10   ~ 0
+GND
+Wire Wire Line
+	18050 5550 18050 650 
+Text Label 18050 5550 0    10   ~ 0
+-7V5
+Wire Wire Line
+	20550 13950 20550 13850
+Text Label 20550 13950 0    10   ~ 0
+-7V5
+Wire Wire Line
+	15050 11350 15050 11300
+Text Label 15050 11350 0    10   ~ 0
+-7V5
+Wire Wire Line
+	22850 4800 22850 4900
+Text Label 22850 4800 0    10   ~ 0
+-7V5
+Wire Wire Line
+	20050 3950 20050 3900
+Wire Wire Line
+	20050 3900 20050 3800
+Wire Wire Line
+	20050 3900 20300 3900
+Wire Wire Line
+	20300 3900 20300 3650
+Connection ~ 20050 3900
+Text Label 20050 3950 0    10   ~ 0
+-7V5
+Wire Wire Line
+	20050 5500 20050 5450
+Wire Wire Line
+	20050 5450 20050 5350
+Wire Wire Line
+	20050 5450 20300 5450
+Wire Wire Line
+	20300 5450 20300 5200
+Wire Wire Line
+	20300 5450 20400 5450
+Connection ~ 20050 5450
+Connection ~ 20300 5450
+Text Label 20050 5500 0    10   ~ 0
+-7V5
+Wire Wire Line
+	21250 5500 21250 5450
+Wire Wire Line
+	21250 5450 21250 5350
+Wire Wire Line
+	21250 5450 21500 5450
+Wire Wire Line
+	21500 5450 21500 5200
+Wire Wire Line
+	21500 5450 21600 5450
+Connection ~ 21250 5450
+Connection ~ 21500 5450
+Text Label 21250 5500 0    10   ~ 0
+-7V5
+Wire Wire Line
+	20050 7000 20050 6950
+Wire Wire Line
+	20050 6950 20050 6850
+Wire Wire Line
+	20050 6950 20300 6950
+Wire Wire Line
+	20300 6950 20300 6700
+Wire Wire Line
+	20300 6950 20400 6950
+Connection ~ 20050 6950
+Connection ~ 20300 6950
+Text Label 20050 7000 0    10   ~ 0
+-7V5
+Wire Wire Line
+	5400 12700 5400 12750
+Wire Wire Line
+	5400 12750 5500 12750
+Wire Wire Line
+	5500 12750 5600 12750
+Wire Wire Line
+	5600 12750 5700 12750
+Wire Wire Line
+	5700 12750 5800 12750
+Wire Wire Line
+	5800 12750 5900 12750
+Wire Wire Line
+	5900 12750 6000 12750
+Wire Wire Line
+	6000 12750 6100 12750
+Wire Wire Line
+	6100 12750 6200 12750
+Wire Wire Line
+	6200 12750 6300 12750
+Wire Wire Line
+	6300 12750 6300 12700
+Wire Wire Line
+	5900 12800 5900 12750
+Wire Wire Line
+	5900 12750 5900 12700
+Wire Wire Line
+	6000 12700 6000 12750
+Wire Wire Line
+	6100 12700 6100 12750
+Wire Wire Line
+	6200 12700 6200 12750
+Wire Wire Line
+	5700 12700 5700 12750
+Wire Wire Line
+	5800 12700 5800 12750
+Wire Wire Line
+	5600 12700 5600 12750
+Wire Wire Line
+	5500 12700 5500 12750
+Connection ~ 5500 12750
+Connection ~ 5600 12750
+Connection ~ 5700 12750
+Connection ~ 5800 12750
+Connection ~ 6000 12750
+Connection ~ 6100 12750
+Connection ~ 6200 12750
+Connection ~ 5900 12750
+Text Label 5400 12700 0    10   ~ 0
+-7V5
+Wire Wire Line
+	21250 1450 21250 1600
+Wire Wire Line
+	21450 1300 21450 1450
+Wire Wire Line
+	21450 1450 21250 1450
+Connection ~ 21250 1450
+Text Label 21250 1450 0    10   ~ 0
+-7V5
+Wire Wire Line
+	22000 1450 22000 1600
+Wire Wire Line
+	22250 1300 22250 1450
+Wire Wire Line
+	22250 1450 22000 1450
+Connection ~ 22000 1450
+Text Label 22000 1450 0    10   ~ 0
+-7V5
+Wire Wire Line
+	23000 1300 23000 1450
+Wire Wire Line
+	23000 1450 22750 1450
+Wire Wire Line
+	22750 1450 22750 1600
+Connection ~ 22750 1450
+Text Label 23000 1300 0    10   ~ 0
+-7V5
+Wire Wire Line
+	18150 5150 18150 650 
+Text Label 18150 5150 0    10   ~ 0
++7V5
+Wire Wire Line
+	20550 12250 20550 12350
+Text Label 20550 12250 0    10   ~ 0
++7V5
+Wire Wire Line
+	13600 14300 13600 14400
+Text Label 13600 14300 0    10   ~ 0
++7V5
+Wire Wire Line
+	9200 9550 9450 9550
+Wire Wire Line
+	9450 9550 9450 9350
+Wire Wire Line
+	9450 9550 9750 9550
+Connection ~ 9450 9550
+Text Label 9200 9550 0    10   ~ 0
++7V5
+Wire Wire Line
+	15050 10750 15050 10900
+Text Label 15050 10750 0    10   ~ 0
++7V5
+Wire Wire Line
+	23050 4800 23050 4900
+Text Label 23050 4800 0    10   ~ 0
++7V5
+Wire Wire Line
+	20050 3050 20050 3100
+Wire Wire Line
+	20050 3100 20050 3200
+Wire Wire Line
+	20050 3100 20300 3100
+Wire Wire Line
+	20300 3100 20300 3350
+Connection ~ 20050 3100
+Text Label 20050 3050 0    10   ~ 0
++7V5
+Wire Wire Line
+	20050 4600 20050 4650
+Wire Wire Line
+	20050 4650 20050 4750
+Wire Wire Line
+	20050 4650 20300 4650
+Wire Wire Line
+	20300 4650 20300 4900
+Wire Wire Line
+	20300 4650 20400 4650
+Connection ~ 20050 4650
+Connection ~ 20300 4650
+Text Label 20050 4600 0    10   ~ 0
++7V5
+Wire Wire Line
+	21250 4600 21250 4650
+Wire Wire Line
+	21250 4650 21250 4750
+Wire Wire Line
+	21250 4650 21500 4650
+Wire Wire Line
+	21500 4650 21500 4900
+Wire Wire Line
+	21500 4650 21600 4650
+Connection ~ 21250 4650
+Connection ~ 21500 4650
+Text Label 21250 4600 0    10   ~ 0
++7V5
+Wire Wire Line
+	20050 6100 20050 6150
+Wire Wire Line
+	20050 6150 20050 6250
+Wire Wire Line
+	20050 6150 20300 6150
+Wire Wire Line
+	20300 6150 20300 6400
+Wire Wire Line
+	20300 6150 20400 6150
+Connection ~ 20050 6150
+Connection ~ 20300 6150
+Text Label 20050 6100 0    10   ~ 0
++7V5
+Wire Wire Line
+	22500 4600 22500 4800
+Text Label 22500 4600 0    10   ~ 0
++7V5
+Wire Wire Line
+	21450 1000 21450 850 
+Wire Wire Line
+	21450 850  21250 850 
+Wire Wire Line
+	21250 700  21250 850 
+Connection ~ 21250 850 
+Text Label 21450 1000 0    10   ~ 0
++7V5
+Wire Wire Line
+	22250 1000 22250 850 
+Wire Wire Line
+	22250 850  22000 850 
+Wire Wire Line
+	22000 700  22000 850 
+Connection ~ 22000 850 
+Text Label 22250 1000 0    10   ~ 0
++7V5
+Wire Wire Line
+	22750 800  22750 850 
+Wire Wire Line
+	23000 1000 23000 800 
+Wire Wire Line
+	23000 800  22750 800 
+Wire Wire Line
+	22750 700  22750 800 
+Connection ~ 22750 800 
+Text Label 22750 800  0    10   ~ 0
++7V5
+Text Label 19900 7850 2    40   ~ 0
+RDSON_M2
+Text Label 18950 8000 0    40   ~ 0
+RDSON_M1
+Wire Wire Line
+	13350 14950 13450 14950
+Wire Wire Line
+	13150 14550 13450 14550
+Wire Wire Line
+	13450 14550 13450 14950
+Wire Wire Line
+	13450 14950 13600 14950
+Wire Wire Line
+	13600 14950 13700 14950
+Wire Wire Line
+	13600 14800 13600 14950
+Wire Wire Line
+	13600 15400 13600 14950
+Wire Wire Line
+	19800 8500 19800 8250
+Wire Wire Line
+	19450 12750 20350 12750
+Wire Wire Line
+	20350 12750 20350 12850
+Wire Wire Line
+	13600 15400 19450 15400
+Wire Wire Line
+	19450 15400 19450 12750
+Connection ~ 13450 14950
+Connection ~ 13600 14950
+Connection ~ 19450 12750
+Wire Wire Line
+	20550 12750 20550 12800
+Wire Wire Line
+	20550 12800 20550 12850
+Wire Wire Line
+	22050 11250 22100 11250
+Wire Wire Line
+	22100 11250 22100 8250
+Wire Wire Line
+	22100 8250 21850 8250
+Wire Wire Line
+	22400 8250 22400 8500
+Wire Wire Line
+	20550 12800 22100 12800
+Wire Wire Line
+	22100 12800 22100 11250
+Wire Wire Line
+	21850 8500 21850 8250
+Connection ~ 22100 11250
+Connection ~ 20550 12800
+Wire Wire Line
+	18150 14450 18100 14450
+Wire Wire Line
+	18100 14450 18050 14450
+Wire Wire Line
+	18250 14250 18100 14250
+Wire Wire Line
+	18100 14250 18100 14450
+Connection ~ 18100 14450
+Wire Wire Line
+	18150 13300 18100 13300
+Wire Wire Line
+	18100 13300 18050 13300
+Wire Wire Line
+	18250 13100 18100 13100
+Wire Wire Line
+	18100 13100 18100 13300
+Connection ~ 18100 13300
+Wire Wire Line
+	17250 14450 17150 14450
+Wire Wire Line
+	17150 14450 17150 13900
+Wire Wire Line
+	17150 13900 17050 13900
+Wire Wire Line
+	17150 13900 18100 13900
+Wire Wire Line
+	18100 13900 18150 13900
+Wire Wire Line
+	18250 13700 18100 13700
+Wire Wire Line
+	18100 13700 18100 13900
+Connection ~ 18100 13900
+Connection ~ 17150 13900
+Wire Wire Line
+	17250 13300 17150 13300
+Wire Wire Line
+	17150 13300 17150 12750
+Wire Wire Line
+	17150 12750 18100 12750
+Wire Wire Line
+	18100 12750 18150 12750
+Wire Wire Line
+	18250 12550 18100 12550
+Wire Wire Line
+	18100 12550 18100 12750
+Wire Wire Line
+	17050 12750 17150 12750
+Connection ~ 18100 12750
+Connection ~ 17150 12750
+Wire Wire Line
+	18550 12750 18600 12750
+Wire Wire Line
+	18600 12750 19100 12750
+Wire Wire Line
+	19100 12750 19100 14550
+Wire Wire Line
+	18450 12550 18600 12550
+Wire Wire Line
+	18600 12550 18600 12750
+Wire Wire Line
+	18650 12150 19100 12300
+Wire Wire Line
+	19100 12300 19100 12750
+Connection ~ 18600 12750
+Connection ~ 19100 12750
+Text Label 18650 12150 0    40   ~ 0
+T102-ANS
+Wire Wire Line
+	18550 13300 18600 13300
+Wire Wire Line
+	18600 13300 18950 13300
+Wire Wire Line
+	18950 13300 18950 14750
+Wire Wire Line
+	18450 13100 18600 13100
+Wire Wire Line
+	18600 13100 18600 13300
+Wire Wire Line
+	18550 12250 18950 12400
+Wire Wire Line
+	18950 12400 18950 13300
+Connection ~ 18600 13300
+Connection ~ 18950 13300
+Text Label 18550 12250 0    40   ~ 0
+T101-ANS
+Wire Wire Line
+	18850 11850 19300 12000
+Wire Wire Line
+	19300 12000 19300 13900
+Wire Wire Line
+	18550 13900 18600 13900
+Wire Wire Line
+	18600 13900 18750 13900
+Wire Wire Line
+	18750 13900 18750 14750
+Wire Wire Line
+	18450 13700 18600 13700
+Wire Wire Line
+	18600 13700 18600 13900
+Wire Wire Line
+	19300 13900 18750 13900
+Connection ~ 18600 13900
+Connection ~ 18750 13900
+Text Label 18850 11850 0    40   ~ 0
+T104-ANS
+Wire Wire Line
+	18750 12000 19200 12150
+Wire Wire Line
+	19200 12150 19200 14450
+Wire Wire Line
+	18550 14450 18600 14450
+Wire Wire Line
+	18600 14450 18600 14550
+Wire Wire Line
+	18450 14250 18600 14250
+Wire Wire Line
+	18600 14250 18600 14450
+Wire Wire Line
+	19200 14450 18600 14450
+Connection ~ 18600 14450
+Text Label 18750 12000 0    40   ~ 0
+T103-ANS
+Wire Wire Line
+	16100 14950 16300 14950
+Wire Wire Line
+	16300 14950 16300 14000
+Wire Wire Line
+	16450 14000 16300 14000
+Wire Wire Line
+	15650 13900 15550 13900
+Wire Wire Line
+	15550 13900 15550 13700
+Wire Wire Line
+	15550 13700 15650 13700
+Wire Wire Line
+	16450 12650 15550 12650
+Wire Wire Line
+	15550 12650 15550 13700
+Wire Wire Line
+	15450 12650 15550 12650
+Connection ~ 15550 13700
+Connection ~ 15550 12650
+Wire Wire Line
+	16450 13800 16250 13800
+Wire Wire Line
+	14500 12650 14600 12650
+Wire Wire Line
+	14600 12650 14650 12650
+Wire Wire Line
+	14600 12750 14600 12650
+Connection ~ 14600 12650
+Wire Wire Line
+	14300 12650 14250 12650
+Wire Wire Line
+	14250 12650 14150 12650
+Wire Wire Line
+	14250 12650 14250 12550
+Connection ~ 14250 12650
+Wire Wire Line
+	19150 3250 17500 3250
+Wire Wire Line
+	17500 3250 17500 8500
+Wire Wire Line
+	17500 8500 17450 8500
+Wire Wire Line
+	19150 650  19150 3250
+Text Label 17500 3250 2    40   ~ 0
+IMON
+Wire Wire Line
+	14100 14950 14200 14950
+Wire Wire Line
+	12750 14550 12500 14550
+Wire Wire Line
+	12500 14550 12500 14850
+Wire Wire Line
+	12500 14850 12750 14850
+Wire Wire Line
+	12500 14850 12500 14950
+Wire Wire Line
+	12500 14550 12500 14450
+Connection ~ 12500 14850
+Connection ~ 12500 14550
+Wire Wire Line
+	9200 8550 9450 8550
+Wire Wire Line
+	9450 8550 9450 8600
+Wire Wire Line
+	9450 8550 9700 8550
+Connection ~ 9450 8550
+Wire Wire Line
+	8200 9750 8100 9750
+Wire Wire Line
+	8100 9750 8100 10150
+Wire Wire Line
+	8100 10150 10400 10150
+Wire Wire Line
+	10400 10150 10400 8650
+Wire Wire Line
+	10400 8650 10300 8650
+Wire Wire Line
+	10400 8650 11450 8650
+Connection ~ 10400 8650
+Wire Wire Line
+	12750 12550 12650 12550
+Wire Wire Line
+	12650 12550 12400 12550
+Wire Wire Line
+	12600 12150 12650 12150
+Wire Wire Line
+	12450 11950 12650 11950
+Wire Wire Line
+	12650 11950 12650 12150
+Connection ~ 12650 12150
+Connection ~ 12650 12550
+Wire Wire Line
+	12300 12150 12200 12150
+Wire Wire Line
+	17050 8500 17000 8500
+Wire Wire Line
+	17000 8500 17000 8650
+Wire Wire Line
+	17000 8650 17000 8800
+Wire Wire Line
+	17000 8800 17050 8800
+Wire Wire Line
+	14250 8650 15900 8650
+Wire Wire Line
+	15900 8650 16700 8650
+Wire Wire Line
+	16700 8650 17000 8650
+Wire Wire Line
+	16700 8650 16700 8500
+Wire Wire Line
+	11800 12450 11700 12450
+Wire Wire Line
+	11700 12450 11700 12350
+Wire Wire Line
+	11700 12150 11800 12150
+Wire Wire Line
+	11700 12150 11700 11950
+Wire Wire Line
+	11700 11950 12050 11950
+Wire Wire Line
+	11700 11950 11700 11600
+Wire Wire Line
+	11700 11600 16700 11600
+Wire Wire Line
+	16700 11600 16700 8650
+Wire Wire Line
+	15250 6050 15500 6050
+Wire Wire Line
+	15900 6050 15900 6600
+Wire Wire Line
+	15900 6600 15900 7150
+Wire Wire Line
+	15900 7150 15900 7700
+Wire Wire Line
+	15900 7700 15900 8200
+Wire Wire Line
+	15900 8200 15900 8650
+Wire Wire Line
+	15250 6600 15500 6600
+Wire Wire Line
+	15250 7150 15500 7150
+Wire Wire Line
+	15250 7700 15500 7700
+Wire Wire Line
+	11550 12400 11550 12350
+Wire Wire Line
+	11550 12350 11700 12350
+Connection ~ 16700 8650
+Connection ~ 11700 12150
+Connection ~ 11700 11950
+Connection ~ 17000 8650
+Connection ~ 15900 6600
+Connection ~ 15900 7150
+Connection ~ 15900 7700
+Connection ~ 15900 8200
+Connection ~ 15900 8650
+Connection ~ 11700 12350
+Wire Wire Line
+	16700 8100 16700 4650
+Wire Wire Line
+	16700 4650 15050 4650
+Wire Wire Line
+	15050 4650 14950 4650
+Wire Wire Line
+	15050 4650 15050 4300
+Wire Wire Line
+	15050 4300 14750 4300
+Wire Wire Line
+	15050 4300 15050 4050
+Wire Wire Line
+	15050 4050 14800 4050
+Connection ~ 15050 4650
+Connection ~ 15050 4300
+Wire Wire Line
+	14350 4550 14250 4550
+Wire Wire Line
+	14250 4550 14000 4550
+Wire Wire Line
+	14250 4550 14250 4300
+Wire Wire Line
+	14250 4300 14450 4300
+Wire Wire Line
+	14400 4050 14250 4050
+Wire Wire Line
+	14250 4050 14250 4300
+Connection ~ 14250 4550
+Connection ~ 14250 4300
+Wire Wire Line
+	13500 4550 13600 4550
+Wire Wire Line
+	17850 650  17850 7750
+Wire Wire Line
+	8200 9650 7950 9650
+Wire Wire Line
+	7950 9650 7950 11100
+Wire Wire Line
+	7950 11100 11200 11100
+Wire Wire Line
+	11200 11100 15150 11100
+Wire Wire Line
+	12500 13800 12500 14050
+Wire Wire Line
+	11200 13800 12500 13800
+Wire Wire Line
+	11200 11100 11200 13800
+Wire Wire Line
+	12850 3000 12850 2900
+Wire Wire Line
+	12850 2900 11150 2900
+Wire Wire Line
+	11150 2900 11150 3550
+Wire Wire Line
+	11150 3550 11250 3550
+Wire Wire Line
+	10000 3550 11150 3550
+Wire Wire Line
+	10000 5000 10000 3550
+Wire Wire Line
+	10000 5000 9250 5000
+Connection ~ 11200 11100
+Connection ~ 15150 11100
+Text Label 17850 3550 2    40   ~ 0
+UN
+Connection ~ 11150 3550
+Wire Wire Line
+	18450 650  18450 2600
+Wire Wire Line
+	18450 2600 17100 2600
+Wire Wire Line
+	16750 2600 16500 2600
+Wire Wire Line
+	16500 2600 16350 2600
+Wire Wire Line
+	16750 3000 16750 2600
+Wire Wire Line
+	16500 2500 16500 2600
+Wire Wire Line
+	16500 2600 16500 2800
+Connection ~ 16500 2600
+Connection ~ 16750 2600
+Text Label 18450 2600 2    40   ~ 0
+SD
+Text Label 16500 2800 3    70   ~ 0
+SD
+Wire Wire Line
+	9950 5350 9850 5350
+Wire Wire Line
+	9700 5350 9850 5350
+Wire Wire Line
+	9850 5350 9850 5550
+Text Label 9700 5350 2    40   ~ 0
+SD
+Connection ~ 9850 5350
+Text Label 6700 1750 0    40   ~ 0
+SD
+Wire Wire Line
+	15650 2600 15750 2600
+Wire Wire Line
+	15750 2600 15850 2600
+Wire Wire Line
+	15850 2600 15950 2600
+Wire Wire Line
+	15500 2200 15750 2200
+Wire Wire Line
+	15750 2200 15750 2600
+Wire Wire Line
+	15850 2450 15850 2600
+Connection ~ 15750 2600
+Connection ~ 15850 2600
+Wire Wire Line
+	14850 2500 14950 2500
+Wire Wire Line
+	14950 2500 15050 2500
+Wire Wire Line
+	14950 2500 14950 2200
+Wire Wire Line
+	14950 2200 15100 2200
+Connection ~ 14950 2500
+Wire Wire Line
+	14600 2850 14700 2850
+Wire Wire Line
+	14700 2850 14700 2950
+Wire Wire Line
+	14700 2850 14950 2850
+Wire Wire Line
+	14950 2850 14950 2900
+Wire Wire Line
+	15050 2700 14950 2700
+Wire Wire Line
+	14950 2700 14950 2850
+Connection ~ 14700 2850
+Connection ~ 14950 2850
+Wire Wire Line
+	12350 3250 12550 3250
+Wire Wire Line
+	12550 3250 12550 3650
+Wire Wire Line
+	12550 3650 12450 3650
+Wire Wire Line
+	12550 3650 12850 3650
+Wire Wire Line
+	12850 3650 12850 3400
+Wire Wire Line
+	13200 4550 12850 4550
+Wire Wire Line
+	12850 4550 12850 3650
+Connection ~ 12850 3650
+Connection ~ 12550 3650
+Wire Wire Line
+	11850 3550 11750 3550
+Wire Wire Line
+	11750 3550 11650 3550
+Wire Wire Line
+	11750 3550 11750 3250
+Wire Wire Line
+	11750 3250 11950 3250
+Connection ~ 11750 3550
+Wire Wire Line
+	14450 2500 13350 2500
+Wire Wire Line
+	13350 2500 13350 3450
+Wire Wire Line
+	13350 2500 13150 2500
+Wire Wire Line
+	13150 3200 13150 3400
+Wire Wire Line
+	12950 3200 13150 3200
+Wire Wire Line
+	13150 3200 13150 2500
+Wire Wire Line
+	13150 2500 11950 2500
+Connection ~ 13350 2500
+Connection ~ 13150 2500
+Connection ~ 13150 3200
+Wire Wire Line
+	16300 12850 16450 12850
+Wire Wire Line
+	16300 13250 16300 12850
+Wire Wire Line
+	15000 14950 15150 14950
+Wire Wire Line
+	15150 14950 15300 14950
+Wire Wire Line
+	15150 14950 15150 14350
+Wire Wire Line
+	15150 14350 15150 13900
+Wire Wire Line
+	15150 13900 15150 13250
+Wire Wire Line
+	15150 13250 16300 13250
+Wire Wire Line
+	15150 13900 13250 13900
+Wire Wire Line
+	13250 13900 13250 13800
+Wire Wire Line
+	15150 14350 15350 14350
+Connection ~ 15150 14950
+Connection ~ 15150 13900
+Text Label 15350 14350 0    70   ~ 0
+ZC
+Connection ~ 15150 14350
+Text Label 6800 4850 0    40   ~ 0
+ZC
+Wire Wire Line
+	6550 4450 6800 4450
+Text Label 6800 4450 0    40   ~ 0
+ZC
+Wire Wire Line
+	13250 13500 13250 13400
+Wire Wire Line
+	13550 12550 13250 12550
+Wire Wire Line
+	13250 12550 13150 12550
+Wire Wire Line
+	13250 13000 13250 12900
+Wire Wire Line
+	13250 12900 13250 12550
+Wire Wire Line
+	13250 12900 12200 12900
+Wire Wire Line
+	12200 12900 12200 14050
+Connection ~ 13250 12550
+Connection ~ 13250 12900
+Wire Wire Line
+	10300 15950 10700 15950
+Wire Wire Line
+	10700 15950 10700 16050
+Wire Wire Line
+	10700 15950 10700 15550
+Wire Wire Line
+	10400 16250 10700 15950
+Connection ~ 10700 15950
+Wire Wire Line
+	10700 15250 10700 14850
+Wire Wire Line
+	11100 14850 11200 14850
+Wire Wire Line
+	11200 14850 11300 14850
+Wire Wire Line
+	11200 14850 11200 14550
+Wire Wire Line
+	11200 14550 11350 14550
+Connection ~ 11200 14850
+Wire Wire Line
+	11100 15050 11300 15050
+Wire Wire Line
+	11750 14550 12000 14550
+Wire Wire Line
+	12000 14550 12000 14950
+Wire Wire Line
+	12000 14950 11900 14950
+Wire Wire Line
+	12000 14950 12200 14950
+Wire Wire Line
+	12200 14950 12200 14450
+Connection ~ 12000 14950
+Wire Wire Line
+	1900 3500 1900 3450
+Text Label 1900 3500 0    10   ~ 0
++5V
+Wire Wire Line
+	15850 2000 15850 2050
+Text Label 15850 2000 0    10   ~ 0
++5V
+Wire Wire Line
+	20650 3100 20650 3200
+Wire Wire Line
+	20650 3100 20900 3100
+Wire Wire Line
+	20900 3100 20900 3300
+Connection ~ 20650 3100
+Text Label 20650 3050 0    10   ~ 0
++5V
+Wire Wire Line
+	21250 3000 21250 3200
+Text Label 21250 3000 0    10   ~ 0
++5V
+Wire Wire Line
+	14250 12100 14250 12150
+Text Label 14250 12100 0    10   ~ 0
++5V
+Wire Wire Line
+	14200 2850 14050 2850
+Wire Wire Line
+	14050 2850 14050 2800
+Text Label 14200 2850 0    10   ~ 0
++5V
+Wire Wire Line
+	1850 1350 1850 1550
+Text Label 1850 1350 0    40   ~ 0
++5V
+Wire Wire Line
+	2800 3350 3000 3350
+Wire Wire Line
+	2800 3050 2800 3350
+Wire Wire Line
+	2800 3050 2900 3050
+Wire Wire Line
+	2900 3050 2900 1850
+Wire Wire Line
+	2900 1850 4250 1850
+Wire Wire Line
+	4250 1850 4450 1850
+Wire Wire Line
+	4450 1650 4250 1650
+Wire Wire Line
+	4250 1650 4250 1750
+Wire Wire Line
+	4250 1750 4250 1850
+Wire Wire Line
+	4450 1750 4250 1750
+Connection ~ 2800 3050
+Connection ~ 2800 3350
+Connection ~ 4250 1850
+Connection ~ 4250 1750
+Connection ~ 2900 3050
+Text Label 2800 3350 0    10   ~ 0
++5V
+Wire Wire Line
+	9150 3650 8750 3650
+Wire Wire Line
+	8750 3650 8750 3200
+Text Label 9150 3650 0    10   ~ 0
++5V
+Wire Wire Line
+	18250 5450 18250 2350
+Wire Wire Line
+	18250 2350 18250 650 
+Wire Wire Line
+	18250 2350 20400 2350
+Connection ~ 18250 2350
+Text Label 18250 5450 0    10   ~ 0
++5V
+Wire Wire Line
+	6900 13100 6900 13550
+Wire Wire Line
+	6900 13550 6900 13700
+Wire Wire Line
+	6850 13550 6900 13550
+Connection ~ 6900 13550
+Text Label 6900 13100 0    10   ~ 0
++5V
+Wire Wire Line
+	14800 16550 14700 16550
+Wire Wire Line
+	14700 16550 14700 16750
+Wire Wire Line
+	14800 16750 14700 16750
+Wire Wire Line
+	14700 16550 14700 16250
+Connection ~ 14700 16550
+Text Label 14800 16550 0    10   ~ 0
++5V
+Wire Wire Line
+	10250 4800 10250 4700
+Text Label 10250 4800 0    10   ~ 0
++5V
+Wire Wire Line
+	2050 6250 2050 6450
+Wire Wire Line
+	2050 6450 2050 6650
+Connection ~ 2050 6450
+Text Label 2050 6250 0    10   ~ 0
++5V
+Wire Wire Line
+	2800 5500 2800 5400
+Wire Wire Line
+	2800 5400 2700 5400
+Wire Wire Line
+	2700 5400 2600 5400
+Wire Wire Line
+	2600 5400 2600 5500
+Connection ~ 2700 5400
+Text Label 2800 5500 0    10   ~ 0
++5V
+Wire Wire Line
+	2050 9850 2050 10000
+Text Label 2050 9850 0    10   ~ 0
++5V
+Wire Wire Line
+	4250 6900 4250 7550
+Wire Wire Line
+	4250 7550 4400 7550
+Wire Wire Line
+	4250 7550 4250 7650
+Wire Wire Line
+	4250 7650 4250 8300
+Wire Wire Line
+	4250 8300 4250 8400
+Wire Wire Line
+	4250 8400 4250 9700
+Wire Wire Line
+	4250 9700 4250 9800
+Wire Wire Line
+	4250 9800 4250 11150
+Wire Wire Line
+	4250 11150 4250 11250
+Wire Wire Line
+	4250 11250 4250 11900
+Wire Wire Line
+	4250 11900 4250 12000
+Wire Wire Line
+	4250 12000 4400 12000
+Wire Wire Line
+	4400 11900 4250 11900
+Wire Wire Line
+	4400 11250 4250 11250
+Wire Wire Line
+	4400 11150 4250 11150
+Wire Wire Line
+	4400 9800 4250 9800
+Wire Wire Line
+	4400 9700 4250 9700
+Wire Wire Line
+	4400 8400 4250 8400
+Wire Wire Line
+	4400 8300 4250 8300
+Wire Wire Line
+	4400 7650 4250 7650
+Connection ~ 4250 7550
+Connection ~ 4250 7650
+Connection ~ 4250 8300
+Connection ~ 4250 8400
+Connection ~ 4250 9700
+Connection ~ 4250 9800
+Connection ~ 4250 11150
+Connection ~ 4250 11250
+Connection ~ 4250 11900
+Text Label 4250 6900 0    10   ~ 0
++5V
+Wire Wire Line
+	9150 3350 8600 3350
+Text Label 8600 3350 2    40   ~ 0
+RESET
+Wire Wire Line
+	2550 2150 2750 2150
+Wire Wire Line
+	2750 2150 4450 2150
+Wire Wire Line
+	2750 2150 2750 1600
+Wire Wire Line
+	2750 1600 3050 1600
+Connection ~ 2750 2150
+Text Label 3050 1600 0    70   ~ 0
+RESET
+Wire Wire Line
+	8550 14850 8650 14850
+Wire Wire Line
+	8650 14850 8650 14950
+Wire Wire Line
+	8650 14850 8750 14850
+Connection ~ 8650 14850
+Text Label 8750 14850 0    70   ~ 0
+RXD
+Text Label 6800 5050 0    40   ~ 0
+RXD
+Wire Wire Line
+	5400 15950 5400 15750
+Wire Wire Line
+	5400 15750 5050 15750
+Connection ~ 5050 15750
+Wire Wire Line
+	5050 16450 5050 16750
+Wire Wire Line
+	5700 16750 5900 16750
+Wire Wire Line
+	6300 16650 6300 16750
+Wire Wire Line
+	6300 16750 6100 16750
+Wire Wire Line
+	6100 16750 5900 16750
+Wire Wire Line
+	5700 16750 5050 16750
+Wire Wire Line
+	6100 16750 6100 16650
+Wire Wire Line
+	5900 16750 5900 16650
+Wire Wire Line
+	5700 16750 5700 16650
+Connection ~ 5700 16750
+Connection ~ 5900 16750
+Connection ~ 6100 16750
+Text Label 5050 16450 0    10   ~ 0
+GND2
+Wire Wire Line
+	5650 13350 5650 13600
+Wire Wire Line
+	5650 13600 5650 13850
+Wire Wire Line
+	5650 13850 5650 14100
+Wire Wire Line
+	5650 14100 5500 14100
+Connection ~ 5650 13600
+Connection ~ 5650 13850
+Connection ~ 5650 14100
+Text Label 5650 13350 0    10   ~ 0
+GND2
+Wire Wire Line
+	7650 15050 7650 14850
+Wire Wire Line
+	7650 14850 8150 14850
+Wire Wire Line
+	7600 15050 7650 15050
+Wire Wire Line
+	17750 650  17750 1850
+Text Label 17750 1850 3    40   ~ 0
+REL1
+Wire Wire Line
+	9150 3550 8000 3550
+Wire Wire Line
+	8000 3550 8000 2550
+Wire Wire Line
+	6550 2550 8000 2550
+Wire Wire Line
+	16500 2300 16500 2200
+Wire Wire Line
+	16500 2200 16750 2200
+Wire Wire Line
+	16500 2100 16500 2200
+Text Label 16750 2200 0    70   ~ 0
+OFFSD
+Connection ~ 16500 2200
+Wire Wire Line
+	8100 2650 8100 3750
+Wire Wire Line
+	8100 3750 9150 3750
+Wire Wire Line
+	16150 2950 16150 2850
+Wire Wire Line
+	16150 2850 16150 2700
+Wire Wire Line
+	16150 2850 16100 2850
+Connection ~ 16150 2850
+Text Label 16100 2850 2    70   ~ 0
+FBOFF
+Wire Wire Line
+	8200 2750 8200 3450
+Wire Wire Line
+	8200 3450 9150 3450
+Text Label 8800 16150 0    70   ~ 0
+TXD
+Text Label 6800 4950 0    40   ~ 0
+TXD
+Wire Wire Line
+	1700 4000 1900 4000
+Wire Wire Line
+	1900 3900 1900 4000
+Wire Wire Line
+	1900 4000 1900 4100
+Wire Wire Line
+	1700 4150 1700 4000
+Wire Wire Line
+	1900 4000 2100 4000
+Connection ~ 1900 4000
+Text Label 2100 4000 0    70   ~ 0
+TEMP
+Text Label 6950 2150 0    40   ~ 0
+TEMP
+Wire Wire Line
+	5400 15050 5400 15250
+Wire Wire Line
+	5050 15250 5050 15050
+Wire Wire Line
+	5400 15250 5050 15250
+Wire Wire Line
+	5350 15400 5350 15300
+Wire Wire Line
+	5350 15300 5400 15250
+Wire Wire Line
+	5050 15250 4900 15250
+Connection ~ 5400 15250
+Connection ~ 5050 15250
+Wire Wire Line
+	6100 14450 6100 14550
+Wire Wire Line
+	5950 13350 5950 13600
+Wire Wire Line
+	5950 13600 5950 13850
+Wire Wire Line
+	5950 13850 5950 14100
+Wire Wire Line
+	5950 14100 5950 14450
+Wire Wire Line
+	5950 14450 6100 14450
+Wire Wire Line
+	5950 14450 5900 14450
+Wire Wire Line
+	5900 14450 5900 14550
+Wire Wire Line
+	5900 14450 5050 14450
+Wire Wire Line
+	5050 14450 5050 14650
+Connection ~ 5950 13600
+Connection ~ 5950 13850
+Connection ~ 5950 14100
+Connection ~ 5950 14450
+Connection ~ 5900 14450
+Wire Wire Line
+	11050 1250 11050 1350
+Wire Wire Line
+	10950 1250 11050 1250
+Wire Wire Line
+	11500 1250 11250 1250
+Wire Wire Line
+	11250 1250 11050 1250
+Wire Wire Line
+	11250 1400 11250 1250
+Wire Wire Line
+	10950 1250 10500 1250
+Wire Wire Line
+	10500 1250 10500 2350
+Connection ~ 10950 1250
+Connection ~ 11250 1250
+Connection ~ 11050 1250
+Wire Wire Line
+	9950 2500 10900 2500
+Wire Wire Line
+	10900 2500 11550 2500
+Wire Wire Line
+	9950 2500 9950 2250
+Wire Wire Line
+	9950 2250 6550 2250
+Connection ~ 10900 2500
+Wire Wire Line
+	19450 650  19450 2550
+Text Label 19450 2550 3    40   ~ 0
+REL2
+Text Label 7300 1650 0    40   ~ 0
+REL2
+Wire Wire Line
+	17950 650  17950 1650
+Wire Wire Line
+	17950 1650 17000 1650
+Wire Wire Line
+	17000 1650 17000 800 
+Wire Wire Line
+	17000 800  12150 800 
+Wire Wire Line
+	12150 800  12150 1250
+Wire Wire Line
+	12150 1250 11900 1250
+Text Label 17000 800  0    40   ~ 0
+DC+
+Wire Wire Line
+	19550 650  19550 2550
+Text Label 19550 2550 3    40   ~ 0
+LED2
+Text Label 5450 6450 2    40   ~ 0
+LED2
+Wire Wire Line
+	7600 15550 7700 15550
+Wire Wire Line
+	7700 15750 7600 15750
+Wire Wire Line
+	3750 4250 3750 4200
+Wire Wire Line
+	3750 4200 3750 4150
+Wire Wire Line
+	3750 4200 3950 4200
+Wire Wire Line
+	3950 4200 3950 2650
+Wire Wire Line
+	4450 2650 3950 2650
+Connection ~ 3750 4200
+Text Label 3950 4200 0    70   ~ 0
+AREF1
+Wire Wire Line
+	11800 4700 11800 4600
+Text Label 11800 4600 1    40   ~ 0
+AREF1
+Wire Wire Line
+	3500 3350 3500 3050
+Wire Wire Line
+	3500 3050 4050 3050
+Wire Wire Line
+	4050 3050 4050 2750
+Wire Wire Line
+	4050 2750 4450 2750
+Connection ~ 3500 3050
+Wire Wire Line
+	3850 2450 4450 2450
+Wire Wire Line
+	3750 2500 3800 2500
+Wire Wire Line
+	3800 2500 3800 2450
+Wire Wire Line
+	3800 2450 3850 2450
+Connection ~ 3850 2450
+Wire Wire Line
+	4450 2350 3150 2350
+Wire Wire Line
+	3150 2350 3050 2350
+Wire Wire Line
+	3050 2350 3050 2450
+Wire Wire Line
+	3150 2500 3150 2350
+Connection ~ 3150 2350
+Wire Wire Line
+	7800 8600 7750 8550
+Wire Wire Line
+	7750 8550 8200 8550
+Text Label 7800 8600 0    10   ~ 0
+D0
+Wire Wire Line
+	6550 3250 7200 3250
+Wire Wire Line
+	7200 3250 7300 3350
+Wire Wire Line
+	7300 3350 7300 3900
+Text Label 7300 3900 0    10   ~ 0
+D0
+Wire Wire Line
+	7800 8700 7750 8650
+Wire Wire Line
+	7750 8650 8200 8650
+Text Label 7800 8700 0    10   ~ 0
+D1
+Wire Wire Line
+	7350 3300 7200 3150
+Wire Wire Line
+	7200 3150 6550 3150
+Text Label 7300 4000 0    10   ~ 0
+D1
+Wire Wire Line
+	7800 8800 7750 8750
+Wire Wire Line
+	7750 8750 8200 8750
+Text Label 7800 8800 0    10   ~ 0
+D2
+Wire Wire Line
+	7100 4000 7150 3950
+Text Label 7100 4000 0    10   ~ 0
+D2
+Wire Wire Line
+	7800 8900 7750 8850
+Wire Wire Line
+	7750 8850 8200 8850
+Text Label 7800 8900 0    10   ~ 0
+D3
+Wire Wire Line
+	7100 3900 7150 3850
+Text Label 7100 3900 0    10   ~ 0
+D3
+Wire Wire Line
+	7800 9000 7750 8950
+Wire Wire Line
+	7750 8950 8200 8950
+Text Label 7800 9000 0    10   ~ 0
+D4
+Wire Wire Line
+	7100 3800 7150 3750
+Text Label 7100 3800 0    10   ~ 0
+D4
+Wire Wire Line
+	7800 9100 7750 9050
+Wire Wire Line
+	7750 9050 8200 9050
+Text Label 7800 9100 0    10   ~ 0
+D5
+Wire Wire Line
+	7100 3700 7150 3650
+Text Label 7100 3700 0    10   ~ 0
+D5
+Wire Wire Line
+	7800 9200 7750 9150
+Wire Wire Line
+	7750 9150 8200 9150
+Text Label 7800 9200 0    10   ~ 0
+D6
+Wire Wire Line
+	7100 3600 7150 3550
+Wire Wire Line
+	7150 3550 6550 3550
+Text Label 7100 3600 0    10   ~ 0
+D6
+Wire Wire Line
+	7800 9300 7750 9250
+Wire Wire Line
+	7750 9250 8200 9250
+Text Label 7800 9300 0    10   ~ 0
+D7
+Wire Wire Line
+	7100 3500 7150 3450
+Wire Wire Line
+	7150 3450 6550 3450
+Text Label 7100 3500 0    10   ~ 0
+D7
+Wire Wire Line
+	9900 15950 9600 15950
+Wire Wire Line
+	9600 16250 9600 15950
+Wire Wire Line
+	9850 1500 10100 1500
+Text Label 9975 1500 0    40   ~ 0
+A_RESERVED
+Wire Wire Line
+	19250 650  19250 2900
+Text Label 19250 2900 1    40   ~ 0
+A_RESERVED
+Wire Wire Line
+	8950 1200 9200 1200
+Text Label 9200 1200 0    40   ~ 0
+A_HVCT
+Wire Wire Line
+	19350 650  19350 2550
+Text Label 19350 2550 3    40   ~ 0
+A_HVCT
+Wire Wire Line
+	8100 900  8400 900 
+Text Label 8400 900  0    40   ~ 0
+A_IBRIDGE
+Wire Wire Line
+	19650 650  19650 2550
+Text Label 19650 2550 3    40   ~ 0
+A_IBRIDGE
+Wire Wire Line
+	6550 4050 6800 4050
+Text Label 6800 4050 0    40   ~ 0
+SDA
+Wire Wire Line
+	2800 6100 2500 6100
+Wire Wire Line
+	2800 5900 2800 6100
+Text Label 2500 6100 2    70   ~ 0
+SDA
+Connection ~ 2800 6100
+Text Label 2550 10950 2    70   ~ 0
+SDA
+Wire Wire Line
+	6550 4150 6800 4150
+Text Label 6800 4150 0    40   ~ 0
+SCL
+Wire Wire Line
+	3100 6300 2600 6300
+Wire Wire Line
+	2600 6300 2500 6300
+Wire Wire Line
+	2600 5900 2600 6300
+Text Label 2500 6300 2    70   ~ 0
+SCL
+Connection ~ 2600 6300
+Text Label 2550 11050 2    70   ~ 0
+SCL
+Wire Wire Line
+	7700 900  7550 900 
+Wire Wire Line
+	7550 900  7200 900 
+Wire Wire Line
+	7200 1850 7200 900 
+Connection ~ 7550 900 
+Wire Wire Line
+	18250 6250 18250 6350
+Text Label 18250 6250 0    10   ~ 0
+GNDA
+Wire Wire Line
+	13150 3900 13150 3850
+Wire Wire Line
+	13150 3850 13150 3800
+Wire Wire Line
+	13150 3850 13350 3850
+Wire Wire Line
+	13350 3850 13350 3750
+Connection ~ 13150 3850
+Text Label 13150 3900 0    10   ~ 0
+GNDA
+Wire Wire Line
+	11850 3750 11750 3750
+Wire Wire Line
+	11750 3750 11750 3850
+Text Label 11850 3750 0    10   ~ 0
+GNDA
+Wire Wire Line
+	3500 3650 3500 3850
+Text Label 3500 3650 0    10   ~ 0
+GNDA
+Wire Wire Line
+	3750 4650 3750 4700
+Wire Wire Line
+	3750 4700 3750 4750
+Wire Wire Line
+	3800 4450 3950 4450
+Wire Wire Line
+	3950 4450 3950 4700
+Wire Wire Line
+	3950 4700 3750 4700
+Connection ~ 3750 4700
+Text Label 3750 4650 0    10   ~ 0
+GNDA
+Wire Wire Line
+	11250 1800 11250 1700
+Wire Wire Line
+	11050 1800 11150 1800
+Wire Wire Line
+	11150 1800 11250 1800
+Wire Wire Line
+	11050 1800 11050 1750
+Wire Wire Line
+	11150 1850 11150 1800
+Connection ~ 11150 1800
+Text Label 11250 1800 0    10   ~ 0
+GNDA
+Wire Wire Line
+	1900 4750 1900 4600
+Wire Wire Line
+	1900 4600 1900 4500
+Wire Wire Line
+	1900 4600 1700 4600
+Wire Wire Line
+	1700 4600 1700 4450
+Connection ~ 1900 4600
+Text Label 1900 4750 0    10   ~ 0
+GNDA
+Wire Wire Line
+	11100 16750 11100 15450
+Text Label 11100 16750 0    10   ~ 0
+GNDA
+Wire Wire Line
+	20700 6950 20800 6950
+Wire Wire Line
+	20800 6950 20800 6550
+Wire Wire Line
+	20800 6550 20800 6150
+Wire Wire Line
+	20800 6150 20700 6150
+Wire Wire Line
+	20900 6550 20800 6550
+Connection ~ 20800 6550
+Text Label 20700 6950 0    10   ~ 0
+GNDA
+Wire Wire Line
+	12500 15250 12500 15350
+Wire Wire Line
+	12750 15050 12650 15050
+Wire Wire Line
+	12650 15050 12650 15350
+Wire Wire Line
+	12650 15350 12500 15350
+Wire Wire Line
+	12500 15350 12500 15450
+Connection ~ 12500 15350
+Text Label 12500 15250 0    10   ~ 0
+GNDA
+Wire Wire Line
+	21900 5450 22000 5450
+Wire Wire Line
+	22000 5450 22000 5050
+Wire Wire Line
+	22000 5050 22000 4650
+Wire Wire Line
+	22000 4650 21900 4650
+Wire Wire Line
+	22100 5050 22000 5050
+Connection ~ 22000 5050
+Text Label 21900 5450 0    10   ~ 0
+GNDA
+Wire Wire Line
+	20700 5450 20800 5450
+Wire Wire Line
+	20800 5450 20800 5050
+Wire Wire Line
+	20800 5050 20800 4650
+Wire Wire Line
+	20800 4650 20700 4650
+Wire Wire Line
+	20900 5050 20800 5050
+Connection ~ 20800 5050
+Text Label 20700 5450 0    10   ~ 0
+GNDA
+Wire Wire Line
+	9700 8750 9600 8750
+Wire Wire Line
+	9600 8750 9600 8850
+Wire Wire Line
+	9300 9850 9300 9750
+Wire Wire Line
+	9300 9750 9200 9750
+Wire Wire Line
+	9300 9750 9300 8850
+Wire Wire Line
+	9300 8850 9300 8750
+Wire Wire Line
+	9300 8750 9200 8750
+Wire Wire Line
+	9600 8850 9450 8850
+Wire Wire Line
+	9450 8850 9300 8850
+Wire Wire Line
+	9450 8800 9450 8850
+Wire Wire Line
+	9450 9050 9450 8850
+Connection ~ 9300 9750
+Connection ~ 9300 8850
+Connection ~ 9450 8850
+Text Label 9700 8750 0    10   ~ 0
+GNDA
+Wire Wire Line
+	11800 12650 11700 12650
+Wire Wire Line
+	11700 12650 11700 12850
+Wire Wire Line
+	11700 12850 11700 12950
+Wire Wire Line
+	11550 12800 11550 12850
+Wire Wire Line
+	11550 12850 11700 12850
+Connection ~ 11700 12850
+Text Label 11800 12650 0    10   ~ 0
+GNDA
+Wire Wire Line
+	13450 12850 13450 12750
+Wire Wire Line
+	13450 12750 13550 12750
+Text Label 13450 12850 0    10   ~ 0
+GNDA
+Wire Wire Line
+	14350 4750 14200 4750
+Wire Wire Line
+	14200 4750 14200 4850
+Text Label 14350 4750 0    10   ~ 0
+GNDA
+Wire Wire Line
+	8550 1200 8400 1200
+Wire Wire Line
+	8400 1200 8050 1200
+Wire Wire Line
+	8050 1200 8050 1950
+Wire Wire Line
+	8050 1950 6550 1950
+Connection ~ 8400 1200
+Wire Wire Line
+	9450 1500 9300 1500
+Wire Wire Line
+	6550 2050 8950 2050
+Wire Wire Line
+	8950 2050 8950 1500
+Wire Wire Line
+	8950 1500 9300 1500
+Connection ~ 9300 1500
+Wire Wire Line
+	5250 15400 5250 15350
+Wire Wire Line
+	5250 15350 5050 15350
+Wire Wire Line
+	23000 3000 23000 3050
+Wire Wire Line
+	23000 3050 23000 3150
+Wire Wire Line
+	22700 3050 23000 3050
+Connection ~ 23000 3050
+Text Label 23000 3000 0    10   ~ 0
+4V5
+Wire Wire Line
+	10850 1050 10850 1000
+Text Label 10850 1050 0    10   ~ 0
+4V5
+Text Label 10800 2350 0    10   ~ 0
+4V5
+Wire Wire Line
+	22700 3650 23000 3650
+Wire Wire Line
+	23000 3650 23000 3550
+Wire Wire Line
+	23000 3650 23000 3700
+Connection ~ 23000 3650
+Text Label 22700 3650 2    70   ~ 0
+0V5
+Wire Wire Line
+	10850 1450 10850 1550
+Text Label 10850 1550 3    70   ~ 0
+0V5
+Wire Wire Line
+	10800 2700 10800 2900
+Text Label 10800 2900 3    70   ~ 0
+0V5
+Wire Wire Line
+	7250 14450 6900 14450
+Wire Wire Line
+	6900 14450 6900 14300
+Wire Wire Line
+	7250 13400 7250 13650
+Wire Wire Line
+	7250 13650 7250 13900
+Wire Wire Line
+	7250 13900 7250 14150
+Wire Wire Line
+	7350 13400 7250 13400
+Wire Wire Line
+	7350 14150 7250 14150
+Wire Wire Line
+	7250 14150 7250 14450
+Wire Wire Line
+	7350 13650 7250 13650
+Wire Wire Line
+	7350 13900 7250 13900
+Wire Wire Line
+	6700 14550 6700 14450
+Wire Wire Line
+	6700 14450 6900 14450
+Wire Wire Line
+	6900 14550 6900 14450
+Connection ~ 6900 14450
+Connection ~ 7250 13900
+Connection ~ 7250 13650
+Connection ~ 7250 14150
+Wire Wire Line
+	5300 7250 6300 7250
+Wire Wire Line
+	6300 7250 6400 7250
+Wire Wire Line
+	6300 12300 6300 7250
+Text Label 6400 7250 0    70   ~ 0
+KAP0
+Connection ~ 6300 7250
+Text Label 12600 10800 3    70   ~ 0
+KAP1
+Wire Wire Line
+	5300 7650 6200 7650
+Wire Wire Line
+	6200 7650 6400 7650
+Wire Wire Line
+	6200 12300 6200 7650
+Text Label 6400 7650 0    70   ~ 0
+KAP1
+Connection ~ 6200 7650
+Text Label 13250 10800 3    70   ~ 0
+KAP2
+Wire Wire Line
+	5300 8000 6100 8000
+Wire Wire Line
+	6100 8000 6400 8000
+Wire Wire Line
+	6100 12300 6100 8000
+Text Label 6400 8000 0    70   ~ 0
+KAP2
+Connection ~ 6100 8000
+Text Label 13850 10800 3    70   ~ 0
+KAP3
+Wire Wire Line
+	5300 8400 6000 8400
+Wire Wire Line
+	6000 8400 6400 8400
+Wire Wire Line
+	6000 12300 6000 8400
+Text Label 6400 8400 0    70   ~ 0
+KAP3
+Connection ~ 6000 8400
+Text Label 14450 10800 3    70   ~ 0
+KAP4
+Wire Wire Line
+	5300 9400 5900 9400
+Wire Wire Line
+	5900 9400 6400 9400
+Wire Wire Line
+	5900 12300 5900 9400
+Text Label 6400 9400 0    70   ~ 0
+KAP4
+Connection ~ 5900 9400
+Wire Wire Line
+	13650 5850 13450 5850
+Text Label 13450 5850 2    70   ~ 0
+IND0
+Wire Wire Line
+	5300 9800 5800 9800
+Wire Wire Line
+	5800 9800 6400 9800
+Wire Wire Line
+	5800 12300 5800 9800
+Text Label 6400 9800 0    70   ~ 0
+IND0
+Connection ~ 5800 9800
+Wire Wire Line
+	13650 6400 13450 6400
+Text Label 13450 6400 2    70   ~ 0
+IND1
+Wire Wire Line
+	5300 10850 5700 10850
+Wire Wire Line
+	5700 10850 6400 10850
+Wire Wire Line
+	5700 12300 5700 10850
+Text Label 6400 10850 0    70   ~ 0
+IND1
+Connection ~ 5700 10850
+Wire Wire Line
+	13650 6950 13500 6950
+Text Label 13500 6950 2    70   ~ 0
+IND2
+Wire Wire Line
+	5300 11250 5600 11250
+Wire Wire Line
+	5600 11250 6400 11250
+Wire Wire Line
+	5600 12300 5600 11250
+Text Label 6400 11250 0    70   ~ 0
+IND2
+Connection ~ 5600 11250
+Wire Wire Line
+	13650 7500 13500 7500
+Wire Wire Line
+	5300 11600 5500 11600
+Wire Wire Line
+	5500 11600 6400 11600
+Wire Wire Line
+	5500 12300 5500 11600
+Text Label 6400 11600 0    70   ~ 0
+IND3
+Connection ~ 5500 11600
+Wire Wire Line
+	13650 8000 13450 8000
+Text Label 13450 8000 2    70   ~ 0
+IND4
+Wire Wire Line
+	5300 12000 5400 12000
+Wire Wire Line
+	5400 12000 6400 12000
+Wire Wire Line
+	5400 12300 5400 12000
+Text Label 6400 12000 0    70   ~ 0
+IND4
+Connection ~ 5400 12000
+Wire Wire Line
+	11850 8650 12750 8650
+Wire Wire Line
+	13650 6050 12750 6050
+Wire Wire Line
+	12750 6050 12750 6600
+Wire Wire Line
+	12750 6600 12750 7150
+Wire Wire Line
+	12750 7150 12750 7700
+Wire Wire Line
+	12750 7700 12750 8200
+Wire Wire Line
+	12750 8200 12750 8650
+Wire Wire Line
+	13650 6600 12750 6600
+Wire Wire Line
+	13650 7150 12750 7150
+Wire Wire Line
+	13650 7700 12750 7700
+Wire Wire Line
+	13650 8200 12750 8200
+Wire Wire Line
+	13850 8650 12750 8650
+Wire Wire Line
+	13050 8950 13050 9200
+Wire Wire Line
+	11700 9200 11700 8950
+Wire Wire Line
+	11700 8950 12400 8950
+Wire Wire Line
+	12400 8950 12750 8950
+Wire Wire Line
+	14250 9200 14250 8950
+Wire Wire Line
+	14250 8950 13650 8950
+Wire Wire Line
+	13650 8950 13050 8950
+Wire Wire Line
+	13650 9200 13650 8950
+Wire Wire Line
+	12400 9200 12400 8950
+Connection ~ 12750 8200
+Connection ~ 12750 7700
+Connection ~ 12750 7150
+Connection ~ 12750 6600
+Connection ~ 12400 8950
+Connection ~ 13050 8950
+Connection ~ 13650 8950
+Connection ~ 12750 8650
+Wire Wire Line
+	14250 10350 14250 10200
+Wire Wire Line
+	13050 10350 13050 10200
+Wire Wire Line
+	12400 10350 12400 10200
+Wire Wire Line
+	11700 10350 11700 10200
+Wire Wire Line
+	14650 6050 14750 6050
+Wire Wire Line
+	14650 6600 14750 6600
+Wire Wire Line
+	14650 7150 14750 7150
+Wire Wire Line
+	14650 7700 14800 7700
+Wire Wire Line
+	10350 5350 10250 5350
+Wire Wire Line
+	10250 5350 10150 5350
+Wire Wire Line
+	10250 5200 10250 5350
+Connection ~ 10250 5350
+Wire Wire Line
+	12150 5450 12050 5450
+Wire Wire Line
+	12050 5450 10950 5450
+Wire Wire Line
+	12050 5600 12050 5450
+Connection ~ 12050 5450
+Wire Wire Line
+	11800 5100 11800 5250
+Wire Wire Line
+	11800 5250 11800 5600
+Wire Wire Line
+	10950 5250 11300 5250
+Wire Wire Line
+	11300 5250 11800 5250
+Wire Wire Line
+	11300 5600 11300 5250
+Connection ~ 11800 5250
+Connection ~ 11300 5250
+Wire Wire Line
+	12550 5450 17700 5450
+Wire Wire Line
+	17700 5450 17700 7100
+Wire Wire Line
+	17700 7100 18200 7100
+Wire Wire Line
+	18200 7100 18200 9650
+Wire Wire Line
+	21650 9500 21650 9650
+Wire Wire Line
+	19100 9650 19100 9500
+Wire Wire Line
+	18200 9650 19100 9650
+Connection ~ 19100 9650
+Wire Wire Line
+	11300 6000 11300 6200
+Wire Wire Line
+	10800 6500 10800 6400
+Wire Wire Line
+	10800 6400 11100 6400
+Wire Wire Line
+	10800 6400 9700 6400
+Text Label 9700 6400 2    50   ~ 0
+LO_THR
+Connection ~ 10800 6400
+Text Label 3400 8250 0    50   ~ 0
+LO_THR
+Wire Wire Line
+	3700 8450 3700 8700
+Wire Wire Line
+	3350 8650 3350 8700
+Wire Wire Line
+	3300 11050 3250 11050
+Wire Wire Line
+	3300 11250 3200 11250
+Wire Wire Line
+	3300 11450 3150 11450
+Wire Wire Line
+	3750 8050 4000 8050
+Wire Wire Line
+	4000 8050 4000 9400
+Wire Wire Line
+	4000 9400 4400 9400
+Wire Wire Line
+	4400 9500 4000 9500
+Wire Wire Line
+	4000 9500 4000 10850
+Wire Wire Line
+	4000 10850 3700 10850
+Wire Wire Line
+	3750 7250 4400 7250
+Wire Wire Line
+	3750 7450 3950 7450
+Wire Wire Line
+	3950 7450 3950 7350
+Wire Wire Line
+	3950 7350 4400 7350
+Wire Wire Line
+	3750 7650 4100 7650
+Wire Wire Line
+	4100 7650 4100 8000
+Wire Wire Line
+	4100 8000 4400 8000
+Wire Wire Line
+	4400 8100 4050 8100
+Wire Wire Line
+	4050 8100 4050 7850
+Wire Wire Line
+	4050 7850 3750 7850
+Wire Wire Line
+	4400 11600 3850 11600
+Wire Wire Line
+	3700 11450 3850 11450
+Wire Wire Line
+	3850 11450 3850 11600
+Wire Wire Line
+	4400 11700 3800 11700
+Wire Wire Line
+	3800 11700 3800 11650
+Wire Wire Line
+	3800 11650 3700 11650
+Wire Wire Line
+	3700 11250 4100 11250
+Wire Wire Line
+	4100 11250 4100 10950
+Wire Wire Line
+	4100 10950 4400 10950
+Wire Wire Line
+	4400 10850 4050 10850
+Wire Wire Line
+	4050 10850 4050 11050
+Wire Wire Line
+	4050 11050 3700 11050
+Entry Wire Line
+	7700 8500 7800 8600
+Entry Wire Line
+	7700 8600 7800 8700
+Entry Wire Line
+	7700 8700 7800 8800
+Entry Wire Line
+	7700 8800 7800 8900
+Entry Wire Line
+	7700 8900 7800 9000
+Entry Wire Line
+	7700 9000 7800 9100
+Entry Wire Line
+	7700 9100 7800 9200
+Entry Wire Line
+	7700 9200 7800 9300
+Entry Wire Line
+	7200 4000 7300 3900
+Entry Wire Line
+	7200 4100 7300 4000
+Entry Wire Line
+	7100 4000 7200 3900
+Entry Wire Line
+	7100 3900 7200 3800
+Entry Wire Line
+	7100 3800 7200 3700
+Entry Wire Line
+	7100 3700 7200 3600
+Entry Wire Line
+	7100 3600 7200 3500
+Entry Wire Line
+	7100 3500 7200 3400
+$Comp
+L ST25.004-rescue:MX7524JN-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC211
+U 1 1 F7CBDCB6
+P 8700 9150
+F 0 "IC211" H 8400 10000 59  0000 L BNN
+F 1 "MX7524LCSE" H 8400 9900 59  0000 L BNN
+F 2 "ST24.022:SO16" H 8700 9150 50  0001 C CNN
+F 3 "" H 8700 9150 50  0001 C CNN
+	1    8700 9150
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND02
+U 1 1 4877C9E2
+P 7900 9400
+F 0 "#GND02" H 7900 9400 50  0001 C CNN
+F 1 "GND" H 7800 9300 50  0001 L BNN
+F 2 "" H 7900 9400 50  0001 C CNN
+F 3 "" H 7900 9400 50  0001 C CNN
+	1    7900 9400
+	0    1    -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND03
+U 1 1 86893BD2
+P 9300 9950
+F 0 "#GND03" H 9300 9950 50  0001 C CNN
+F 1 "AGND" V 9400 9900 59  0000 R TNN
+F 2 "" H 9300 9950 50  0001 C CNN
+F 3 "" H 9300 9950 50  0001 C CNN
+	1    9300 9950
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC210
+U 1 1 9ACC714C
+P 22500 9000
+F 0 "IC210" H 22450 8850 59  0000 L BNN
+F 1 "HEF4066BT" H 22200 8700 59  0001 L BNN
+F 2 "ST24.022:SO14" H 22500 9000 50  0001 C CNN
+F 3 "" H 22500 9000 50  0001 C CNN
+	1    22500 9000
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC210
+U 2 1 9ACC7140
+P 19900 9000
+F 0 "IC210" H 19800 8850 59  0000 L BNN
+F 1 "HEF4066BT" H 19600 8700 59  0001 L BNN
+F 2 "ST24.022:SO14" H 19900 9000 50  0001 C CNN
+F 3 "" H 19900 9000 50  0001 C CNN
+	2    19900 9000
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC210
+U 3 1 9ACC7144
+P 20450 13350
+F 0 "IC210" H 20600 13050 59  0000 L BNN
+F 1 "HEF4066BT" H 20150 13050 59  0001 L BNN
+F 2 "ST24.022:SO14" H 20450 13350 50  0001 C CNN
+F 3 "" H 20450 13350 50  0001 C CNN
+	3    20450 13350
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC210
+U 4 1 9ACC7158
+P 21550 11350
+F 0 "IC210" H 21700 11050 59  0000 L BNN
+F 1 "HEF4066BT" H 21250 11050 59  0001 L BNN
+F 2 "ST24.022:SO14" H 21550 11350 50  0001 C CNN
+F 3 "" H 21550 11350 50  0001 C CNN
+	4    21550 11350
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC210
+U 5 1 9ACC715C
+P 20050 3500
+F 0 "IC210" H 19700 3500 59  0000 L BNN
+F 1 "HEF4066BT" H 19750 3200 59  0001 L BNN
+F 2 "ST24.022:SO14" H 20050 3500 50  0001 C CNN
+F 3 "" H 20050 3500 50  0001 C CNN
+	5    20050 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:40106D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC208
+U 1 1 9CCEE116
+P 15700 14950
+F 0 "IC208" H 15800 15150 59  0000 L BNN
+F 1 "HEF40106MO13TRD" H 15800 15050 59  0001 L BNN
+F 2 "ST24.022:SO14" H 15700 14950 50  0001 C CNN
+F 3 "" H 15700 14950 50  0001 C CNN
+	1    15700 14950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:40106D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC208
+U 2 1 9CCEE11A
+P 14600 14950
+F 0 "IC208" H 14700 15150 59  0000 L BNN
+F 1 "HEF40106MO13TRD" H 14650 14700 59  0000 L BNN
+F 2 "ST24.022:SO14" H 14600 14950 50  0001 C CNN
+F 3 "" H 14600 14950 50  0001 C CNN
+	2    14600 14950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:40106D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC208
+U 3 1 9CCEE11E
+P 17650 13300
+F 0 "IC208" H 17750 13500 59  0000 L BNN
+F 1 "HEF40106MO13TRD" H 17750 13400 59  0001 L BNN
+F 2 "ST24.022:SO14" H 17650 13300 50  0001 C CNN
+F 3 "" H 17650 13300 50  0001 C CNN
+	3    17650 13300
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:40106D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC208
+U 4 1 9CCEE102
+P 17650 14450
+F 0 "IC208" H 17750 14650 59  0000 L BNN
+F 1 "HEF40106MO13TRD" H 17750 14550 59  0001 L BNN
+F 2 "ST24.022:SO14" H 17650 14450 50  0001 C CNN
+F 3 "" H 17650 14450 50  0001 C CNN
+	4    17650 14450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:40106D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC208
+U 5 1 9CCEE106
+P 10000 16250
+F 0 "IC208" H 9850 16550 59  0000 L BNN
+F 1 "HEF40106MO13TRD" H 9600 16650 59  0000 L BNN
+F 2 "ST24.022:SO14" H 10000 16250 50  0001 C CNN
+F 3 "" H 10000 16250 50  0001 C CNN
+	5    10000 16250
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:40106D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC208
+U 6 1 9CCEE10A
+P 15050 12650
+F 0 "IC208" H 15150 12850 59  0000 L BNN
+F 1 "HEF40106MO13TRD" H 15150 12750 59  0000 L BNN
+F 2 "ST24.022:SO14" H 15050 12650 50  0001 C CNN
+F 3 "" H 15050 12650 50  0001 C CNN
+	6    15050 12650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:40106D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC208
+U 7 1 9CCEE10E
+P 20650 3500
+F 0 "IC208" V 20600 3350 59  0000 L BNN
+F 1 "HEF40106MO13TRD" H 20750 3300 59  0001 L BNN
+F 2 "ST24.022:SO14" H 20650 3500 50  0001 C CNN
+F 3 "" H 20650 3500 50  0001 C CNN
+	7    20650 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:4093D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC209
+U 1 1 B96CC4A6
+P 16750 12750
+F 0 "IC209" H 16850 12450 59  0000 L BNN
+F 1 "HEF4093BT" H 16850 12550 59  0000 L BNN
+F 2 "ST24.022:SO14" H 16750 12750 50  0001 C CNN
+F 3 "" H 16750 12750 50  0001 C CNN
+	1    16750 12750
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:4093D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC209
+U 2 1 B96CC4AA
+P 15950 13800
+F 0 "IC209" H 16050 14050 59  0000 L BNN
+F 1 "HEF4093BT" H 16050 13950 59  0000 L BNN
+F 2 "ST24.022:SO14" H 15950 13800 50  0001 C CNN
+F 3 "" H 15950 13800 50  0001 C CNN
+	2    15950 13800
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:4093D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC209
+U 3 1 B96CC4AE
+P 16750 13900
+F 0 "IC209" H 16850 13600 59  0000 L BNN
+F 1 "HEF4093BT" H 16850 13700 59  0000 L BNN
+F 2 "ST24.022:SO14" H 16750 13900 50  0001 C CNN
+F 3 "" H 16750 13900 50  0001 C CNN
+	3    16750 13900
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:4093D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC209
+U 5 1 B96CC4B6
+P 21250 3500
+F 0 "IC209" V 21450 3350 59  0000 L BNN
+F 1 "HEF4093BT" H 21350 3300 59  0001 L BNN
+F 2 "ST24.022:SO14" H 21250 3500 50  0001 C CNN
+F 3 "" H 21250 3500 50  0001 C CNN
+	5    21250 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P+02
+U 1 1 637B3A6A
+P 18150 5250
+F 0 "#P+02" H 18150 5250 50  0001 C CNN
+F 1 "+7V5" V 18150 5500 59  0000 R TNN
+F 2 "" H 18150 5250 50  0001 C CNN
+F 3 "" H 18150 5250 50  0001 C CNN
+	1    18150 5250
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:-7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P-01
+U 1 1 D1E0A846
+P 18050 5650
+F 0 "#P-01" H 18050 5650 50  0001 C CNN
+F 1 "-7V5" V 18050 5450 59  0000 L BNN
+F 2 "" H 18050 5650 50  0001 C CNN
+F 3 "" H 18050 5650 50  0001 C CNN
+	1    18050 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:LM339D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC202
+U 1 1 04EE5CD9
+P 20050 5050
+F 0 "IC202" H 19650 5150 59  0000 L BNN
+F 1 "LM2901D" H 19600 4900 59  0000 L BNN
+F 2 "ST24.022:SO14" H 20050 5050 50  0001 C CNN
+F 3 "" H 20050 5050 50  0001 C CNN
+	1    20050 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:LM339D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC202
+U 2 1 04EE5CD5
+P 13850 12650
+F 0 "IC202" H 13800 12450 59  0000 L BNN
+F 1 "LM2901D" H 13750 12350 59  0000 L BNN
+F 2 "ST24.022:SO14" H 13850 12650 50  0001 C CNN
+F 3 "" H 13850 12650 50  0001 C CNN
+	2    13850 12650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:LM339D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC202
+U 3 1 04EE5CD1
+P 13050 14950
+F 0 "IC202" H 13100 15200 59  0000 L BNN
+F 1 "LM2901D" H 13100 15100 59  0000 L BNN
+F 2 "ST24.022:SO14" H 13050 14950 50  0001 C CNN
+F 3 "" H 13050 14950 50  0001 C CNN
+	3    13050 14950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:LM339D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC202
+U 4 1 04EE5CCD
+P 15350 2600
+F 0 "IC202" H 15400 2850 59  0000 L BNN
+F 1 "LM2901D" H 15400 2750 59  0000 L BNN
+F 2 "ST24.022:SO14" H 15350 2600 50  0001 C CNN
+F 3 "" H 15350 2600 50  0001 C CNN
+	4    15350 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:LM339D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC202
+U 5 1 04EE5CC9
+P 10650 5350
+F 0 "IC202" H 10400 5600 59  0000 L BNN
+F 1 "LM2901D" H 10350 5050 59  0000 L BNN
+F 2 "ST24.022:SO14" H 10650 5350 50  0001 C CNN
+F 3 "" H 10650 5350 50  0001 C CNN
+	5    10650 5350
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND04
+U 1 1 12C122FD
+P 18400 6050
+F 0 "#GND04" H 18400 6050 50  0001 C CNN
+F 1 "GND" H 18350 5950 50  0001 L BNN
+F 2 "" H 18400 6050 50  0001 C CNN
+F 3 "" H 18400 6050 50  0001 C CNN
+	1    18400 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND05
+U 1 1 FCF0166A
+P 18250 6450
+F 0 "#GND05" H 18250 6450 50  0001 C CNN
+F 1 "AGND" V 18150 6350 59  0000 L BNN
+F 2 "" H 18250 6450 50  0001 C CNN
+F 3 "" H 18250 6450 50  0001 C CNN
+	1    18250 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:-7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P-04
+U 1 1 3D31ADC8
+P 20550 14050
+F 0 "#P-04" H 20550 14050 50  0001 C CNN
+F 1 "-7V5" V 20600 13950 59  0000 R TNN
+F 2 "" H 20550 14050 50  0001 C CNN
+F 3 "" H 20550 14050 50  0001 C CNN
+	1    20550 14050
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R240
+U 1 1 079DD190
+P 20550 12550
+F 0 "R240" H 20650 12500 59  0000 R TNN
+F 1 "100k" H 20650 12750 59  0000 R TNN
+F 2 "ST24.022:R0805" H 20550 12550 50  0001 C CNN
+F 3 "" H 20550 12550 50  0001 C CNN
+	1    20550 12550
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:+7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P+04
+U 1 1 459FCD94
+P 20550 12150
+F 0 "#P+04" H 20550 12150 50  0001 C CNN
+F 1 "+7V5" V 20450 12250 59  0000 L BNN
+F 2 "" H 20550 12150 50  0001 C CNN
+F 3 "" H 20550 12150 50  0001 C CNN
+	1    20550 12150
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R238
+U 1 1 D361A70A
+P 22950 10350
+F 0 "R238" H 23100 10300 59  0000 R TNN
+F 1 "15k" H 23000 10450 59  0000 R TNN
+F 2 "ST24.022:R0805" H 22950 10350 50  0001 C CNN
+F 3 "" H 22950 10350 50  0001 C CNN
+	1    22950 10350
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R239
+U 1 1 DABD2189
+P 22500 10850
+F 0 "R239" H 22650 10800 59  0000 R TNN
+F 1 "15k" H 22500 11000 59  0000 R TNN
+F 2 "ST24.022:R0805" H 22500 10850 50  0001 C CNN
+F 3 "" H 22500 10850 50  0001 C CNN
+	1    22500 10850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R220
+U 1 1 0AAA779A
+P 17250 8800
+F 0 "R220" H 17500 8750 59  0000 R TNN
+F 1 "3k3" H 17200 8750 59  0000 R TNN
+F 2 "ST24.022:R0805" H 17250 8800 50  0001 C CNN
+F 3 "" H 17250 8800 50  0001 C CNN
+	1    17250 8800
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R237
+U 1 1 4E9E8FC0
+P 18350 14450
+F 0 "R237" H 18300 14500 59  0000 L BNN
+F 1 "18k" H 18500 14400 59  0000 R TNN
+F 2 "ST24.022:R0805" H 18350 14450 50  0001 C CNN
+F 3 "" H 18350 14450 50  0001 C CNN
+	1    18350 14450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R236
+U 1 1 D6043972
+P 18350 13900
+F 0 "R236" H 18300 13950 59  0000 L BNN
+F 1 "18k" H 18500 13850 59  0000 R TNN
+F 2 "ST24.022:R0805" H 18350 13900 50  0001 C CNN
+F 3 "" H 18350 13900 50  0001 C CNN
+	1    18350 13900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R235
+U 1 1 D268293C
+P 18350 13300
+F 0 "R235" H 18300 13350 59  0000 L BNN
+F 1 "18k" H 18500 13250 59  0000 R TNN
+F 2 "ST24.022:R0805" H 18350 13300 50  0001 C CNN
+F 3 "" H 18350 13300 50  0001 C CNN
+	1    18350 13300
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R234
+U 1 1 4D2378BB
+P 18350 12750
+F 0 "R234" H 18300 12800 59  0000 L BNN
+F 1 "18k" H 18500 12700 59  0000 R TNN
+F 2 "ST24.022:R0805" H 18350 12750 50  0001 C CNN
+F 3 "" H 18350 12750 50  0001 C CNN
+	1    18350 12750
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:PMLL4150-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue D217
+U 1 1 E6E16704
+P 18350 14250
+F 0 "D217" H 18550 14100 59  0000 L BNN
+F 1 "LL4148" H 18100 14100 59  0000 L BNN
+F 2 "ST24.022:SOD80C" H 18350 14250 50  0001 C CNN
+F 3 "" H 18350 14250 50  0001 C CNN
+	1    18350 14250
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:PMLL4150-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue D216
+U 1 1 919E87DF
+P 18350 13700
+F 0 "D216" H 18550 13550 59  0000 L BNN
+F 1 "LL4148" H 18100 13550 59  0000 L BNN
+F 2 "ST24.022:SOD80C" H 18350 13700 50  0001 C CNN
+F 3 "" H 18350 13700 50  0001 C CNN
+	1    18350 13700
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:PMLL4150-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue D215
+U 1 1 CE06E1C1
+P 18350 13100
+F 0 "D215" H 18550 12950 59  0000 L BNN
+F 1 "LL4148" H 18100 12950 59  0000 L BNN
+F 2 "ST24.022:SOD80C" H 18350 13100 50  0001 C CNN
+F 3 "" H 18350 13100 50  0001 C CNN
+	1    18350 13100
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:PMLL4150-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue D214
+U 1 1 6A67782D
+P 18350 12550
+F 0 "D214" H 18550 12400 59  0000 L BNN
+F 1 "LL4148" H 18100 12400 59  0000 L BNN
+F 2 "ST24.022:SOD80C" H 18350 12550 50  0001 C CNN
+F 3 "" H 18350 12550 50  0001 C CNN
+	1    18350 12550
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C224
+U 1 1 E4EF708A
+P 18600 14750
+F 0 "C224" V 18600 14950 59  0000 L BNN
+F 1 "100pF" V 18550 14450 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 18600 14750 50  0001 C CNN
+F 3 "" H 18600 14750 50  0001 C CNN
+	1    18600 14750
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C225
+U 1 1 DEC6D132
+P 18750 14950
+F 0 "C225" V 18700 14950 59  0000 L BNN
+F 1 "100pF" V 18700 14450 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 18750 14950 50  0001 C CNN
+F 3 "" H 18750 14950 50  0001 C CNN
+	1    18750 14950
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C226
+U 1 1 B212F98B
+P 18950 14950
+F 0 "C226" V 18900 14950 59  0000 L BNN
+F 1 "100pF" V 18900 14450 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 18950 14950 50  0001 C CNN
+F 3 "" H 18950 14950 50  0001 C CNN
+	1    18950 14950
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C227
+U 1 1 4E67E54C
+P 19100 14750
+F 0 "C227" V 19050 14950 59  0000 L BNN
+F 1 "100pF" V 19050 14450 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 19100 14750 50  0001 C CNN
+F 3 "" H 19100 14750 50  0001 C CNN
+	1    19100 14750
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND07
+U 1 1 C2693486
+P 18600 15200
+F 0 "#GND07" H 18600 15200 50  0001 C CNN
+F 1 "GND" H 18550 15100 50  0001 L BNN
+F 2 "" H 18600 15200 50  0001 C CNN
+F 3 "" H 18600 15200 50  0001 C CNN
+	1    18600 15200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:PMLL4150-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue D213
+U 1 1 957E0343
+P 14400 12650
+F 0 "D213" H 14400 12850 59  0000 L BNN
+F 1 "LL4148" H 14400 12750 59  0000 L BNN
+F 2 "ST24.022:SOD80C" H 14400 12650 50  0001 C CNN
+F 3 "" H 14400 12650 50  0001 C CNN
+	1    14400 12650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R228
+U 1 1 F730C872
+P 14250 12350
+F 0 "R228" H 14450 12300 59  0000 R TNN
+F 1 "10k" H 14400 12450 59  0000 R TNN
+F 2 "ST24.022:R0805" H 14250 12350 50  0001 C CNN
+F 3 "" H 14250 12350 50  0001 C CNN
+	1    14250 12350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R229
+U 1 1 2D8B4EF3
+P 14600 12950
+F 0 "R229" H 14700 13100 59  0000 R TNN
+F 1 "100k" H 14550 12900 59  0000 R TNN
+F 2 "ST24.022:R0805" H 14600 12950 50  0001 C CNN
+F 3 "" H 14600 12950 50  0001 C CNN
+	1    14600 12950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND08
+U 1 1 E3161DBF
+P 14600 13300
+F 0 "#GND08" H 14600 13300 50  0001 C CNN
+F 1 "GND" H 14550 13200 50  0001 L BNN
+F 2 "" H 14600 13300 50  0001 C CNN
+F 3 "" H 14600 13300 50  0001 C CNN
+	1    14600 13300
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND010
+U 1 1 A71D83B0
+P 13450 12950
+F 0 "#GND010" H 13450 12950 50  0001 C CNN
+F 1 "AGND" V 13350 12850 59  0000 L BNN
+F 2 "" H 13450 12950 50  0001 C CNN
+F 3 "" H 13450 12950 50  0001 C CNN
+	1    13450 12950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R233
+U 1 1 31F911CB
+P 13900 14950
+F 0 "R233" H 14050 14900 59  0000 R TNN
+F 1 "100k" H 14000 15100 59  0000 R TNN
+F 2 "ST24.022:R0805" H 13900 14950 50  0001 C CNN
+F 3 "" H 13900 14950 50  0001 C CNN
+	1    13900 14950
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R231
+U 1 1 4D741E6E
+P 12950 14550
+F 0 "R231" H 12800 14650 59  0000 L BNN
+F 1 "10M" H 12850 14400 59  0000 L BNN
+F 2 "ST24.022:R0805" H 12950 14550 50  0001 C CNN
+F 3 "" H 12950 14550 50  0001 C CNN
+	1    12950 14550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R232
+U 1 1 BF7A8AED
+P 13600 14600
+F 0 "R232" H 13800 14700 59  0000 R TNN
+F 1 "100k" H 13750 14550 59  0000 R TNN
+F 2 "ST24.022:R0805" H 13600 14600 50  0001 C CNN
+F 3 "" H 13600 14600 50  0001 C CNN
+	1    13600 14600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:+7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P+05
+U 1 1 57F4DC09
+P 13600 14200
+F 0 "#P+05" H 13600 14200 50  0001 C CNN
+F 1 "+7V5" V 13500 14300 59  0000 L BNN
+F 2 "" H 13600 14200 50  0001 C CNN
+F 3 "" H 13600 14200 50  0001 C CNN
+	1    13600 14200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND011
+U 1 1 F2827DAF
+P 12500 15550
+F 0 "#GND011" H 12500 15550 50  0001 C CNN
+F 1 "AGND" V 12500 15450 59  0000 L BNN
+F 2 "" H 12500 15550 50  0001 C CNN
+F 3 "" H 12500 15550 50  0001 C CNN
+	1    12500 15550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C7
+U 1 1 1971D7B4
+P 12500 15150
+F 0 "C7" H 12560 15165 59  0000 L BNN
+F 1 "100pF" V 12600 14800 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 12500 15150 50  0001 C CNN
+F 3 "" H 12500 15150 50  0001 C CNN
+	1    12500 15150
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R230
+U 1 1 8FBBA0A7
+P 12500 14250
+F 0 "R230" H 12600 14350 59  0000 R TNN
+F 1 "47k" H 12550 14200 59  0000 R TNN
+F 2 "ST24.022:R0805" H 12500 14250 50  0001 C CNN
+F 3 "" H 12500 14250 50  0001 C CNN
+	1    12500 14250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:PMLL4150-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue D210
+U 1 1 CCF9C1F5
+P 9450 8700
+F 0 "D210" V 9750 8800 59  0000 R TNN
+F 1 "LL4148" V 9650 8800 59  0000 R TNN
+F 2 "ST24.022:SOD80C" H 9450 8700 50  0001 C CNN
+F 3 "" H 9450 8700 50  0001 C CNN
+	1    9450 8700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C215
+U 1 1 F048284E
+P 9450 9250
+F 0 "C215" V 9550 9250 59  0000 L BNN
+F 1 "100nF" V 9400 9250 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 9450 9250 50  0001 C CNN
+F 3 "" H 9450 9250 50  0001 C CNN
+	1    9450 9250
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:+7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P+06
+U 1 1 4B6CF0C8
+P 9850 9550
+F 0 "#P+06" H 9850 9550 50  0001 C CNN
+F 1 "+7V5" V 9900 9750 59  0000 R TNN
+F 2 "" H 9850 9550 50  0001 C CNN
+F 3 "" H 9850 9550 50  0001 C CNN
+	1    9850 9550
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:1458-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC207
+U 1 1 22D4B370
+P 12100 12550
+F 0 "IC207" H 11950 12550 59  0000 L BNN
+F 1 "OP-200GS" H 11850 12800 59  0000 L BNN
+F 2 "ST24.022:SO16DW" H 12100 12550 50  0001 C CNN
+F 3 "" H 12100 12550 50  0001 C CNN
+	1    12100 12550
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:1458-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC207
+U 2 1 22D4B37C
+P 17150 10750
+F 0 "IC207" H 17500 10900 59  0001 R TNN
+F 1 "OP-200GS" H 17500 11000 59  0001 R TNN
+F 2 "ST24.022:SO16DW" H 17150 10750 50  0001 C CNN
+F 3 "" H 17150 10750 50  0001 C CNN
+	2    17150 10750
+	0    1    -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:1458-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC207
+U 3 1 22D4B378
+P 20050 6550
+F 0 "IC207" H 20150 6675 59  0001 L BNN
+F 1 "OP-200GS" H 20150 6350 59  0001 L BNN
+F 2 "ST24.022:SO16DW" H 20050 6550 50  0001 C CNN
+F 3 "" H 20050 6550 50  0001 C CNN
+	3    20050 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R221
+U 1 1 C1E88BB0
+P 12950 12550
+F 0 "R221" H 13100 12500 59  0000 R TNN
+F 1 "100k" H 13050 12700 59  0000 R TNN
+F 2 "ST24.022:R0805" H 12950 12550 50  0001 C CNN
+F 3 "" H 12950 12550 50  0001 C CNN
+	1    12950 12550
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND012
+U 1 1 2BD607EA
+P 11700 13050
+F 0 "#GND012" H 11700 13050 50  0001 C CNN
+F 1 "AGND" V 11600 12950 59  0000 L BNN
+F 2 "" H 11700 13050 50  0001 C CNN
+F 3 "" H 11700 13050 50  0001 C CNN
+	1    11700 13050
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R219
+U 1 1 AA5C64BE
+P 12250 11950
+F 0 "R219" H 12500 11900 59  0000 R TNN
+F 1 "1M" H 12200 11900 59  0000 R TNN
+F 2 "ST24.022:R0805" H 12250 11950 50  0001 C CNN
+F 3 "" H 12250 11950 50  0001 C CNN
+	1    12250 11950
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R218
+U 1 1 F8289EA7
+P 12000 12150
+F 0 "R218" H 12100 12100 59  0000 R TNN
+F 1 "390k" H 12100 12250 59  0000 R TNN
+F 2 "ST24.022:R0805" H 12000 12150 50  0001 C CNN
+F 3 "" H 12000 12150 50  0001 C CNN
+	1    12000 12150
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C219
+U 1 1 4A9AE08E
+P 12400 12150
+F 0 "C219" V 12500 11850 59  0000 L BNN
+F 1 "1nF" V 12300 12050 59  0000 R TNN
+F 2 "ST24.022:C0805K" H 12400 12150 50  0001 C CNN
+F 3 "" H 12400 12150 50  0001 C CNN
+	1    12400 12150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R217
+U 1 1 719C1A2F
+P 16700 8300
+F 0 "R217" H 16850 8250 59  0000 R TNN
+F 1 "2M" H 16750 8450 59  0000 R TNN
+F 2 "ST24.022:R0805" H 16700 8300 50  0001 C CNN
+F 3 "" H 16700 8300 50  0001 C CNN
+	1    16700 8300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R216
+U 1 1 E20CE252
+P 14600 4050
+F 0 "R216" H 14600 4200 59  0000 R TNN
+F 1 "1M" H 14750 4200 59  0000 R TNN
+F 2 "ST24.022:R0805" H 14600 4050 50  0001 C CNN
+F 3 "" H 14600 4050 50  0001 C CNN
+	1    14600 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C218
+U 1 1 3D2E3EE0
+P 14650 4300
+F 0 "C218" V 14550 4000 59  0000 L BNN
+F 1 "1uF" V 14550 4300 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 14650 4300 50  0001 C CNN
+F 3 "" H 14650 4300 50  0001 C CNN
+	1    14650 4300
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R241
+U 1 1 7A44D3BB
+P 13800 4550
+F 0 "R241" H 13950 4500 59  0000 R TNN
+F 1 "3k3" H 13900 4700 59  0000 R TNN
+F 2 "ST24.022:R0805" H 13800 4550 50  0001 C CNN
+F 3 "" H 13800 4550 50  0001 C CNN
+	1    13800 4550
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND013
+U 1 1 222C2828
+P 14200 4950
+F 0 "#GND013" H 14200 4950 50  0001 C CNN
+F 1 "AGND" V 14300 4900 59  0000 R TNN
+F 2 "" H 14200 4950 50  0001 C CNN
+F 3 "" H 14200 4950 50  0001 C CNN
+	1    14200 4950
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C216
+U 1 1 9863A499
+P 13400 4550
+F 0 "C216" V 13300 4400 59  0000 L BNN
+F 1 "10uF/16V" V 13600 4300 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 13400 4550 50  0001 C CNN
+F 3 "" H 13400 4550 50  0001 C CNN
+	1    13400 4550
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:BAV199-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue D211
+U 1 1 12E1DD1E
+P 15050 11100
+F 0 "D211" V 14850 11200 59  0000 L BNN
+F 1 "BAV99" V 14950 11200 59  0000 L BNN
+F 2 "ST24.022:SOT23" H 15050 11100 50  0001 C CNN
+F 3 "" H 15050 11100 50  0001 C CNN
+	1    15050 11100
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:+7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P+07
+U 1 1 FAFE20BD
+P 15050 10650
+F 0 "#P+07" H 15050 10650 50  0001 C CNN
+F 1 "+7V5" V 14950 10750 59  0000 L BNN
+F 2 "" H 15050 10650 50  0001 C CNN
+F 3 "" H 15050 10650 50  0001 C CNN
+	1    15050 10650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:-7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P-05
+U 1 1 1DC4E20E
+P 15050 11450
+F 0 "#P-05" H 15050 11450 50  0001 C CNN
+F 1 "-7V5" V 14950 11300 59  0000 L BNN
+F 2 "" H 15050 11450 50  0001 C CNN
+F 3 "" H 15050 11450 50  0001 C CNN
+	1    15050 11450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C207
+U 1 1 107004C0
+P 16750 3200
+F 0 "C207" V 16700 3250 59  0000 L BNN
+F 1 "10n" V 16700 2900 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 16750 3200 50  0001 C CNN
+F 3 "" H 16750 3200 50  0001 C CNN
+	1    16750 3200
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:BAV199-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue D207
+U 1 1 9185CBBB
+P 16150 2600
+F 0 "D207" H 16250 2400 59  0000 R TNN
+F 1 "BAV99" H 16250 2500 59  0000 R TNN
+F 2 "ST24.022:SOT23" H 16150 2600 50  0001 C CNN
+F 3 "" H 16150 2600 50  0001 C CNN
+	1    16150 2600
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND014
+U 1 1 B9C9B342
+P 16750 3500
+F 0 "#GND014" H 16750 3500 50  0001 C CNN
+F 1 "GND" H 16650 3400 50  0001 L BNN
+F 2 "" H 16750 3500 50  0001 C CNN
+F 3 "" H 16750 3500 50  0001 C CNN
+	1    16750 3500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:PMLL4150-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue D209
+U 1 1 EBFE2FD2
+P 16500 2400
+F 0 "D209" H 16400 2500 59  0000 L BNN
+F 1 "LL4148" H 16300 2250 59  0000 L BNN
+F 2 "ST24.022:SOD80C" H 16500 2400 50  0001 C CNN
+F 3 "" H 16500 2400 50  0001 C CNN
+	1    16500 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R211
+U 1 1 25218C2B
+P 16150 3150
+F 0 "R211" H 16300 3100 59  0000 R TNN
+F 1 "47k" H 16200 3300 59  0000 R TNN
+F 2 "ST24.022:R0805" H 16150 3150 50  0001 C CNN
+F 3 "" H 16150 3150 50  0001 C CNN
+	1    16150 3150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND015
+U 1 1 7499CEA7
+P 16150 3500
+F 0 "#GND015" H 16150 3500 50  0001 C CNN
+F 1 "GND" H 16050 3400 50  0001 L BNN
+F 2 "" H 16150 3500 50  0001 C CNN
+F 3 "" H 16150 3500 50  0001 C CNN
+	1    16150 3500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R210
+U 1 1 BCCEC9FE
+P 15850 2250
+F 0 "R210" H 16200 2400 59  0000 R TNN
+F 1 "3k3" H 16200 2150 59  0000 R TNN
+F 2 "ST24.022:R0805" H 15850 2250 50  0001 C CNN
+F 3 "" H 15850 2250 50  0001 C CNN
+	1    15850 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R208
+U 1 1 B2AD2965
+P 15300 2200
+F 0 "R208" H 15450 2150 59  0000 R TNN
+F 1 "10M" H 15400 2050 59  0000 R TNN
+F 2 "ST24.022:R0805" H 15300 2200 50  0001 C CNN
+F 3 "" H 15300 2200 50  0001 C CNN
+	1    15300 2200
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R207
+U 1 1 7403666C
+P 14650 2500
+F 0 "R207" H 14800 2450 59  0000 R TNN
+F 1 "10k" H 14700 2650 59  0000 R TNN
+F 2 "ST24.022:R0805" H 14650 2500 50  0001 C CNN
+F 3 "" H 14650 2500 50  0001 C CNN
+	1    14650 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C206
+U 1 1 693A47DF
+P 14700 3150
+F 0 "C206" V 14600 3000 59  0000 L BNN
+F 1 "100nF" V 14850 2950 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 14700 3150 50  0001 C CNN
+F 3 "" H 14700 3150 50  0001 C CNN
+	1    14700 3150
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND016
+U 1 1 12C6E2A1
+P 14700 3550
+F 0 "#GND016" H 14700 3550 50  0001 C CNN
+F 1 "GND" H 14600 3450 50  0001 L BNN
+F 2 "" H 14700 3550 50  0001 C CNN
+F 3 "" H 14700 3550 50  0001 C CNN
+	1    14700 3550
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R267
+U 1 1 AB38C9ED
+P 14950 3100
+F 0 "R267" H 15050 2950 59  0000 R TNN
+F 1 "510k" H 15050 3050 59  0000 R TNN
+F 2 "ST24.022:R0805" H 14950 3100 50  0001 C CNN
+F 3 "" H 14950 3100 50  0001 C CNN
+	1    14950 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R209
+U 1 1 E8AFE5F0
+P 14400 2850
+F 0 "R209" H 14550 2800 59  0000 R TNN
+F 1 "100k" H 14550 3000 59  0000 R TNN
+F 2 "ST24.022:R0805" H 14400 2850 50  0001 C CNN
+F 3 "" H 14400 2850 50  0001 C CNN
+	1    14400 2850
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R206
+U 1 1 213842EF
+P 13150 3600
+F 0 "R206" H 13300 3550 59  0000 R TNN
+F 1 "100k" H 13250 3700 59  0000 R TNN
+F 2 "ST24.022:R0805" H 13150 3600 50  0001 C CNN
+F 3 "" H 13150 3600 50  0001 C CNN
+	1    13150 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C205
+U 1 1 14E180B8
+P 13350 3650
+F 0 "C205" V 13250 3550 59  0000 L BNN
+F 1 "1nF" V 13150 3550 59  0000 L BNN
+F 2 "ST25.001:C0805K" H 13350 3650 50  0001 C CNN
+F 3 "" H 13350 3650 50  0001 C CNN
+	1    13350 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND018
+U 1 1 195191A6
+P 13150 4000
+F 0 "#GND018" H 13150 4000 50  0001 C CNN
+F 1 "GNDA" V 13250 3950 59  0000 R TNN
+F 2 "" H 13150 4000 50  0001 C CNN
+F 3 "" H 13150 4000 50  0001 C CNN
+	1    13150 4000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND017
+U 1 1 CBB20165
+P 23050 5550
+F 0 "#GND017" H 23050 5550 50  0001 C CNN
+F 1 "GND" H 23000 5450 50  0001 L BNN
+F 2 "" H 23050 5550 50  0001 C CNN
+F 3 "" H 23050 5550 50  0001 C CNN
+	1    23050 5550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:-7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P-06
+U 1 1 1696430B
+P 22850 4700
+F 0 "#P-06" H 22850 4700 50  0001 C CNN
+F 1 "-7V5" V 22900 4600 59  0000 R TNN
+F 2 "" H 22850 4700 50  0001 C CNN
+F 3 "" H 22850 4700 50  0001 C CNN
+	1    22850 4700
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:+7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P+08
+U 1 1 E32DC4A8
+P 23050 4700
+F 0 "#P+08" H 23050 4700 50  0001 C CNN
+F 1 "+7V5" V 23000 4800 59  0000 L BNN
+F 2 "" H 23050 4700 50  0001 C CNN
+F 3 "" H 23050 4700 50  0001 C CNN
+	1    23050 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R205
+U 1 1 2B6D8D1F
+P 12150 3250
+F 0 "R205" H 12250 3400 59  0000 R TNN
+F 1 "100k" H 12300 3200 59  0000 R TNN
+F 2 "ST24.022:R0805" H 12150 3250 50  0001 C CNN
+F 3 "" H 12150 3250 50  0001 C CNN
+	1    12150 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R204
+U 1 1 1FFDD4F3
+P 11450 3550
+F 0 "R204" H 11550 3700 59  0000 R TNN
+F 1 "100k" H 11550 3500 59  0000 R TNN
+F 2 "ST24.022:R0805" H 11450 3550 50  0001 C CNN
+F 3 "" H 11450 3550 50  0001 C CNN
+	1    11450 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND021
+U 1 1 FF2A2D77
+P 11750 3950
+F 0 "#GND021" H 11750 3950 50  0001 C CNN
+F 1 "GNDA" V 11850 3900 59  0000 R TNN
+F 2 "" H 11750 3950 50  0001 C CNN
+F 3 "" H 11750 3950 50  0001 C CNN
+	1    11750 3950
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:BAV199-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue D202
+U 1 1 6C87B9FD
+P 10850 1250
+F 0 "D202" V 10950 900 59  0000 L BNN
+F 1 "BAV99" V 11050 900 59  0000 L BNN
+F 2 "ST24.022:SOT23" H 10850 1250 50  0001 C CNN
+F 3 "" H 10850 1250 50  0001 C CNN
+	1    10850 1250
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R203
+U 1 1 84BD998B
+P 11750 2500
+F 0 "R203" H 11900 2450 59  0000 R TNN
+F 1 "10k" H 11850 2650 59  0000 R TNN
+F 2 "ST24.022:R0805" H 11750 2500 50  0001 C CNN
+F 3 "" H 11750 2500 50  0001 C CNN
+	1    11750 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R201
+U 1 1 775AE226
+P 11700 1250
+F 0 "R201" H 11850 1050 59  0000 R TNN
+F 1 "100k / 0,1%" H 11850 1150 59  0000 R TNN
+F 2 "ST24.022:R0805" H 11700 1250 50  0001 C CNN
+F 3 "" H 11700 1250 50  0001 C CNN
+	1    11700 1250
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R202
+U 1 1 2FA6D370
+P 11050 1550
+F 0 "R202" H 11050 1500 59  0000 R TNN
+F 1 "10k 0,1%" H 11550 1500 59  0000 R TNN
+F 2 "ST24.022:R0805" H 11050 1550 50  0001 C CNN
+F 3 "" H 11050 1550 50  0001 C CNN
+	1    11050 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C204
+U 1 1 9A58D590
+P 11250 1600
+F 0 "C204" V 11150 1550 59  0000 L BNN
+F 1 "4n7" V 11200 1300 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 11250 1600 50  0001 C CNN
+F 3 "" H 11250 1600 50  0001 C CNN
+	1    11250 1600
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R242
+U 1 1 795A9747
+P 1900 3700
+F 0 "R242" H 2000 3800 59  0000 R TNN
+F 1 "3k3" H 2000 3650 59  0000 R TNN
+F 2 "ST24.022:R0805" H 1900 3700 50  0001 C CNN
+F 3 "" H 1900 3700 50  0001 C CNN
+	1    1900 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C20
+U 1 1 D1510C23
+P 1700 4350
+F 0 "C20" V 1800 4400 59  0000 L BNN
+F 1 "100nF" H 1760 4165 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 1700 4350 50  0001 C CNN
+F 3 "" H 1700 4350 50  0001 C CNN
+	1    1700 4350
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C221
+U 1 1 A605BE4C
+P 13250 13600
+F 0 "C221" V 13050 13400 59  0000 L BNN
+F 1 "10uF/16V" V 13150 13400 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 13250 13600 50  0001 C CNN
+F 3 "" H 13250 13600 50  0001 C CNN
+	1    13250 13600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R227
+U 1 1 4D99022B
+P 13250 13200
+F 0 "R227" H 13400 13150 59  0000 R TNN
+F 1 "160k" H 13350 13350 59  0000 R TNN
+F 2 "ST24.022:R0805" H 13250 13200 50  0001 C CNN
+F 3 "" H 13250 13200 50  0001 C CNN
+	1    13250 13200
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:-7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P-07
+U 1 1 92DF2AF3
+P 20050 4050
+F 0 "#P-07" H 20050 4050 50  0001 C CNN
+F 1 "-7V5" V 20100 3950 59  0000 R TNN
+F 2 "" H 20050 4050 50  0001 C CNN
+F 3 "" H 20050 4050 50  0001 C CNN
+	1    20050 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P+09
+U 1 1 DD8F0AB4
+P 20050 2950
+F 0 "#P+09" H 20050 2950 50  0001 C CNN
+F 1 "+7V5" V 20000 3050 59  0000 L BNN
+F 2 "" H 20050 2950 50  0001 C CNN
+F 3 "" H 20050 2950 50  0001 C CNN
+	1    20050 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND028
+U 1 1 D1DF28FE
+P 20650 4100
+F 0 "#GND028" H 20650 4100 50  0001 C CNN
+F 1 "GND" H 20600 4000 50  0001 L BNN
+F 2 "" H 20650 4100 50  0001 C CNN
+F 3 "" H 20650 4100 50  0001 C CNN
+	1    20650 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:-7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P-08
+U 1 1 43BA873A
+P 20050 5600
+F 0 "#P-08" H 20050 5600 50  0001 C CNN
+F 1 "-7V5" V 20100 5500 59  0000 R TNN
+F 2 "" H 20050 5600 50  0001 C CNN
+F 3 "" H 20050 5600 50  0001 C CNN
+	1    20050 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P+010
+U 1 1 6665561A
+P 20050 4500
+F 0 "#P+010" H 20050 4500 50  0001 C CNN
+F 1 "+7V5" V 20000 4600 59  0000 L BNN
+F 2 "" H 20050 4500 50  0001 C CNN
+F 3 "" H 20050 4500 50  0001 C CNN
+	1    20050 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:-7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P-09
+U 1 1 B4855E1F
+P 21250 5600
+F 0 "#P-09" H 21250 5600 50  0001 C CNN
+F 1 "-7V5" V 21300 5500 59  0000 R TNN
+F 2 "" H 21250 5600 50  0001 C CNN
+F 3 "" H 21250 5600 50  0001 C CNN
+	1    21250 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P+011
+U 1 1 4D46F757
+P 21250 4500
+F 0 "#P+011" H 21250 4500 50  0001 C CNN
+F 1 "+7V5" V 21200 4600 59  0000 L BNN
+F 2 "" H 21250 4500 50  0001 C CNN
+F 3 "" H 21250 4500 50  0001 C CNN
+	1    21250 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:-7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P-010
+U 1 1 FA45CA4A
+P 20050 7100
+F 0 "#P-010" H 20050 7100 50  0001 C CNN
+F 1 "-7V5" V 20100 7000 59  0000 R TNN
+F 2 "" H 20050 7100 50  0001 C CNN
+F 3 "" H 20050 7100 50  0001 C CNN
+	1    20050 7100
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P+012
+U 1 1 BC83E68F
+P 20050 6000
+F 0 "#P+012" H 20050 6000 50  0001 C CNN
+F 1 "+7V5" V 20000 6100 59  0000 L BNN
+F 2 "" H 20050 6000 50  0001 C CNN
+F 3 "" H 20050 6000 50  0001 C CNN
+	1    20050 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND030
+U 1 1 019C4BFF
+P 21000 6550
+F 0 "#GND030" H 21000 6550 50  0001 C CNN
+F 1 "AGND" V 20900 6450 59  0000 L BNN
+F 2 "" H 21000 6550 50  0001 C CNN
+F 3 "" H 21000 6550 50  0001 C CNN
+	1    21000 6550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND031
+U 1 1 A60FC583
+P 21000 5050
+F 0 "#GND031" H 21000 5050 50  0001 C CNN
+F 1 "AGND" V 20900 4950 59  0000 L BNN
+F 2 "" H 21000 5050 50  0001 C CNN
+F 3 "" H 21000 5050 50  0001 C CNN
+	1    21000 5050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND032
+U 1 1 5ACA5DE3
+P 22200 5050
+F 0 "#GND032" H 22200 5050 50  0001 C CNN
+F 1 "AGND" V 22100 4950 59  0000 L BNN
+F 2 "" H 22200 5050 50  0001 C CNN
+F 3 "" H 22200 5050 50  0001 C CNN
+	1    22200 5050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND034
+U 1 1 85A992D2
+P 21250 4050
+F 0 "#GND034" H 21250 4050 50  0001 C CNN
+F 1 "GND" H 21200 3950 50  0001 L BNN
+F 2 "" H 21250 4050 50  0001 C CNN
+F 3 "" H 21250 4050 50  0001 C CNN
+	1    21250 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND035
+U 1 1 A522C48C
+P 20850 2350
+F 0 "#GND035" H 20850 2350 50  0001 C CNN
+F 1 "GND" H 20800 2250 50  0001 L BNN
+F 2 "" H 20850 2350 50  0001 C CNN
+F 3 "" H 20850 2350 50  0001 C CNN
+	1    20850 2350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:OP11D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC201
+U 1 1 7A29998C
+P 10000 8650
+F 0 "IC201" H 10100 8775 59  0000 L BNN
+F 1 "LM248D" H 10100 8450 59  0000 L BNN
+F 2 "ST24.022:SO14" H 10000 8650 50  0001 C CNN
+F 3 "" H 10000 8650 50  0001 C CNN
+	1    10000 8650
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:OP11D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC201
+U 2 1 7A299980
+P 11600 14950
+F 0 "IC201" H 11600 15150 59  0000 L BNN
+F 1 "LM248D" H 11600 14750 59  0000 L BNN
+F 2 "ST24.022:SO14" H 11600 14950 50  0001 C CNN
+F 3 "" H 11600 14950 50  0001 C CNN
+	2    11600 14950
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:OP11D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC201
+U 3 1 7A299984
+P 14650 4650
+F 0 "IC201" H 14750 4775 59  0001 L BNN
+F 1 "LM248D" H 14750 4450 59  0001 L BNN
+F 2 "ST24.022:SO14" H 14650 4650 50  0001 C CNN
+F 3 "" H 14650 4650 50  0001 C CNN
+	3    14650 4650
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:OP11D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC201
+U 4 1 7A299998
+P 12150 3650
+F 0 "IC201" H 12250 3775 59  0001 L BNN
+F 1 "LM248D" H 12250 3450 59  0001 L BNN
+F 2 "ST24.022:SO14" H 12150 3650 50  0001 C CNN
+F 3 "" H 12150 3650 50  0001 C CNN
+	4    12150 3650
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:OP11D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC201
+U 5 1 7A29999C
+P 21250 5050
+F 0 "IC201" H 21350 5175 59  0001 L BNN
+F 1 "LM248D" H 21350 4850 59  0001 L BNN
+F 2 "ST24.022:SO14" H 21250 5050 50  0001 C CNN
+F 3 "" H 21250 5050 50  0001 C CNN
+	5    21250 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND039
+U 1 1 76CA36D4
+P 22500 5550
+F 0 "#GND039" H 22500 5550 50  0001 C CNN
+F 1 "GND" H 22450 5450 50  0001 L BNN
+F 2 "" H 22500 5550 50  0001 C CNN
+F 3 "" H 22500 5550 50  0001 C CNN
+	1    22500 5550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P+01
+U 1 1 6A081B6E
+P 22500 4700
+F 0 "#P+01" H 22500 4700 50  0001 C CNN
+F 1 "+7V5" V 22450 4800 59  0000 L BNN
+F 2 "" H 22500 4700 50  0001 C CNN
+F 3 "" H 22500 4700 50  0001 C CNN
+	1    22500 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R226
+U 1 1 20613945
+P 12200 14250
+F 0 "R226" H 12350 14200 59  0000 R TNN
+F 1 "100k" H 12300 14350 59  0000 R TNN
+F 2 "ST24.022:R0805" H 12200 14250 50  0001 C CNN
+F 3 "" H 12200 14250 50  0001 C CNN
+	1    12200 14250
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C223
+U 1 1 8FED0169
+P 10700 16250
+F 0 "C223" V 10600 16300 59  0000 L BNN
+F 1 "1nF" V 10550 16200 59  0000 R TNN
+F 2 "ST24.022:C0805K" H 10700 16250 50  0001 C CNN
+F 3 "" H 10700 16250 50  0001 C CNN
+	1    10700 16250
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R222
+U 1 1 CD273844
+P 10100 15950
+F 0 "R222" H 10250 15900 59  0000 R TNN
+F 1 "68k" H 10250 16100 59  0000 R TNN
+F 2 "ST24.022:R0805" H 10100 15950 50  0001 C CNN
+F 3 "" H 10100 15950 50  0001 C CNN
+	1    10100 15950
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND042
+U 1 1 6D21A43A
+P 10700 16850
+F 0 "#GND042" H 10700 16850 50  0001 C CNN
+F 1 "GND" H 10650 16750 50  0001 L BNN
+F 2 "" H 10700 16850 50  0001 C CNN
+F 3 "" H 10700 16850 50  0001 C CNN
+	1    10700 16850
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C220
+U 1 1 F7B0D43B
+P 10700 15450
+F 0 "C220" V 10800 15200 59  0000 R TNN
+F 1 "10uF/16V" V 10850 15300 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 10700 15450 50  0001 C CNN
+F 3 "" H 10700 15450 50  0001 C CNN
+	1    10700 15450
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R223
+U 1 1 78FC16AE
+P 10900 14850
+F 0 "R223" H 11050 14800 59  0000 R TNN
+F 1 "100k" H 11000 14950 59  0000 R TNN
+F 2 "ST24.022:R0805" H 10900 14850 50  0001 C CNN
+F 3 "" H 10900 14850 50  0001 C CNN
+	1    10900 14850
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R224
+U 1 1 1ABFB4B4
+P 11550 14550
+F 0 "R224" H 11700 14500 59  0000 R TNN
+F 1 "510k" H 11650 14700 59  0000 R TNN
+F 2 "ST24.022:R0805" H 11550 14550 50  0001 C CNN
+F 3 "" H 11550 14550 50  0001 C CNN
+	1    11550 14550
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R225
+U 1 1 845F8ACA
+P 11100 15250
+F 0 "R225" H 11250 15200 59  0000 R TNN
+F 1 "47k" H 11150 15350 59  0000 R TNN
+F 2 "ST24.022:R0805" H 11100 15250 50  0001 C CNN
+F 3 "" H 11100 15250 50  0001 C CNN
+	1    11100 15250
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND043
+U 1 1 DD9E2723
+P 11100 16850
+F 0 "#GND043" H 11100 16850 50  0001 C CNN
+F 1 "AGND" V 11000 16750 59  0000 L BNN
+F 2 "" H 11100 16850 50  0001 C CNN
+F 3 "" H 11100 16850 50  0001 C CNN
+	1    11100 16850
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R269
+U 1 1 666197D8
+P 5050 15550
+F 0 "R269" H 5100 15400 59  0000 L BNN
+F 1 "120R" H 4900 15420 59  0000 L BNN
+F 2 "ST24.022:R0805" H 5050 15550 50  0001 C CNN
+F 3 "" H 5050 15550 50  0001 C CNN
+	1    5050 15550
+	0    1    -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R271
+U 1 1 9FF52D6C
+P 5050 16250
+F 0 "R271" H 4900 16309 59  0000 L BNN
+F 1 "1k5" H 4900 16120 59  0000 L BNN
+F 2 "ST24.022:R0805" H 5050 16250 50  0001 C CNN
+F 3 "" H 5050 16250 50  0001 C CNN
+	1    5050 16250
+	0    1    -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R270
+U 1 1 B3A5A929
+P 5050 14850
+F 0 "R270" H 4900 14909 59  0000 L BNN
+F 1 "1k5" H 4900 14720 59  0000 L BNN
+F 2 "ST24.022:R0805" H 5050 14850 50  0001 C CNN
+F 3 "" H 5050 14850 50  0001 C CNN
+	1    5050 14850
+	0    1    -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C54
+U 1 1 B93B8FF3
+P 5850 14100
+F 0 "C54" H 5910 14115 59  0000 L BNN
+F 1 "100nF" H 5600 13950 59  0000 L BNN
+F 2 "ST25.001:C0805K" H 5850 14100 50  0001 C CNN
+F 3 "" H 5850 14100 50  0001 C CNN
+	1    5850 14100
+	0    1    -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R32
+U 1 1 C01E69EB
+P 8350 14850
+F 0 "R32" H 8250 14900 59  0000 L BNN
+F 1 "0R" H 8300 14750 59  0000 L BNN
+F 2 "ST24.022:R0805" H 8350 14850 50  0001 C CNN
+F 3 "" H 8350 14850 50  0001 C CNN
+	1    8350 14850
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C55
+U 1 1 E79DDF66
+P 8650 15150
+F 0 "C55" H 8710 15165 59  0000 L BNN
+F 1 "12pF" H 8710 14965 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 8650 15150 50  0001 C CNN
+F 3 "" H 8650 15150 50  0001 C CNN
+	1    8650 15150
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:GND2-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #V02
+U 1 1 F1FC2759
+P 5400 14100
+F 0 "#V02" H 5400 14100 50  0001 C CNN
+F 1 "GND2" H 5305 13975 59  0000 L BNN
+F 2 "" H 5400 14100 50  0001 C CNN
+F 3 "" H 5400 14100 50  0001 C CNN
+	1    5400 14100
+	0    1    -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND048
+U 1 1 A043859C
+P 7950 16950
+F 0 "#GND048" H 7950 16950 50  0001 C CNN
+F 1 "GND" H 7950 16950 50  0001 C CNN
+F 2 "" H 7950 16950 50  0001 C CNN
+F 3 "" H 7950 16950 50  0001 C CNN
+	1    7950 16950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND049
+U 1 1 3E396B75
+P 8050 14150
+F 0 "#GND049" H 8050 14150 50  0001 C CNN
+F 1 "GND" H 8050 14150 50  0001 C CNN
+F 2 "" H 8050 14150 50  0001 C CNN
+F 3 "" H 8050 14150 50  0001 C CNN
+	1    8050 14150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:GND2-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #V01
+U 1 1 DD78C1AD
+P 6100 16850
+F 0 "#V01" H 6100 16850 50  0001 C CNN
+F 1 "GND2" H 6005 16725 59  0000 L BNN
+F 2 "" H 6100 16850 50  0001 C CNN
+F 3 "" H 6100 16850 50  0001 C CNN
+	1    6100 16850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C57
+U 1 1 676BBC9D
+P 5850 13850
+F 0 "C57" H 5910 13865 59  0000 L BNN
+F 1 "100nF" H 5700 13700 59  0000 L BNN
+F 2 "ST25.001:C0805K" H 5850 13850 50  0001 C CNN
+F 3 "" H 5850 13850 50  0001 C CNN
+	1    5850 13850
+	0    1    -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C58
+U 1 1 563F5DD4
+P 5850 13600
+F 0 "C58" H 5910 13615 59  0000 L BNN
+F 1 "100nF" H 5750 13450 59  0000 L BNN
+F 2 "ST25.001:C0805K" H 5850 13600 50  0001 C CNN
+F 3 "" H 5850 13600 50  0001 C CNN
+	1    5850 13600
+	0    1    -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C59
+U 1 1 3703503B
+P 5850 13350
+F 0 "C59" H 5910 13365 59  0000 L BNN
+F 1 "10uF/16V" V 6000 12800 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 5850 13350 50  0001 C CNN
+F 3 "" H 5850 13350 50  0001 C CNN
+	1    5850 13350
+	0    1    -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C52
+U 1 1 30ED598D
+P 7450 13900
+F 0 "C52" H 7510 13915 59  0000 L BNN
+F 1 "10n" V 7550 13650 59  0000 L BNN
+F 2 "ST25.001:C0805K" H 7450 13900 50  0001 C CNN
+F 3 "" H 7450 13900 50  0001 C CNN
+	1    7450 13900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C53
+U 1 1 AF279E2F
+P 7450 13400
+F 0 "C53" H 7510 13415 59  0000 L BNN
+F 1 "10uF/16V" V 7650 12950 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 7450 13400 50  0001 C CNN
+F 3 "" H 7450 13400 50  0001 C CNN
+	1    7450 13400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C60
+U 1 1 74AE98EE
+P 7450 13650
+F 0 "C60" H 7510 13665 59  0000 L BNN
+F 1 "100nF" H 7400 13500 59  0000 L BNN
+F 2 "ST25.001:C0805K" H 7450 13650 50  0001 C CNN
+F 3 "" H 7450 13650 50  0001 C CNN
+	1    7450 13650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C61
+U 1 1 5CAECE9F
+P 7450 14150
+F 0 "C61" H 7510 14165 59  0000 L BNN
+F 1 "100nF" H 7300 14000 59  0000 L BNN
+F 2 "ST25.001:C0805K" H 7450 14150 50  0001 C CNN
+F 3 "" H 7450 14150 50  0001 C CNN
+	1    7450 14150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:+3V3-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPL0101
+U 1 1 7C7DED89
+P 10850 900
+F 0 "#SUPPL0101" H 10850 900 50  0001 C CNN
+F 1 "4V5" V 10950 1000 59  0000 R TNN
+F 2 "" H 10850 900 50  0001 C CNN
+F 3 "" H 10850 900 50  0001 C CNN
+	1    10850 900 
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+3V3-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPL01
+U 1 1 317943BE
+P 10800 2100
+F 0 "#SUPPL01" H 10800 2100 50  0001 C CNN
+F 1 "4V5" V 10900 2200 59  0000 R TNN
+F 2 "" H 10800 2100 50  0001 C CNN
+F 3 "" H 10800 2100 50  0001 C CNN
+	1    10800 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:BAV199-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue D203
+U 1 1 306B8BFB
+P 10800 2500
+F 0 "D203" H 10830 2579 59  0000 L BNN
+F 1 "BAV99" H 10610 2364 59  0000 L BNN
+F 2 "ST24.022:SOT23" H 10800 2500 50  0001 C CNN
+F 3 "" H 10800 2500 50  0001 C CNN
+	1    10800 2500
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:AGND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #AGND01
+U 1 1 39250816
+P 1900 4850
+F 0 "#AGND01" H 1900 4850 50  0001 C CNN
+F 1 "AGND" V 1950 4800 59  0000 R TNN
+F 2 "" H 1900 4850 50  0001 C CNN
+F 3 "" H 1900 4850 50  0001 C CNN
+	1    1900 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+5V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY02
+U 1 1 19032892
+P 1900 3350
+F 0 "#SUPPLY02" H 1900 3350 50  0001 C CNN
+F 1 "+5V" H 1825 3475 59  0000 L BNN
+F 2 "" H 1900 3350 50  0001 C CNN
+F 3 "" H 1900 3350 50  0001 C CNN
+	1    1900 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+5V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY05
+U 1 1 20B1DDDE
+P 15850 1900
+F 0 "#SUPPLY05" H 15850 1900 50  0001 C CNN
+F 1 "+5V" H 15775 2025 59  0000 L BNN
+F 2 "" H 15850 1900 50  0001 C CNN
+F 3 "" H 15850 1900 50  0001 C CNN
+	1    15850 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+5V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY06
+U 1 1 A7CD5EB6
+P 20650 2900
+F 0 "#SUPPLY06" H 20650 2900 50  0001 C CNN
+F 1 "+5V" H 20575 3025 59  0000 L BNN
+F 2 "" H 20650 2900 50  0001 C CNN
+F 3 "" H 20650 2900 50  0001 C CNN
+	1    20650 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+5V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY07
+U 1 1 2907E397
+P 21250 2900
+F 0 "#SUPPLY07" H 21250 2900 50  0001 C CNN
+F 1 "+5V" H 21175 3025 59  0000 L BNN
+F 2 "" H 21250 2900 50  0001 C CNN
+F 3 "" H 21250 2900 50  0001 C CNN
+	1    21250 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+5V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY013
+U 1 1 8D803956
+P 14250 12000
+F 0 "#SUPPLY013" H 14250 12000 50  0001 C CNN
+F 1 "+5V" H 14175 12125 59  0000 L BNN
+F 2 "" H 14250 12000 50  0001 C CNN
+F 3 "" H 14250 12000 50  0001 C CNN
+	1    14250 12000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:FRAME_C_L-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #FRAME1
+U 1 1 CC96BE83
+P 900 17450
+F 0 "#FRAME1" H 900 17450 50  0001 C CNN
+F 1 "FRAME_C_L" H 900 17450 50  0001 C CNN
+F 2 "" H 900 17450 50  0001 C CNN
+F 3 "" H 900 17450 50  0001 C CNN
+	1    900  17450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:AGND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #AGND02
+U 1 1 B8F31E0C
+P 11150 1950
+F 0 "#AGND02" H 11150 1950 50  0001 C CNN
+F 1 "AGND" V 11200 1900 59  0000 R TNN
+F 2 "" H 11150 1950 50  0001 C CNN
+F 3 "" H 11150 1950 50  0001 C CNN
+	1    11150 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+5V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY010
+U 1 1 28999800
+P 14050 2700
+F 0 "#SUPPLY010" H 14050 2700 50  0001 C CNN
+F 1 "+5V" H 13775 2725 59  0000 L BNN
+F 2 "" H 14050 2700 50  0001 C CNN
+F 3 "" H 14050 2700 50  0001 C CNN
+	1    14050 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:BYV32J-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue D205
+U 1 1 0C7B2DCC
+P 12850 3200
+F 0 "D205" H 12880 3279 59  0000 L BNN
+F 1 "BAV70" H 12660 3064 59  0000 L BNN
+F 2 "ST24.022:SOT23" H 12850 3200 50  0001 C CNN
+F 3 "" H 12850 3200 50  0001 C CNN
+	1    12850 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C16
+U 1 1 9EA52E5B
+P 2750 2250
+F 0 "C16" H 2550 2250 59  0000 L BNN
+F 1 "1nF" H 2550 2100 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 2750 2250 50  0001 C CNN
+F 3 "" H 2750 2250 50  0001 C CNN
+	1    2750 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:0V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND022
+U 1 1 A44C21B7
+P 2750 2550
+F 0 "#GND022" H 2750 2550 50  0001 C CNN
+F 1 "0V" H 2675 2450 59  0000 L BNN
+F 2 "" H 2750 2550 50  0001 C CNN
+F 3 "" H 2750 2550 50  0001 C CNN
+	1    2750 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:CAT809-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC12
+U 1 1 F20560FD
+P 1950 2050
+F 0 "IC12" H 2050 2150 59  0000 L BNN
+F 1 "MAX809TTRG" H 2050 2050 59  0000 L BNN
+F 2 "ST24.022:SOT-23" H 1950 2050 50  0001 C CNN
+F 3 "" H 1950 2050 50  0001 C CNN
+	1    1950 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+5V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY026
+U 1 1 CB2EE093
+P 1850 1250
+F 0 "#SUPPLY026" H 1850 1250 50  0001 C CNN
+F 1 "+5V" H 1775 1375 59  0000 L BNN
+F 2 "" H 1850 1250 50  0001 C CNN
+F 3 "" H 1850 1250 50  0001 C CNN
+	1    1850 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:0V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND023
+U 1 1 D027D65F
+P 1850 2750
+F 0 "#GND023" H 1850 2750 50  0001 C CNN
+F 1 "0V" H 1575 2750 59  0000 L BNN
+F 2 "" H 1850 2750 50  0001 C CNN
+F 3 "" H 1850 2750 50  0001 C CNN
+	1    1850 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:AGND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #AGND04
+U 1 1 A37E874E
+P 3750 4850
+F 0 "#AGND04" H 3750 4850 50  0001 C CNN
+F 1 "AGND" V 3650 4650 59  0000 L BNN
+F 2 "" H 3750 4850 50  0001 C CNN
+F 3 "" H 3750 4850 50  0001 C CNN
+	1    3750 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:LM4040BIM3-5.0-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC13
+U 1 1 A99A637B
+P 3750 4450
+F 0 "IC13" V 3550 4150 59  0000 L BNN
+F 1 "LM4040BIM3-5.0" V 3650 4150 59  0000 L BNN
+F 2 "ST24.022:SOT-23" H 3750 4450 50  0001 C CNN
+F 3 "" H 3750 4450 50  0001 C CNN
+	1    3750 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P+014
+U 1 1 C5FBB535
+P 3750 3650
+F 0 "#P+014" H 3750 3650 50  0001 C CNN
+F 1 "+7V5" V 3850 3700 59  0000 L BNN
+F 2 "" H 3750 3650 50  0001 C CNN
+F 3 "" H 3750 3650 50  0001 C CNN
+	1    3750 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R246
+U 1 1 461E4003
+P 3750 3950
+F 0 "R246" H 3850 4100 59  0000 R TNN
+F 1 "1k" H 3700 3900 59  0000 R TNN
+F 2 "ST24.022:R0805" H 3750 3950 50  0001 C CNN
+F 3 "" H 3750 3950 50  0001 C CNN
+	1    3750 3950
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C36
+U 1 1 3FC6A76D
+P 3000 3450
+F 0 "C36" H 3000 3450 59  0000 L BNN
+F 1 "1nF" H 3000 3300 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 3000 3450 50  0001 C CNN
+F 3 "" H 3000 3450 50  0001 C CNN
+	1    3000 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C37
+U 1 1 217E3FE8
+P 2800 3450
+F 0 "C37" H 2600 3450 59  0000 L BNN
+F 1 "100nF" H 2650 3300 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 2800 3450 50  0001 C CNN
+F 3 "" H 2800 3450 50  0001 C CNN
+	1    2800 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:L-US0805_0603-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue L2
+U 1 1 4B1366DE
+P 3200 3050
+F 0 "L2" V 3350 2850 59  0000 L BNN
+F 1 "1k5@100MHz" V 3150 2800 59  0000 L BNN
+F 2 "ST24.022:0805_0603" H 3200 3050 50  0001 C CNN
+F 3 "" H 3200 3050 50  0001 C CNN
+	1    3200 3050
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:+5V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY011
+U 1 1 E0B04C0E
+P 2800 2950
+F 0 "#SUPPLY011" H 2800 2950 50  0001 C CNN
+F 1 "+5V" H 2725 3075 59  0000 L BNN
+F 2 "" H 2800 2950 50  0001 C CNN
+F 3 "" H 2800 2950 50  0001 C CNN
+	1    2800 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND025
+U 1 1 F212C7DE
+P 3000 3850
+F 0 "#GND025" H 3000 3850 50  0001 C CNN
+F 1 "GND" H 3000 3850 50  0001 C CNN
+F 2 "" H 3000 3850 50  0001 C CNN
+F 3 "" H 3000 3850 50  0001 C CNN
+	1    3000 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND038
+U 1 1 35D5721E
+P 4150 5150
+F 0 "#GND038" H 4150 5150 50  0001 C CNN
+F 1 "GND" H 4150 5150 50  0001 C CNN
+F 2 "" H 4150 5150 50  0001 C CNN
+F 3 "" H 4150 5150 50  0001 C CNN
+	1    4150 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+5V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY014
+U 1 1 C4643C99
+P 8750 3100
+F 0 "#SUPPLY014" H 8750 3100 50  0001 C CNN
+F 1 "+5V" H 8675 3225 59  0000 L BNN
+F 2 "" H 8750 3100 50  0001 C CNN
+F 3 "" H 8750 3100 50  0001 C CNN
+	1    8750 3100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:0V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY015
+U 1 1 2739B52F
+P 8950 3050
+F 0 "#SUPPLY015" H 8950 3050 50  0001 C CNN
+F 1 "0V" H 8905 2970 59  0000 L BNN
+F 2 "" H 8950 3050 50  0001 C CNN
+F 3 "" H 8950 3050 50  0001 C CNN
+	1    8950 3050
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:FE06-1FE06A-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue PJ2
+U 1 1 1232C926
+P 9450 3550
+F 0 "PJ2" H 9400 3980 59  0000 L BNN
+F 1 "unbest." H 9400 3150 59  0000 L BNN
+F 2 "ST24.022:CON_PJ2_AVR" H 9450 3550 50  0001 C CNN
+F 3 "" H 9450 3550 50  0001 C CNN
+	1    9450 3550
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C246
+U 1 1 6EC7B089
+P 3850 2550
+F 0 "C246" H 3750 2550 59  0000 L BNN
+F 1 "12pF" H 3800 2400 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 3850 2550 50  0001 C CNN
+F 3 "" H 3850 2550 50  0001 C CNN
+	1    3850 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND033
+U 1 1 C5585B8D
+P 3050 2900
+F 0 "#GND033" H 3050 2900 50  0001 C CNN
+F 1 "GND" H 3050 2900 50  0001 C CNN
+F 2 "" H 3050 2900 50  0001 C CNN
+F 3 "" H 3050 2900 50  0001 C CNN
+	1    3050 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND036
+U 1 1 CF583ECA
+P 3850 2900
+F 0 "#GND036" H 3850 2900 50  0001 C CNN
+F 1 "GND" H 3850 2900 50  0001 C CNN
+F 2 "" H 3850 2900 50  0001 C CNN
+F 3 "" H 3850 2900 50  0001 C CNN
+	1    3850 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R263
+U 1 1 0CB3F9DC
+P 7200 4550
+F 0 "R263" H 6950 4609 59  0000 L BNN
+F 1 "4k7" H 7450 4600 59  0000 L BNN
+F 2 "ST24.022:R0805" H 7200 4550 50  0001 C CNN
+F 3 "" H 7200 4550 50  0001 C CNN
+	1    7200 4550
+	0    -1   1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R262
+U 1 1 35B2B06C
+P 7400 4450
+F 0 "R262" H 7150 4509 59  0000 L BNN
+F 1 "4k7" H 7750 4400 59  0000 L BNN
+F 2 "ST24.022:R0805" H 7400 4450 50  0001 C CNN
+F 3 "" H 7400 4450 50  0001 C CNN
+	1    7400 4450
+	0    -1   1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:+5V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY01
+U 1 1 F54A36B8
+P 7600 3950
+F 0 "#SUPPLY01" H 7600 3950 50  0001 C CNN
+F 1 "+5V" H 7525 4075 59  0000 L BNN
+F 2 "" H 7600 3950 50  0001 C CNN
+F 3 "" H 7600 3950 50  0001 C CNN
+	1    7600 3950
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R247
+U 1 1 633CA633
+P 5800 6450
+F 0 "R247" H 5900 6300 59  0000 R TNN
+F 1 "10k" H 5850 6400 59  0000 R TNN
+F 2 "ST24.022:R0805" H 5800 6450 50  0001 C CNN
+F 3 "" H 5800 6450 50  0001 C CNN
+	1    5800 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R248
+U 1 1 192C24CD
+P 6850 1650
+F 0 "R248" H 6950 1600 59  0000 R TNN
+F 1 "10k" H 6700 1750 59  0000 R TNN
+F 2 "ST24.022:R0805" H 6850 1650 50  0001 C CNN
+F 3 "" H 6850 1650 50  0001 C CNN
+	1    6850 1650
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C23
+U 1 1 93AA069D
+P 7550 1000
+F 0 "C23" H 7610 1015 59  0000 L BNN
+F 1 "100nF" H 7610 815 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 7550 1000 50  0001 C CNN
+F 3 "" H 7550 1000 50  0001 C CNN
+	1    7550 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R253
+U 1 1 9330EAF5
+P 7900 900
+F 0 "R253" H 7850 1050 59  0000 R TNN
+F 1 "10k" H 8100 1050 59  0000 R TNN
+F 2 "ST24.022:R0805" H 7900 900 50  0001 C CNN
+F 3 "" H 7900 900 50  0001 C CNN
+	1    7900 900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND037
+U 1 1 02F4C5A1
+P 7550 1300
+F 0 "#GND037" H 7550 1300 50  0001 C CNN
+F 1 "AGND" V 7650 1250 59  0000 R TNN
+F 2 "" H 7550 1300 50  0001 C CNN
+F 3 "" H 7550 1300 50  0001 C CNN
+	1    7550 1300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C24
+U 1 1 7752927D
+P 8400 1300
+F 0 "C24" H 8460 1315 59  0000 L BNN
+F 1 "100nF" H 8460 1115 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 8400 1300 50  0001 C CNN
+F 3 "" H 8400 1300 50  0001 C CNN
+	1    8400 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R254
+U 1 1 8B0BDAE7
+P 8750 1200
+F 0 "R254" H 8700 1350 59  0000 R TNN
+F 1 "10k" H 8950 1350 59  0000 R TNN
+F 2 "ST24.022:R0805" H 8750 1200 50  0001 C CNN
+F 3 "" H 8750 1200 50  0001 C CNN
+	1    8750 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND040
+U 1 1 8CEEE7CF
+P 8400 1600
+F 0 "#GND040" H 8400 1600 50  0001 C CNN
+F 1 "AGND" V 8500 1550 59  0000 R TNN
+F 2 "" H 8400 1600 50  0001 C CNN
+F 3 "" H 8400 1600 50  0001 C CNN
+	1    8400 1600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C41
+U 1 1 1E4EECF3
+P 9300 1600
+F 0 "C41" H 9360 1615 59  0000 L BNN
+F 1 "100nF" H 9360 1415 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 9300 1600 50  0001 C CNN
+F 3 "" H 9300 1600 50  0001 C CNN
+	1    9300 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R255
+U 1 1 39D4052D
+P 9650 1500
+F 0 "R255" H 9600 1650 59  0000 R TNN
+F 1 "10k" H 9850 1650 59  0000 R TNN
+F 2 "ST24.022:R0805" H 9650 1500 50  0001 C CNN
+F 3 "" H 9650 1500 50  0001 C CNN
+	1    9650 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND041
+U 1 1 A2E60575
+P 9300 1900
+F 0 "#GND041" H 9300 1900 50  0001 C CNN
+F 1 "AGND" V 9400 1850 59  0000 R TNN
+F 2 "" H 9300 1900 50  0001 C CNN
+F 3 "" H 9300 1900 50  0001 C CNN
+	1    9300 1900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:SIMM22-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue PJ1
+U 1 1 8622BB05
+P 18550 250
+F 0 "PJ1" H 18450 1375 59  0000 L BNN
+F 1 "SIMM22" H 18450 -1050 59  0000 L BNN
+F 2 "ST24.022:SIMM22" H 18550 250 50  0001 C CNN
+F 3 "" H 18550 250 50  0001 C CNN
+	1    18550 250 
+	0    -1   1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:+5V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY09
+U 1 1 B8640D54
+P 23000 2700
+F 0 "#SUPPLY09" H 23000 2700 50  0001 C CNN
+F 1 "+5V" H 22925 2825 59  0000 L BNN
+F 2 "" H 23000 2700 50  0001 C CNN
+F 3 "" H 23000 2700 50  0001 C CNN
+	1    23000 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND044
+U 1 1 87F2849F
+P 23000 4000
+F 0 "#GND044" H 23000 4000 50  0001 C CNN
+F 1 "GND" H 22950 3900 50  0001 L BNN
+F 2 "" H 23000 4000 50  0001 C CNN
+F 3 "" H 23000 4000 50  0001 C CNN
+	1    23000 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+3V3-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPL02
+U 1 1 FC0667FC
+P 22700 2950
+F 0 "#SUPPL02" H 22700 2950 50  0001 C CNN
+F 1 "4V5" V 22800 3050 59  0000 R TNN
+F 2 "" H 22700 2950 50  0001 C CNN
+F 3 "" H 22700 2950 50  0001 C CNN
+	1    22700 2950
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R276
+U 1 1 35274CF4
+P 23000 3350
+F 0 "R276" H 22850 3409 59  0000 L BNN
+F 1 "1k" H 22850 3220 59  0000 L BNN
+F 2 "ST24.022:R0805" H 23000 3350 50  0001 C CNN
+F 3 "" H 23000 3350 50  0001 C CNN
+	1    23000 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C42
+U 1 1 9C5A3D76
+P 20500 2350
+F 0 "C42" H 20560 2365 59  0000 L BNN
+F 1 "10uF/16V" H 20560 2165 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 20500 2350 50  0001 C CNN
+F 3 "" H 20500 2350 50  0001 C CNN
+	1    20500 2350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C232
+U 1 1 3551F3CD
+P 20900 3400
+F 0 "C232" H 20800 3400 59  0000 L BNN
+F 1 "100nF" H 20800 3250 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 20900 3400 50  0001 C CNN
+F 3 "" H 20900 3400 50  0001 C CNN
+	1    20900 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C243
+U 1 1 FA295C6C
+P 20300 3450
+F 0 "C243" H 20200 3450 59  0000 L BNN
+F 1 "100nF" H 20200 3300 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 20300 3450 50  0001 C CNN
+F 3 "" H 20300 3450 50  0001 C CNN
+	1    20300 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C238
+U 1 1 D18B3D2B
+P 20500 4650
+F 0 "C238" H 20560 4665 59  0000 L BNN
+F 1 "100nF" H 20560 4465 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 20500 4650 50  0001 C CNN
+F 3 "" H 20500 4650 50  0001 C CNN
+	1    20500 4650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C241
+U 1 1 0B76E11B
+P 21700 4650
+F 0 "C241" H 21650 4650 59  0000 L BNN
+F 1 "100nF" H 21650 4450 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 21700 4650 50  0001 C CNN
+F 3 "" H 21700 4650 50  0001 C CNN
+	1    21700 4650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C49
+U 1 1 36DDF578
+P 22500 5000
+F 0 "C49" H 22450 5000 59  0000 L BNN
+F 1 "100nF" H 22400 4850 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 22500 5000 50  0001 C CNN
+F 3 "" H 22500 5000 50  0001 C CNN
+	1    22500 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C242
+U 1 1 AFD259CF
+P 21800 5450
+F 0 "C242" H 21750 5450 59  0000 L BNN
+F 1 "100nF" H 21700 5300 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 21800 5450 50  0001 C CNN
+F 3 "" H 21800 5450 50  0001 C CNN
+	1    21800 5450
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C240
+U 1 1 83329B74
+P 21500 5100
+F 0 "C240" H 21400 5100 59  0000 L BNN
+F 1 "100nF" H 21350 4950 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 21500 5100 50  0001 C CNN
+F 3 "" H 21500 5100 50  0001 C CNN
+	1    21500 5100
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C237
+U 1 1 A72D5E59
+P 20300 5100
+F 0 "C237" H 20200 5150 59  0000 L BNN
+F 1 "100nF" H 20150 4900 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 20300 5100 50  0001 C CNN
+F 3 "" H 20300 5100 50  0001 C CNN
+	1    20300 5100
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C239
+U 1 1 14381E90
+P 20600 5450
+F 0 "C239" H 20660 5465 59  0000 L BNN
+F 1 "100nF" H 20660 5265 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 20600 5450 50  0001 C CNN
+F 3 "" H 20600 5450 50  0001 C CNN
+	1    20600 5450
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C63
+U 1 1 2FAB5BC8
+P 23050 5000
+F 0 "C63" H 23050 5000 59  0000 L BNN
+F 1 "100nF" H 23050 4850 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 23050 5000 50  0001 C CNN
+F 3 "" H 23050 5000 50  0001 C CNN
+	1    23050 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C64
+U 1 1 752C0015
+P 22850 5000
+F 0 "C64" H 22800 5000 59  0000 L BNN
+F 1 "100nF" H 22750 4850 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 22850 5000 50  0001 C CNN
+F 3 "" H 22850 5000 50  0001 C CNN
+	1    22850 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C234
+U 1 1 E298A7A5
+P 20300 6500
+F 0 "C234" H 20200 6500 59  0000 L BNN
+F 1 "100nF" H 20200 6350 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 20300 6500 50  0001 C CNN
+F 3 "" H 20300 6500 50  0001 C CNN
+	1    20300 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C236
+U 1 1 43A7EB19
+P 20500 6950
+F 0 "C236" H 20400 6950 59  0000 L BNN
+F 1 "100nF" H 20400 6800 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 20500 6950 50  0001 C CNN
+F 3 "" H 20500 6950 50  0001 C CNN
+	1    20500 6950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C235
+U 1 1 B8D1A900
+P 20500 6150
+F 0 "C235" H 20400 6150 59  0000 L BNN
+F 1 "100nF" H 20400 6000 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 20500 6150 50  0001 C CNN
+F 3 "" H 20500 6150 50  0001 C CNN
+	1    20500 6150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R244
+U 1 1 D0143B6B
+P 1900 4300
+F 0 "R244" V 1941 3950 59  0000 L BNN
+F 1 "NTC 10k" V 1830 3850 59  0000 L BNN
+F 2 "ST24.022:R0805" H 1900 4300 50  0001 C CNN
+F 3 "" H 1900 4300 50  0001 C CNN
+	1    1900 4300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:AGND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #AGND03
+U 1 1 709E4A04
+P 3500 3950
+F 0 "#AGND03" H 3500 3950 50  0001 C CNN
+F 1 "AGND" V 3400 3750 59  0000 L BNN
+F 2 "" H 3500 3950 50  0001 C CNN
+F 3 "" H 3500 3950 50  0001 C CNN
+	1    3500 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:JP1E-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue JP1
+U 1 1 0B60073D
+P 5350 15500
+F 0 "JP1" H 5150 15500 59  0000 L BNN
+F 1 "JP1E" H 5100 15400 59  0000 L BNN
+F 2 "ST24.022:JP1" H 5350 15500 50  0001 C CNN
+F 3 "" H 5350 15500 50  0001 C CNN
+	1    5350 15500
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:+5V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY012
+U 1 1 31C2C8A5
+P 18250 5550
+F 0 "#SUPPLY012" H 18250 5550 50  0001 C CNN
+F 1 "+5V" H 18175 5675 59  0000 L BNN
+F 2 "" H 18250 5550 50  0001 C CNN
+F 3 "" H 18250 5550 50  0001 C CNN
+	1    18250 5550
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R268
+U 1 1 DAEE8D84
+P 18250 6050
+F 0 "R268" H 18200 5950 59  0000 R TNN
+F 1 "0R" H 18400 5950 59  0000 R TNN
+F 2 "ST24.022:R0805" H 18250 6050 50  0001 C CNN
+F 3 "" H 18250 6050 50  0001 C CNN
+	1    18250 6050
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R277
+U 1 1 1D2A8255
+P 16500 1900
+F 0 "R277" H 16350 1959 59  0000 L BNN
+F 1 "10k" H 16350 1770 59  0000 L BNN
+F 2 "ST24.022:R0805" H 16500 1900 50  0001 C CNN
+F 3 "" H 16500 1900 50  0001 C CNN
+	1    16500 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:+5V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY016
+U 1 1 86F85EE9
+P 16500 1600
+F 0 "#SUPPLY016" H 16500 1600 50  0001 C CNN
+F 1 "+5V" H 16425 1725 59  0000 L BNN
+F 2 "" H 16500 1600 50  0001 C CNN
+F 3 "" H 16500 1600 50  0001 C CNN
+	1    16500 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:PMLL4150-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue D10
+U 1 1 ADB78ED2
+P 23000 2900
+F 0 "D10" H 22900 2750 59  0000 L BNN
+F 1 "LL4148" H 22850 3050 59  0000 L BNN
+F 2 "ST24.022:SOD80C" H 23000 2900 50  0001 C CNN
+F 3 "" H 23000 2900 50  0001 C CNN
+	1    23000 2900
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:PMLL4150-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue D13
+U 1 1 C3702B69
+P 23000 3800
+F 0 "D13" H 22950 3650 59  0000 L BNN
+F 1 "LL4148" H 22900 3900 59  0000 L BNN
+F 2 "ST24.022:SOD80C" H 23000 3800 50  0001 C CNN
+F 3 "" H 23000 3800 50  0001 C CNN
+	1    23000 3800
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:+5V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY08
+U 1 1 39566F8A
+P 6900 13000
+F 0 "#SUPPLY08" H 6900 13000 50  0001 C CNN
+F 1 "+5V" H 6825 13125 59  0000 L BNN
+F 2 "" H 6900 13000 50  0001 C CNN
+F 3 "" H 6900 13000 50  0001 C CNN
+	1    6900 13000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:L-US0805_0603-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue L1
+U 1 1 05A55A4D
+P 6900 14000
+F 0 "L1" V 7050 13900 59  0000 L BNN
+F 1 "1k5@100MHz" V 6850 13750 59  0000 L BNN
+F 2 "ST24.022:0805_0603" H 6900 14000 50  0001 C CNN
+F 3 "" H 6900 14000 50  0001 C CNN
+	1    6900 14000
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C247
+U 1 1 A5D452A3
+P 6650 13550
+F 0 "C247" V 6985 13510 59  0000 L BNN
+F 1 "100nF" V 6835 13460 59  0000 L BNN
+F 2 "ST25.001:C0805K" H 6650 13550 50  0001 C CNN
+F 3 "" H 6650 13550 50  0001 C CNN
+	1    6650 13550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND045
+U 1 1 5123C17D
+P 6400 13550
+F 0 "#GND045" H 6400 13550 50  0001 C CNN
+F 1 "GND" H 6400 13550 50  0001 C CNN
+F 2 "" H 6400 13550 50  0001 C CNN
+F 3 "" H 6400 13550 50  0001 C CNN
+	1    6400 13550
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:DINA-DOC-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #FRAME2
+U 1 1 B9163575
+P 17900 17500
+F 0 "#FRAME2" H 17900 17500 50  0001 C CNN
+F 1 "DINA-DOC" H 17900 17500 50  0001 C CNN
+F 2 "" H 17900 17500 50  0001 C CNN
+F 3 "" H 17900 17500 50  0001 C CNN
+	1    17900 17500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:4093D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC209
+U 4 1 B96CC4B2
+P 15100 16650
+F 0 "IC209" H 15100 16950 59  0000 L BNN
+F 1 "HEF4093BT" H 15150 16850 59  0000 L BNN
+F 2 "ST24.022:SO14" H 15100 16650 50  0001 C CNN
+F 3 "" H 15100 16650 50  0001 C CNN
+	4    15100 16650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+5V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY017
+U 1 1 26B7FE90
+P 14700 16150
+F 0 "#SUPPLY017" H 14700 16150 50  0001 C CNN
+F 1 "+5V" H 14625 16275 59  0000 L BNN
+F 2 "" H 14700 16150 50  0001 C CNN
+F 3 "" H 14700 16150 50  0001 C CNN
+	1    14700 16150
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:TPSTP08-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue PM1
+U 1 1 12213F88
+P 14400 17200
+F 0 "PM1" H 14500 17150 59  0000 L BNN
+F 1 "TPSTP08" H 14500 17050 59  0000 L BNN
+F 2 "ST24.022:TP08R" H 14400 17200 50  0001 C CNN
+F 3 "" H 14400 17200 50  0001 C CNN
+	1    14400 17200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:TPSTP08-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue PM2
+U 1 1 56E7EA58
+P 14600 17200
+F 0 "PM2" H 14700 17150 59  0000 L BNN
+F 1 "TPSTP08" H 14700 17050 59  0000 L BNN
+F 2 "ST24.022:TP08R" H 14600 17200 50  0001 C CNN
+F 3 "" H 14600 17200 50  0001 C CNN
+	1    14600 17200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:TPSTP08-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue PM3
+U 1 1 A9A07062
+P 14800 17200
+F 0 "PM3" H 14900 17150 59  0000 L BNN
+F 1 "TPSTP08" H 14900 17050 59  0000 L BNN
+F 2 "ST24.022:TP08R" H 14800 17200 50  0001 C CNN
+F 3 "" H 14800 17200 50  0001 C CNN
+	1    14800 17200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:TPSTP08-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue PM4
+U 1 1 2C6323E1
+P 15000 17200
+F 0 "PM4" H 15100 17150 59  0000 L BNN
+F 1 "TPSTP08" H 15100 17050 59  0000 L BNN
+F 2 "ST24.022:TP08R" H 15000 17200 50  0001 C CNN
+F 3 "" H 15000 17200 50  0001 C CNN
+	1    15000 17200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:TPSTP08-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue PM5
+U 1 1 4960717B
+P 15200 17200
+F 0 "PM5" H 15300 17150 59  0000 L BNN
+F 1 "TPSTP08" H 15300 17050 59  0000 L BNN
+F 2 "ST24.022:TP08R" H 15200 17200 50  0001 C CNN
+F 3 "" H 15200 17200 50  0001 C CNN
+	1    15200 17200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:TPSTP08-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue PM6
+U 1 1 90B9F014
+P 15400 17200
+F 0 "PM6" H 15500 17150 59  0000 L BNN
+F 1 "TPSTP08" H 15500 17050 59  0000 L BNN
+F 2 "ST24.022:TP08R" H 15400 17200 50  0001 C CNN
+F 3 "" H 15400 17200 50  0001 C CNN
+	1    15400 17200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC4
+U 2 1 FA55F291
+P 11800 9700
+F 0 "IC4" H 11950 9400 59  0000 L BNN
+F 1 "HEF4066BT" H 11500 9400 59  0001 L BNN
+F 2 "ST24.022:SO14" H 11800 9700 50  0001 C CNN
+F 3 "" H 11800 9700 50  0001 C CNN
+	2    11800 9700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC5
+U 2 1 ECA671CA
+P 14150 7050
+F 0 "IC5" H 14300 6750 59  0000 L BNN
+F 1 "HEF4066BT" H 13850 6750 59  0001 L BNN
+F 2 "ST24.022:SO14" H 14150 7050 50  0001 C CNN
+F 3 "" H 14150 7050 50  0001 C CNN
+	2    14150 7050
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC6
+U 2 1 0EE56472
+P 14150 7600
+F 0 "IC6" H 14300 7300 59  0000 L BNN
+F 1 "HEF4066BT" H 13850 7300 59  0001 L BNN
+F 2 "ST24.022:SO14" H 14150 7600 50  0001 C CNN
+F 3 "" H 14150 7600 50  0001 C CNN
+	2    14150 7600
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC4
+U 5 1 FA55F28D
+P 21250 1150
+F 0 "IC4" H 21200 1125 59  0000 L BNN
+F 1 "HEF4066BT" H 20950 850 59  0001 L BNN
+F 2 "ST24.022:SO14" H 21250 1150 50  0001 C CNN
+F 3 "" H 21250 1150 50  0001 C CNN
+	5    21250 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC5
+U 5 1 ECA671D6
+P 22000 1150
+F 0 "IC5" H 21950 1125 59  0000 L BNN
+F 1 "HEF4066BT" H 21700 850 59  0001 L BNN
+F 2 "ST24.022:SO14" H 22000 1150 50  0001 C CNN
+F 3 "" H 22000 1150 50  0001 C CNN
+	5    22000 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC6
+U 5 1 0EE5646E
+P 22750 1150
+F 0 "IC6" H 22700 1125 59  0000 L BNN
+F 1 "HEF4066BT" H 22450 850 59  0001 L BNN
+F 2 "ST24.022:SO14" H 22750 1150 50  0001 C CNN
+F 3 "" H 22750 1150 50  0001 C CNN
+	5    22750 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC4
+U 1 1 FA55F29D
+P 12500 9700
+F 0 "IC4" H 12450 9675 59  0000 L BNN
+F 1 "HEF4066BT" H 12200 9400 59  0001 L BNN
+F 2 "ST24.022:SO14" H 12500 9700 50  0001 C CNN
+F 3 "" H 12500 9700 50  0001 C CNN
+	1    12500 9700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC4
+U 3 1 FA55F295
+P 13750 9700
+F 0 "IC4" H 13700 9675 59  0000 L BNN
+F 1 "HEF4066BT" H 13450 9400 59  0001 L BNN
+F 2 "ST24.022:SO14" H 13750 9700 50  0001 C CNN
+F 3 "" H 13750 9700 50  0001 C CNN
+	3    13750 9700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC4
+U 4 1 FA55F289
+P 13150 9700
+F 0 "IC4" H 13100 9675 59  0000 L BNN
+F 1 "HEF4066BT" H 12850 9400 59  0001 L BNN
+F 2 "ST24.022:SO14" H 13150 9700 50  0001 C CNN
+F 3 "" H 13150 9700 50  0001 C CNN
+	4    13150 9700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC5
+U 1 1 ECA671C6
+P 14350 9700
+F 0 "IC5" H 14300 9675 59  0000 L BNN
+F 1 "HEF4066BT" H 14050 9400 59  0001 L BNN
+F 2 "ST24.022:SO14" H 14350 9700 50  0001 C CNN
+F 3 "" H 14350 9700 50  0001 C CNN
+	1    14350 9700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC5
+U 4 1 ECA671D2
+P 19200 9000
+F 0 "IC5" H 19150 9050 59  0000 L BNN
+F 1 "HEF4066BT" H 19050 8700 59  0001 L BNN
+F 2 "ST24.022:SO14" H 19200 9000 50  0001 C CNN
+F 3 "" H 19200 9000 50  0001 C CNN
+	4    19200 9000
+	0    -1   1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC6
+U 1 1 0EE5647E
+P 14150 6500
+F 0 "IC6" H 14100 6475 59  0000 L BNN
+F 1 "HEF4066BT" H 13850 6200 59  0001 L BNN
+F 2 "ST24.022:SO14" H 14150 6500 50  0001 C CNN
+F 3 "" H 14150 6500 50  0001 C CNN
+	1    14150 6500
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC6
+U 4 1 0EE5646A
+P 14150 5950
+F 0 "IC6" H 14100 5925 59  0000 L BNN
+F 1 "HEF4066BT" H 13850 5650 59  0001 L BNN
+F 2 "ST24.022:SO14" H 14150 5950 50  0001 C CNN
+F 3 "" H 14150 5950 50  0001 C CNN
+	4    14150 5950
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC5
+U 3 1 ECA671CE
+P 21750 9000
+F 0 "IC5" H 21700 9100 59  0000 L BNN
+F 1 "HEF4066BT" H 21650 9250 59  0001 L BNN
+F 2 "ST24.022:SO14" H 21750 9000 50  0001 C CNN
+F 3 "" H 21750 9000 50  0001 C CNN
+	3    21750 9000
+	0    -1   1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC6
+U 3 1 0EE56476
+P 14150 8100
+F 0 "IC6" H 14100 8075 59  0000 L BNN
+F 1 "HEF4066BT" H 13850 7800 59  0001 L BNN
+F 2 "ST24.022:SO14" H 14150 8100 50  0001 C CNN
+F 3 "" H 14150 8100 50  0001 C CNN
+	3    14150 8100
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C263
+U 1 1 72D15A2B
+P 15050 7700
+F 0 "C263" V 15000 7350 59  0000 L BNN
+F 1 "15n" V 15000 6900 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 15050 7700 50  0001 C CNN
+F 3 "" H 15050 7700 50  0001 C CNN
+	1    15050 7700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C262
+U 1 1 2EE0FEA4
+P 15050 7150
+F 0 "C262" V 15000 6800 59  0000 L BNN
+F 1 "8n2" V 15000 6350 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 15050 7150 50  0001 C CNN
+F 3 "" H 15050 7150 50  0001 C CNN
+	1    15050 7150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C261
+U 1 1 C30D434C
+P 15050 6600
+F 0 "C261" V 15000 6250 59  0000 L BNN
+F 1 "4n7" V 15000 5850 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 15050 6600 50  0001 C CNN
+F 3 "" H 15050 6600 50  0001 C CNN
+	1    15050 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C251
+U 1 1 A1BD037A
+P 12400 10450
+F 0 "C251" V 12400 9800 59  0000 L BNN
+F 1 "5n6" V 12500 10450 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 12400 10450 50  0001 C CNN
+F 3 "" H 12400 10450 50  0001 C CNN
+	1    12400 10450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C250
+U 1 1 4702A8FE
+P 11700 10450
+F 0 "C250" V 11750 9800 59  0000 L BNN
+F 1 "3n6" V 11800 10450 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 11700 10450 50  0001 C CNN
+F 3 "" H 11700 10450 50  0001 C CNN
+	1    11700 10450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C260
+U 1 1 166E4207
+P 15050 6050
+F 0 "C260" V 15000 5700 59  0000 L BNN
+F 1 "3n3" V 15000 5300 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 15050 6050 50  0001 C CNN
+F 3 "" H 15050 6050 50  0001 C CNN
+	1    15050 6050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C252
+U 1 1 65FC0298
+P 13050 10450
+F 0 "C252" V 13050 9800 59  0000 L BNN
+F 1 "10nF" V 13150 10450 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 13050 10450 50  0001 C CNN
+F 3 "" H 13050 10450 50  0001 C CNN
+	1    13050 10450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C253
+U 1 1 6BC528BB
+P 13650 10450
+F 0 "C253" V 13650 9800 59  0000 L BNN
+F 1 "22nF" V 13750 10450 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 13650 10450 50  0001 C CNN
+F 3 "" H 13650 10450 50  0001 C CNN
+	1    13650 10450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C254
+U 1 1 FC03207B
+P 14250 10450
+F 0 "C254" V 14250 9800 59  0000 L BNN
+F 1 "6n8" V 14250 10450 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 14250 10450 50  0001 C CNN
+F 3 "" H 14250 10450 50  0001 C CNN
+	1    14250 10450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C264
+U 1 1 C41FF3BA
+P 15050 8200
+F 0 "C264" V 15000 7850 59  0000 L BNN
+F 1 "6n8" V 15000 7450 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 15050 8200 50  0001 C CNN
+F 3 "" H 15050 8200 50  0001 C CNN
+	1    15050 8200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R261
+U 1 1 AA6D8FD8
+P 11650 8650
+F 0 "R261" H 11500 8709 59  0000 L BNN
+F 1 "33k" H 11500 8520 59  0000 L BNN
+F 2 "ST24.022:R0805" H 11650 8650 50  0001 C CNN
+F 3 "" H 11650 8650 50  0001 C CNN
+	1    11650 8650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R215
+U 1 1 4A964849
+P 14050 8650
+F 0 "R215" H 13900 8709 59  0000 L BNN
+F 1 "68k" H 13900 8520 59  0000 L BNN
+F 2 "ST24.022:R0805" H 14050 8650 50  0001 C CNN
+F 3 "" H 14050 8650 50  0001 C CNN
+	1    14050 8650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND050
+U 1 1 47931690
+P 11700 10850
+F 0 "#GND050" H 11700 10850 50  0001 C CNN
+F 1 "GND" H 11600 10750 50  0001 L BNN
+F 2 "" H 11700 10850 50  0001 C CNN
+F 3 "" H 11700 10850 50  0001 C CNN
+	1    11700 10850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND051
+U 1 1 2CF0FB45
+P 12400 10850
+F 0 "#GND051" H 12400 10850 50  0001 C CNN
+F 1 "GND" H 12300 10750 50  0001 L BNN
+F 2 "" H 12400 10850 50  0001 C CNN
+F 3 "" H 12400 10850 50  0001 C CNN
+	1    12400 10850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND052
+U 1 1 6E5BE941
+P 13050 10850
+F 0 "#GND052" H 13050 10850 50  0001 C CNN
+F 1 "GND" H 12950 10750 50  0001 L BNN
+F 2 "" H 13050 10850 50  0001 C CNN
+F 3 "" H 13050 10850 50  0001 C CNN
+	1    13050 10850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND053
+U 1 1 F36FBA54
+P 13650 10850
+F 0 "#GND053" H 13650 10850 50  0001 C CNN
+F 1 "GND" H 13550 10750 50  0001 L BNN
+F 2 "" H 13650 10850 50  0001 C CNN
+F 3 "" H 13650 10850 50  0001 C CNN
+	1    13650 10850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND054
+U 1 1 72D39712
+P 14250 10850
+F 0 "#GND054" H 14250 10850 50  0001 C CNN
+F 1 "GND" H 14150 10750 50  0001 L BNN
+F 2 "" H 14250 10850 50  0001 C CNN
+F 3 "" H 14250 10850 50  0001 C CNN
+	1    14250 10850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C17
+U 1 1 E31E5A6A
+P 21450 1100
+F 0 "C17" H 21510 1115 59  0000 L BNN
+F 1 "100nF" H 21510 915 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 21450 1100 50  0001 C CNN
+F 3 "" H 21450 1100 50  0001 C CNN
+	1    21450 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C18
+U 1 1 38A0304A
+P 22250 1100
+F 0 "C18" H 22310 1115 59  0000 L BNN
+F 1 "100nF" H 22310 915 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 22250 1100 50  0001 C CNN
+F 3 "" H 22250 1100 50  0001 C CNN
+	1    22250 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C19
+U 1 1 93FC45DF
+P 23000 1100
+F 0 "C19" H 23060 1115 59  0000 L BNN
+F 1 "100nF" H 23060 915 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 23000 1100 50  0001 C CNN
+F 3 "" H 23000 1100 50  0001 C CNN
+	1    23000 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R249
+U 1 1 ACF55B95
+P 10250 5000
+F 0 "R249" H 10400 4950 59  0000 R TNN
+F 1 "10k" H 10300 5150 59  0000 R TNN
+F 2 "ST24.022:R0805" H 10250 5000 50  0001 C CNN
+F 3 "" H 10250 5000 50  0001 C CNN
+	1    10250 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R251
+U 1 1 176FB666
+P 12350 5450
+F 0 "R251" H 12500 5400 59  0000 R TNN
+F 1 "510k" H 12450 5600 59  0000 R TNN
+F 2 "ST24.022:R0805" H 12350 5450 50  0001 C CNN
+F 3 "" H 12350 5450 50  0001 C CNN
+	1    12350 5450
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C244
+U 1 1 A6291DB2
+P 12050 5800
+F 0 "C244" H 11760 5665 59  0000 L BNN
+F 1 "10n" H 11760 5765 59  0000 L BNN
+F 2 "ST25.001:C0805K" H 12050 5800 50  0001 C CNN
+F 3 "" H 12050 5800 50  0001 C CNN
+	1    12050 5800
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:PMLL4150-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue D1
+U 1 1 E1214509
+P 10050 5350
+F 0 "D1" H 10000 5200 59  0000 L BNN
+F 1 "BAT46" H 9850 5450 59  0000 L BNN
+F 2 "ST24.022:SOD80C" H 10050 5350 50  0001 C CNN
+F 3 "" H 10050 5350 50  0001 C CNN
+	1    10050 5350
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R243
+U 1 1 A6265DAD
+P 9850 5750
+F 0 "R243" H 10000 5700 59  0000 R TNN
+F 1 "1M" H 10050 5900 59  0000 R TNN
+F 2 "ST24.022:R0805" H 9850 5750 50  0001 C CNN
+F 3 "" H 9850 5750 50  0001 C CNN
+	1    9850 5750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND024
+U 1 1 157BD418
+P 12050 6200
+F 0 "#GND024" H 12050 6200 50  0001 C CNN
+F 1 "GND" H 11950 6100 50  0001 L BNN
+F 2 "" H 12050 6200 50  0001 C CNN
+F 3 "" H 12050 6200 50  0001 C CNN
+	1    12050 6200
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND059
+U 1 1 ACBC2CBC
+P 9850 6150
+F 0 "#GND059" H 9850 6150 50  0001 C CNN
+F 1 "GND" H 9750 6050 50  0001 L BNN
+F 2 "" H 9850 6150 50  0001 C CNN
+F 3 "" H 9850 6150 50  0001 C CNN
+	1    9850 6150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+5V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY022
+U 1 1 15C4ECC7
+P 10250 4600
+F 0 "#SUPPLY022" H 10250 4600 50  0001 C CNN
+F 1 "+5V" H 10175 4725 59  0000 L BNN
+F 2 "" H 10250 4600 50  0001 C CNN
+F 3 "" H 10250 4600 50  0001 C CNN
+	1    10250 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R250
+U 1 1 C96E197A
+P 11800 4900
+F 0 "R250" H 11950 4850 59  0000 R TNN
+F 1 "47k" H 11900 5050 59  0000 R TNN
+F 2 "ST24.022:R0805" H 11800 4900 50  0001 C CNN
+F 3 "" H 11800 4900 50  0001 C CNN
+	1    11800 4900
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R252
+U 1 1 08CA3335
+P 11800 5800
+F 0 "R252" H 11900 5750 59  0000 R TNN
+F 1 "8k2" H 11900 5900 59  0000 R TNN
+F 2 "ST24.022:R0805" H 11800 5800 50  0001 C CNN
+F 3 "" H 11800 5800 50  0001 C CNN
+	1    11800 5800
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R260
+U 1 1 D77B9036
+P 11550 12600
+F 0 "R260" H 11700 12550 59  0000 R TNN
+F 1 "10k" H 11600 12750 59  0000 R TNN
+F 2 "ST24.022:R0805" H 11550 12600 50  0001 C CNN
+F 3 "" H 11550 12600 50  0001 C CNN
+	1    11550 12600
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R266
+U 1 1 FCCD98B9
+P 17250 8500
+F 0 "R266" H 17100 8659 59  0000 L BNN
+F 1 "160k" H 17100 8570 59  0000 L BNN
+F 2 "ST24.022:R0805" H 17250 8500 50  0001 C CNN
+F 3 "" H 17250 8500 50  0001 C CNN
+	1    17250 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:TRANSISTORTRANS-WIEDIODE-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue T201
+U 1 1 00FC9E80
+P 11300 6300
+F 0 "T201" H 10900 6470 42  0000 L BNN
+F 1 "BSS123" H 10850 6350 42  0000 L BNN
+F 2 "ST24.022:SOT23" H 11300 6300 50  0001 C CNN
+F 3 "" H 11300 6300 50  0001 C CNN
+	1    11300 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R278
+U 1 1 7A5EBE34
+P 10800 6700
+F 0 "R278" H 10950 6650 59  0000 R TNN
+F 1 "100k" H 10900 6850 59  0000 R TNN
+F 2 "ST24.022:R0805" H 10800 6700 50  0001 C CNN
+F 3 "" H 10800 6700 50  0001 C CNN
+	1    10800 6700
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R279
+U 1 1 C1E79E58
+P 11300 5800
+F 0 "R279" H 11450 5750 59  0000 R TNN
+F 1 "18k" H 11400 5950 59  0000 R TNN
+F 2 "ST24.022:R0805" H 11300 5800 50  0001 C CNN
+F 3 "" H 11300 5800 50  0001 C CNN
+	1    11300 5800
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND055
+U 1 1 740EDAAB
+P 11300 7050
+F 0 "#GND055" H 11300 7050 50  0001 C CNN
+F 1 "GND" H 11200 6950 50  0001 L BNN
+F 2 "" H 11300 7050 50  0001 C CNN
+F 3 "" H 11300 7050 50  0001 C CNN
+	1    11300 7050
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C22
+U 1 1 A05C1986
+P 1650 6450
+F 0 "C22" V 1535 6310 59  0000 L BNN
+F 1 "100nF" V 1835 6210 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 1650 6450 50  0001 C CNN
+F 3 "" H 1650 6450 50  0001 C CNN
+	1    1650 6450
+	0    1    -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:+5V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY03
+U 1 1 4F8E092B
+P 2050 6150
+F 0 "#SUPPLY03" H 2050 6150 50  0001 C CNN
+F 1 "+5V" H 1975 6275 59  0000 L BNN
+F 2 "" H 2050 6150 50  0001 C CNN
+F 3 "" H 2050 6150 50  0001 C CNN
+	1    2050 6150
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R256
+U 1 1 B82D0C39
+P 2800 5700
+F 0 "R256" H 2650 5759 59  0000 L BNN
+F 1 "4k7" V 3050 5700 59  0000 L BNN
+F 2 "ST24.022:R0805" H 2800 5700 50  0001 C CNN
+F 3 "" H 2800 5700 50  0001 C CNN
+	1    2800 5700
+	0    -1   1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R257
+U 1 1 6FEC1A2D
+P 2600 5700
+F 0 "R257" H 2450 5759 59  0000 L BNN
+F 1 "4k7" V 2850 5700 59  0000 L BNN
+F 2 "ST24.022:R0805" H 2600 5700 50  0001 C CNN
+F 3 "" H 2600 5700 50  0001 C CNN
+	1    2600 5700
+	0    -1   1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:+5V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY04
+U 1 1 1C9152C2
+P 2700 5300
+F 0 "#SUPPLY04" H 2700 5300 50  0001 C CNN
+F 1 "+5V" H 2625 5425 59  0000 L BNN
+F 2 "" H 2700 5300 50  0001 C CNN
+F 3 "" H 2700 5300 50  0001 C CNN
+	1    2700 5300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND019
+U 1 1 F278BC0E
+P 1350 6450
+F 0 "#GND019" H 1350 6450 50  0001 C CNN
+F 1 "GND" H 1350 6450 50  0001 C CNN
+F 2 "" H 1350 6450 50  0001 C CNN
+F 3 "" H 1350 6450 50  0001 C CNN
+	1    1350 6450
+	0    1    -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND020
+U 1 1 E53A484A
+P 1850 8450
+F 0 "#GND020" H 1850 8450 50  0001 C CNN
+F 1 "GND" H 1850 8450 50  0001 C CNN
+F 2 "" H 1850 8450 50  0001 C CNN
+F 3 "" H 1850 8450 50  0001 C CNN
+	1    1850 8450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND026
+U 1 1 3890F70B
+P 1350 7450
+F 0 "#GND026" H 1350 7450 50  0001 C CNN
+F 1 "GND" H 1350 7450 50  0001 C CNN
+F 2 "" H 1350 7450 50  0001 C CNN
+F 3 "" H 1350 7450 50  0001 C CNN
+	1    1350 7450
+	0    1    -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:+5V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY018
+U 1 1 C00D883A
+P 2050 9750
+F 0 "#SUPPLY018" H 2050 9750 50  0001 C CNN
+F 1 "+5V" H 1975 9875 59  0000 L BNN
+F 2 "" H 2050 9750 50  0001 C CNN
+F 3 "" H 2050 9750 50  0001 C CNN
+	1    2050 9750
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C4
+U 1 1 A60240AA
+P 1550 10000
+F 0 "C4" V 1435 9860 59  0000 L BNN
+F 1 "100nF" V 1735 9760 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 1550 10000 50  0001 C CNN
+F 3 "" H 1550 10000 50  0001 C CNN
+	1    1550 10000
+	0    1    -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND01
+U 1 1 8DA2BB24
+P 1250 10000
+F 0 "#GND01" H 1250 10000 50  0001 C CNN
+F 1 "GND" H 1250 10000 50  0001 C CNN
+F 2 "" H 1250 10000 50  0001 C CNN
+F 3 "" H 1250 10000 50  0001 C CNN
+	1    1250 10000
+	0    1    -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND046
+U 1 1 6BBB6AA2
+P 1300 10950
+F 0 "#GND046" H 1300 10950 50  0001 C CNN
+F 1 "GND" H 1300 10950 50  0001 C CNN
+F 2 "" H 1300 10950 50  0001 C CNN
+F 3 "" H 1300 10950 50  0001 C CNN
+	1    1300 10950
+	0    1    -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND047
+U 1 1 E3D3C258
+P 1700 11950
+F 0 "#GND047" H 1700 11950 50  0001 C CNN
+F 1 "GND" H 1700 11950 50  0001 C CNN
+F 2 "" H 1700 11950 50  0001 C CNN
+F 3 "" H 1700 11950 50  0001 C CNN
+	1    1700 11950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:MMDT5401-7-F-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue T203
+U 1 1 7B072FCE
+P 5100 7350
+F 0 "T203" H 4850 7250 69  0000 L BNN
+F 1 "MMDT5401-7-F" H 4500 6850 69  0000 L BNN
+F 2 "ST24.022:SOT65P210X110-6N" H 5100 7350 50  0001 C CNN
+F 3 "" H 5100 7350 50  0001 C CNN
+	1    5100 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:MMDT5401-7-F-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue T204
+U 1 1 6B5F301C
+P 5100 8100
+F 0 "T204" H 4850 8000 69  0000 L BNN
+F 1 "MMDT5401-7-F" H 4618 7599 69  0000 L BNN
+F 2 "ST24.022:SOT65P210X110-6N" H 5100 8100 50  0001 C CNN
+F 3 "" H 5100 8100 50  0001 C CNN
+	1    5100 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:MMDT5401-7-F-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue T205
+U 1 1 FF85FF13
+P 5100 9500
+F 0 "T205" H 4850 9350 69  0000 L BNN
+F 1 "MMDT5401-7-F" H 4618 8999 69  0000 L BNN
+F 2 "ST24.022:SOT65P210X110-6N" H 5100 9500 50  0001 C CNN
+F 3 "" H 5100 9500 50  0001 C CNN
+	1    5100 9500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:MMDT5401-7-F-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue T206
+U 1 1 CEFAECA9
+P 5100 10950
+F 0 "T206" H 4850 10850 69  0000 L BNN
+F 1 "MMDT5401-7-F" H 4618 10449 69  0000 L BNN
+F 2 "ST24.022:SOT65P210X110-6N" H 5100 10950 50  0001 C CNN
+F 3 "" H 5100 10950 50  0001 C CNN
+	1    5100 10950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:MMDT5401-7-F-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue T207
+U 1 1 9D6B628E
+P 5100 11700
+F 0 "T207" H 4850 11600 69  0000 L BNN
+F 1 "MMDT5401-7-F" H 4618 11199 69  0000 L BNN
+F 2 "ST24.022:SOT65P210X110-6N" H 5100 11700 50  0001 C CNN
+F 3 "" H 5100 11700 50  0001 C CNN
+	1    5100 11700
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R1
+U 1 1 8BB82814
+P 3500 10850
+F 0 "R1" H 3350 10909 59  0000 L BNN
+F 1 "47k" H 3550 10920 59  0000 L BNN
+F 2 "ST24.022:R0805" H 3500 10850 50  0001 C CNN
+F 3 "" H 3500 10850 50  0001 C CNN
+	1    3500 10850
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R2
+U 1 1 5A80CFA9
+P 3500 11050
+F 0 "R2" H 3350 11109 59  0000 L BNN
+F 1 "47k" H 3550 11120 59  0000 L BNN
+F 2 "ST24.022:R0805" H 3500 11050 50  0001 C CNN
+F 3 "" H 3500 11050 50  0001 C CNN
+	1    3500 11050
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R3
+U 1 1 7FD4C25A
+P 3500 11250
+F 0 "R3" H 3350 11309 59  0000 L BNN
+F 1 "47k" H 3550 11320 59  0000 L BNN
+F 2 "ST24.022:R0805" H 3500 11250 50  0001 C CNN
+F 3 "" H 3500 11250 50  0001 C CNN
+	1    3500 11250
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R4
+U 1 1 65404986
+P 3500 11450
+F 0 "R4" H 3350 11509 59  0000 L BNN
+F 1 "47k" H 3550 11520 59  0000 L BNN
+F 2 "ST24.022:R0805" H 3500 11450 50  0001 C CNN
+F 3 "" H 3500 11450 50  0001 C CNN
+	1    3500 11450
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R5
+U 1 1 153B9B4B
+P 3500 11650
+F 0 "R5" H 3350 11709 59  0000 L BNN
+F 1 "47k" H 3550 11720 59  0000 L BNN
+F 2 "ST24.022:R0805" H 3500 11650 50  0001 C CNN
+F 3 "" H 3500 11650 50  0001 C CNN
+	1    3500 11650
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R6
+U 1 1 C438F371
+P 3550 7250
+F 0 "R6" H 3400 7309 59  0000 L BNN
+F 1 "47k" H 3600 7320 59  0000 L BNN
+F 2 "ST24.022:R0805" H 3550 7250 50  0001 C CNN
+F 3 "" H 3550 7250 50  0001 C CNN
+	1    3550 7250
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R7
+U 1 1 39A5056F
+P 3550 7450
+F 0 "R7" H 3400 7509 59  0000 L BNN
+F 1 "47k" H 3600 7520 59  0000 L BNN
+F 2 "ST24.022:R0805" H 3550 7450 50  0001 C CNN
+F 3 "" H 3550 7450 50  0001 C CNN
+	1    3550 7450
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R8
+U 1 1 E4E8C636
+P 3550 7650
+F 0 "R8" H 3400 7709 59  0000 L BNN
+F 1 "47k" H 3600 7720 59  0000 L BNN
+F 2 "ST24.022:R0805" H 3550 7650 50  0001 C CNN
+F 3 "" H 3550 7650 50  0001 C CNN
+	1    3550 7650
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R9
+U 1 1 F6801DE1
+P 3550 7850
+F 0 "R9" H 3400 7909 59  0000 L BNN
+F 1 "47k" H 3600 7920 59  0000 L BNN
+F 2 "ST24.022:R0805" H 3550 7850 50  0001 C CNN
+F 3 "" H 3550 7850 50  0001 C CNN
+	1    3550 7850
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R10
+U 1 1 14CD020A
+P 3550 8050
+F 0 "R10" H 3400 8109 59  0000 L BNN
+F 1 "47k" H 3600 8120 59  0000 L BNN
+F 2 "ST24.022:R0805" H 3550 8050 50  0001 C CNN
+F 3 "" H 3550 8050 50  0001 C CNN
+	1    3550 8050
+	1    0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R11
+U 1 1 E2E372F7
+P 5400 12500
+F 0 "R11" H 5300 12450 59  0000 L BNN
+F 1 "47k" H 5150 11100 59  0000 L BNN
+F 2 "ST24.022:R0805" H 5400 12500 50  0001 C CNN
+F 3 "" H 5400 12500 50  0001 C CNN
+	1    5400 12500
+	0    -1   1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R12
+U 1 1 2DBD69BC
+P 5500 12500
+F 0 "R12" H 5400 12450 59  0000 L BNN
+F 1 "47k" H 5400 11450 59  0000 L BNN
+F 2 "ST24.022:R0805" H 5500 12500 50  0001 C CNN
+F 3 "" H 5500 12500 50  0001 C CNN
+	1    5500 12500
+	0    -1   1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R13
+U 1 1 82FA368E
+P 5600 12500
+F 0 "R13" H 5500 12450 59  0000 L BNN
+F 1 "47k" H 5500 11350 59  0000 L BNN
+F 2 "ST24.022:R0805" H 5600 12500 50  0001 C CNN
+F 3 "" H 5600 12500 50  0001 C CNN
+	1    5600 12500
+	0    -1   1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R14
+U 1 1 8D6AD5AA
+P 5700 12500
+F 0 "R14" H 5600 12450 59  0000 L BNN
+F 1 "47k" H 5400 11500 59  0000 L BNN
+F 2 "ST24.022:R0805" H 5700 12500 50  0001 C CNN
+F 3 "" H 5700 12500 50  0001 C CNN
+	1    5700 12500
+	0    -1   1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R15
+U 1 1 397FAE68
+P 5800 12500
+F 0 "R15" H 5700 12450 59  0000 L BNN
+F 1 "47k" H 5700 11650 59  0000 L BNN
+F 2 "ST24.022:R0805" H 5800 12500 50  0001 C CNN
+F 3 "" H 5800 12500 50  0001 C CNN
+	1    5800 12500
+	0    -1   1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R16
+U 1 1 420F5130
+P 5900 12500
+F 0 "R16" H 5800 12450 59  0000 L BNN
+F 1 "47k" H 5600 11800 59  0000 L BNN
+F 2 "ST24.022:R0805" H 5900 12500 50  0001 C CNN
+F 3 "" H 5900 12500 50  0001 C CNN
+	1    5900 12500
+	0    -1   1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R17
+U 1 1 78409433
+P 6000 12500
+F 0 "R17" H 5900 12450 59  0000 L BNN
+F 1 "47k" H 5900 12050 59  0000 L BNN
+F 2 "ST24.022:R0805" H 6000 12500 50  0001 C CNN
+F 3 "" H 6000 12500 50  0001 C CNN
+	1    6000 12500
+	0    -1   1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R18
+U 1 1 E9519ED8
+P 6100 12500
+F 0 "R18" H 6000 12450 59  0000 L BNN
+F 1 "47k" H 6000 11750 59  0000 L BNN
+F 2 "ST24.022:R0805" H 6100 12500 50  0001 C CNN
+F 3 "" H 6100 12500 50  0001 C CNN
+	1    6100 12500
+	0    -1   1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R19
+U 1 1 A03D6273
+P 6200 12500
+F 0 "R19" H 6100 12450 59  0000 L BNN
+F 1 "47k" H 5900 12200 59  0000 L BNN
+F 2 "ST24.022:R0805" H 6200 12500 50  0001 C CNN
+F 3 "" H 6200 12500 50  0001 C CNN
+	1    6200 12500
+	0    -1   1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R20
+U 1 1 BE051996
+P 6300 12500
+F 0 "R20" H 6200 12450 59  0000 L BNN
+F 1 "47k" H 6000 12400 59  0000 L BNN
+F 2 "ST24.022:R0805" H 6300 12500 50  0001 C CNN
+F 3 "" H 6300 12500 50  0001 C CNN
+	1    6300 12500
+	0    -1   1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:-7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P-02
+U 1 1 BDEAD289
+P 5900 12900
+F 0 "#P-02" H 5900 12900 50  0001 C CNN
+F 1 "-7V5" V 6000 12850 59  0000 L BNN
+F 2 "" H 5900 12900 50  0001 C CNN
+F 3 "" H 5900 12900 50  0001 C CNN
+	1    5900 12900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+5V-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #SUPPLY023
+U 1 1 F460BE83
+P 4250 6800
+F 0 "#SUPPLY023" H 4250 6800 50  0001 C CNN
+F 1 "+5V" H 4175 6925 59  0000 L BNN
+F 2 "" H 4250 6800 50  0001 C CNN
+F 3 "" H 4250 6800 50  0001 C CNN
+	1    4250 6800
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:LEDCHIPLED_1206-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue LED1
+U 1 1 DEE7FC31
+P 3700 9200
+F 0 "LED1" V 3840 9020 59  0000 L BNN
+F 1 "vlms30j1l2-gs08" V 3900 8600 59  0000 L BNN
+F 2 "ST24.022:CHIPLED_1206" H 3700 9200 50  0001 C CNN
+F 3 "" H 3700 9200 50  0001 C CNN
+	1    3700 9200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:LEDCHIPLED_1206-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue LED2
+U 1 1 524F4974
+P 3350 9200
+F 0 "LED2" V 3490 9020 59  0000 L BNN
+F 1 "vlmc3100-gs08" V 3200 8600 59  0000 L BNN
+F 2 "ST24.022:CHIPLED_1206" H 3350 9200 50  0001 C CNN
+F 3 "" H 3350 9200 50  0001 C CNN
+	1    3350 9200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R258
+U 1 1 2EAEF0B0
+P 3350 8900
+F 0 "R258" H 3200 8959 59  0000 L BNN
+F 1 "4k7" H 3200 8770 59  0000 L BNN
+F 2 "ST24.022:R0805" H 3350 8900 50  0001 C CNN
+F 3 "" H 3350 8900 50  0001 C CNN
+	1    3350 8900
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R259
+U 1 1 F968C67F
+P 3700 8900
+F 0 "R259" H 3550 8959 59  0000 L BNN
+F 1 "4k7" H 3550 8770 59  0000 L BNN
+F 2 "ST24.022:R0805" H 3700 8900 50  0001 C CNN
+F 3 "" H 3700 8900 50  0001 C CNN
+	1    3700 8900
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND027
+U 1 1 F8638A93
+P 3350 9500
+F 0 "#GND027" H 3350 9500 50  0001 C CNN
+F 1 "GND" H 3350 9500 50  0001 C CNN
+F 2 "" H 3350 9500 50  0001 C CNN
+F 3 "" H 3350 9500 50  0001 C CNN
+	1    3350 9500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND029
+U 1 1 B0E7A0AF
+P 3700 9500
+F 0 "#GND029" H 3700 9500 50  0001 C CNN
+F 1 "GND" H 3700 9500 50  0001 C CNN
+F 2 "" H 3700 9500 50  0001 C CNN
+F 3 "" H 3700 9500 50  0001 C CNN
+	1    3700 9500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P+03
+U 1 1 48C2C5DB
+P 21250 600
+F 0 "#P+03" H 21250 600 50  0001 C CNN
+F 1 "+7V5" V 21200 700 59  0000 L BNN
+F 2 "" H 21250 600 50  0001 C CNN
+F 3 "" H 21250 600 50  0001 C CNN
+	1    21250 600 
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P+013
+U 1 1 1A067FB7
+P 22000 600
+F 0 "#P+013" H 22000 600 50  0001 C CNN
+F 1 "+7V5" V 21950 700 59  0000 L BNN
+F 2 "" H 22000 600 50  0001 C CNN
+F 3 "" H 22000 600 50  0001 C CNN
+	1    22000 600 
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:+7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P+015
+U 1 1 836A5F30
+P 22750 600
+F 0 "#P+015" H 22750 600 50  0001 C CNN
+F 1 "+7V5" V 22700 700 59  0000 L BNN
+F 2 "" H 22750 600 50  0001 C CNN
+F 3 "" H 22750 600 50  0001 C CNN
+	1    22750 600 
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:-7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P-03
+U 1 1 8B22421F
+P 21250 1700
+F 0 "#P-03" H 21250 1700 50  0001 C CNN
+F 1 "-7V5" V 21300 1600 59  0000 R TNN
+F 2 "" H 21250 1700 50  0001 C CNN
+F 3 "" H 21250 1700 50  0001 C CNN
+	1    21250 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:-7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P-011
+U 1 1 3D11AA40
+P 22000 1700
+F 0 "#P-011" H 22000 1700 50  0001 C CNN
+F 1 "-7V5" V 22050 1600 59  0000 R TNN
+F 2 "" H 22000 1700 50  0001 C CNN
+F 3 "" H 22000 1700 50  0001 C CNN
+	1    22000 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:-7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P-012
+U 1 1 CF23554D
+P 22750 1700
+F 0 "#P-012" H 22750 1700 50  0001 C CNN
+F 1 "-7V5" V 22800 1600 59  0000 R TNN
+F 2 "" H 22750 1700 50  0001 C CNN
+F 3 "" H 22750 1700 50  0001 C CNN
+	1    22750 1700
+	1    0    0    -1  
+$EndComp
+Text Notes 20000 6600 0    42   ~ 0
+IC207
+Text Notes 21150 5050 0    42   ~ 0
+IC201
+Text Notes 19950 5100 0    42   ~ 0
+IC202
+Text Notes 21300 16500 0    170  ~ 0
+ST24
+Wire Wire Line
+	11700 12150 11700 12350
+Wire Wire Line
+	12650 12150 12650 12550
+Text Label 15300 8650 0    50   ~ 0
+summierpunkt
+Text Label 12850 8650 0    50   ~ 0
+schiebepunkt
+Text Label 17500 8050 1    50   ~ 0
+talema
+Text Label 10550 8650 0    50   ~ 0
+SOLL
+Text Label 12200 12900 0    50   ~ 0
+dreieck
+Text Label 13750 13900 0    50   ~ 0
+rechteck
+Text Label 12650 11950 0    50   ~ 0
+sinus
+Text Label 20250 9650 0    50   ~ 0
+rdson_beidepositiv
+Wire Wire Line
+	20650 3050 20650 3100
+Wire Wire Line
+	20650 3000 20650 3100
+Wire Wire Line
+	18550 650  18550 12250
+Wire Wire Line
+	18650 650  18650 12150
+Wire Wire Line
+	18750 650  18750 12000
+Wire Wire Line
+	18850 650  18850 11850
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C1
+U 1 1 62EF111B
+P 17100 3200
+F 0 "C1" V 17050 3250 59  0000 L BNN
+F 1 "10n" V 17050 2900 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 17100 3200 50  0001 C CNN
+F 3 "" H 17100 3200 50  0001 C CNN
+	1    17100 3200
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	17100 3000 17100 2600
+Connection ~ 17100 2600
+Wire Wire Line
+	17100 2600 16750 2600
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND0101
+U 1 1 6301FB96
+P 17100 3500
+F 0 "#GND0101" H 17100 3500 50  0001 C CNN
+F 1 "GND" H 17000 3400 50  0001 L BNN
+F 2 "" H 17100 3500 50  0001 C CNN
+F 3 "" H 17100 3500 50  0001 C CNN
+	1    17100 3500
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	17100 3400 17100 3300
+Wire Wire Line
+	7200 16750 7950 16750
+Text Label 8750 15650 0    50   ~ 0
+DE
+Wire Wire Line
+	6550 4550 6800 4550
+Text Label 6800 4550 0    50   ~ 0
+DE
+Text Label 7600 4450 2    50   ~ 0
+SDA
+Text Label 7600 4550 2    50   ~ 0
+SCL
+Wire Wire Line
+	4900 15250 4900 15850
+Wire Wire Line
+	5050 15750 5050 15950
+Wire Wire Line
+	5050 15950 4750 15950
+Connection ~ 5050 15950
+Wire Wire Line
+	5050 15950 5050 16050
+Wire Wire Line
+	22050 11450 22500 11450
+Wire Wire Line
+	22600 10050 22600 10000
+Wire Wire Line
+	19050 650  19050 7850
+Wire Wire Line
+	20000 10000 20300 10000
+Wire Wire Line
+	20300 10000 20300 10150
+Wire Wire Line
+	20000 10000 20000 10050
+Wire Wire Line
+	20300 10550 20300 10750
+Wire Wire Line
+	20300 10750 19900 10750
+Wire Wire Line
+	19900 10650 19900 10750
+Connection ~ 19900 10750
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R38
+U 1 1 61AA76C9
+P 20300 10350
+F 0 "R38" H 20450 10300 59  0000 R TNN
+F 1 "n.b." H 20250 10300 59  0000 R TNN
+F 2 "ST24.022:R0805" H 20300 10350 50  0001 C CNN
+F 3 "" H 20300 10350 50  0001 C CNN
+	1    20300 10350
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	22600 10000 22950 10000
+Wire Wire Line
+	22950 10000 22950 10150
+Wire Wire Line
+	22500 10650 22950 10650
+Wire Wire Line
+	22950 10650 22950 10550
+Connection ~ 22500 5450
+Wire Wire Line
+	22500 5450 22500 5200
+Connection ~ 22500 4800
+Wire Wire Line
+	22500 4800 22500 4900
+$Comp
+L ST25.004-rescue:LM2903-Comparator-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC16
+U 1 1 628472F6
+P 19900 10350
+F 0 "IC16" H 19850 10550 50  0000 C CNN
+F 1 "LM258" H 19850 10350 50  0000 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 19900 10350 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm393.pdf" H 19900 10350 50  0001 C CNN
+	1    19900 10350
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:LM2903-Comparator-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC16
+U 2 1 6284AB4C
+P 22500 10350
+F 0 "IC16" H 22500 10200 50  0000 C CNN
+F 1 "LM258" H 22450 10350 50  0000 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 22500 10350 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm393.pdf" H 22500 10350 50  0001 C CNN
+	2    22500 10350
+	0    -1   1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:LM2903-Comparator-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC16
+U 3 1 6284DCF0
+P 21600 6550
+F 0 "IC16" H 21300 6550 50  0000 L CNN
+F 1 "LM258" H 21250 6450 50  0000 L CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 21600 6550 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm393.pdf" H 21600 6550 50  0001 C CNN
+	3    21600 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C2
+U 1 1 6284E6A3
+P 21750 6500
+F 0 "C2" H 21700 6500 59  0000 L BNN
+F 1 "100nF" H 21600 6350 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 21750 6500 50  0001 C CNN
+F 3 "" H 21750 6500 50  0001 C CNN
+	1    21750 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C3
+U 1 1 6284EAC8
+P 21900 6250
+F 0 "C3" H 21900 6250 59  0000 L BNN
+F 1 "100nF" H 21800 6100 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 21900 6250 50  0001 C CNN
+F 3 "" H 21900 6250 50  0001 C CNN
+	1    21900 6250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C5
+U 1 1 6284EF16
+P 21900 6850
+F 0 "C5" H 21850 6850 59  0000 L BNN
+F 1 "100nF" H 21800 6700 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 21900 6850 50  0001 C CNN
+F 3 "" H 21900 6850 50  0001 C CNN
+	1    21900 6850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND09
+U 1 1 6284F3A7
+P 22250 6550
+F 0 "#GND09" H 22250 6550 50  0001 C CNN
+F 1 "AGND" V 22150 6450 59  0000 L BNN
+F 2 "" H 22250 6550 50  0001 C CNN
+F 3 "" H 22250 6550 50  0001 C CNN
+	1    22250 6550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:+7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P+016
+U 1 1 6284F75F
+P 21500 6000
+F 0 "#P+016" H 21500 6000 50  0001 C CNN
+F 1 "+7V5" V 21450 6100 59  0000 L BNN
+F 2 "" H 21500 6000 50  0001 C CNN
+F 3 "" H 21500 6000 50  0001 C CNN
+	1    21500 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:-7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P-013
+U 1 1 6284FBD6
+P 21500 7100
+F 0 "#P-013" H 21500 7100 50  0001 C CNN
+F 1 "-7V5" V 21550 7000 59  0000 R TNN
+F 2 "" H 21500 7100 50  0001 C CNN
+F 3 "" H 21500 7100 50  0001 C CNN
+	1    21500 7100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	21500 6250 21500 6100
+Wire Wire Line
+	21500 7000 21500 6850
+Wire Wire Line
+	21500 6850 21750 6850
+Connection ~ 21500 6850
+Wire Wire Line
+	21500 6250 21750 6250
+Connection ~ 21500 6250
+Wire Wire Line
+	22100 6250 22150 6250
+Wire Wire Line
+	22150 6250 22150 6550
+Wire Wire Line
+	22150 6850 22100 6850
+Connection ~ 22150 6550
+Wire Wire Line
+	22150 6550 22150 6850
+Wire Wire Line
+	21750 6400 21750 6250
+Connection ~ 21750 6250
+Wire Wire Line
+	21750 6250 21800 6250
+Wire Wire Line
+	21750 6700 21750 6850
+Connection ~ 21750 6850
+Wire Wire Line
+	21750 6850 21800 6850
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND056
+U 1 1 64489A19
+P 16850 9850
+F 0 "#GND056" H 16850 9850 50  0001 C CNN
+F 1 "AGND" V 16750 9750 59  0000 L BNN
+F 2 "" H 16850 9850 50  0001 C CNN
+F 3 "" H 16850 9850 50  0001 C CNN
+	1    16850 9850
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R25
+U 1 1 645B41C4
+P 17250 11900
+F 0 "R25" H 17400 11850 59  0000 R TNN
+F 1 "n.b." H 17200 11850 59  0000 R TNN
+F 2 "ST24.022:R0805" H 17250 11900 50  0001 C CNN
+F 3 "" H 17250 11900 50  0001 C CNN
+	1    17250 11900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R24
+U 1 1 6039A8E1
+P 17900 11700
+F 0 "R24" H 18050 11650 59  0000 R TNN
+F 1 "1k" H 17850 11650 59  0000 R TNN
+F 2 "ST24.022:R0805" H 17900 11700 50  0001 C CNN
+F 3 "" H 17900 11700 50  0001 C CNN
+	1    17900 11700
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C8
+U 1 1 6039AE8D
+P 17950 11400
+F 0 "C8" V 17850 11450 59  0000 L BNN
+F 1 "n.b." V 17750 11350 59  0000 R TNN
+F 2 "ST24.022:C0805K" H 17950 11400 50  0001 C CNN
+F 3 "" H 17950 11400 50  0001 C CNN
+	1    17950 11400
+	0    1    1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R27
+U 1 1 63A2B6BB
+P 17350 9850
+F 0 "R27" H 17400 10000 59  0000 R TNN
+F 1 "n.b." H 17400 9800 59  0000 R TNN
+F 2 "ST24.022:R0805" H 17350 9850 50  0001 C CNN
+F 3 "" H 17350 9850 50  0001 C CNN
+	1    17350 9850
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R28
+U 1 1 63902B66
+P 17550 10600
+F 0 "R28" H 17700 10550 59  0000 R TNN
+F 1 "1k" H 17500 10550 59  0000 R TNN
+F 2 "ST24.022:R0805" H 17550 10600 50  0001 C CNN
+F 3 "" H 17550 10600 50  0001 C CNN
+	1    17550 10600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R29
+U 1 1 60276647
+P 16200 11000
+F 0 "R29" H 16350 10950 59  0000 R TNN
+F 1 "2M" H 16150 10950 59  0000 R TNN
+F 2 "ST24.022:R0805" H 16200 11000 50  0001 C CNN
+F 3 "" H 16200 11000 50  0001 C CNN
+	1    16200 11000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND0103
+U 1 1 602770C5
+P 16200 11300
+F 0 "#GND0103" H 16200 11300 50  0001 C CNN
+F 1 "AGND" V 16100 11200 59  0000 L BNN
+F 2 "" H 16200 11300 50  0001 C CNN
+F 3 "" H 16200 11300 50  0001 C CNN
+	1    16200 11300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	15150 11100 16000 11100
+Wire Wire Line
+	16000 11100 16000 10800
+Wire Wire Line
+	16000 10800 16200 10800
+Text Label 8300 3750 0    40   ~ 0
+OFFSD
+Text Label 8300 3450 0    40   ~ 0
+FBOFF
+Text Label 8300 3550 0    40   ~ 0
+REL1
+$Comp
+L ST25.004-rescue:RJLSE4038101-SamacSys_Parts-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue J5
+U 1 1 60264BDE
+P 8800 4750
+F 0 "J5" H 9250 5015 50  0000 C CNN
+F 1 "RJHSE5380" H 9250 4924 50  0000 C CNN
+F 2 "SamacSys_Parts:RJHSE5380-SS603000-11o79merge" H 9550 4850 50  0001 L CNN
+F 3 "https://componentsearchengine.com//RJLSE4038101.pdf" H 9550 4750 50  0001 L CNN
+F 4 "Modular Connectors / Ethernet Connectors 8P8C SMT Shielded 1 Port" H 9550 4650 50  0001 L CNN "Description"
+F 5 "11.85" H 9550 4550 50  0001 L CNN "Height"
+F 6 "523-RJLSE4038101" H 9550 4450 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Amphenol-Commercial-Products/RJLSE4038101/?qs=ToP8pWlZ0bPQpqouwnZkSg%3D%3D" H 9550 4350 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Amphenol" H 9550 4250 50  0001 L CNN "Manufacturer_Name"
+F 9 "RJLSE4038101" H 9550 4150 50  0001 L CNN "Manufacturer_Part_Number"
+	1    8800 4750
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4900 15850 4750 15850
+Text Label 8200 9350 0    10   ~ 0
+GND
+Text Label 18400 5950 0    10   ~ 0
+GND
+Text Label 14600 13200 0    10   ~ 0
+GND
+Text Label 16750 3400 0    10   ~ 0
+GND
+Connection ~ 5400 15750
+$Comp
+L ST25.004-rescue:ADM2587J-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC14
+U 1 1 88E69F5F
+P 6000 15250
+F 0 "IC14" H 6300 15050 59  0000 L BNN
+F 1 "ADM2587EBRWZ" H 6300 14950 59  0000 L BNN
+F 2 "ST24.022:SO20W" H 6000 15250 50  0001 C CNN
+F 3 "" H 6000 15250 50  0001 C CNN
+	1    6000 15250
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:GND-power-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #PWR0101
+U 1 1 61050AAB
+P 8650 15350
+F 0 "#PWR0101" H 8650 15100 50  0001 C CNN
+F 1 "GND" H 8655 15177 50  0000 C CNN
+F 2 "" H 8650 15350 50  0001 C CNN
+F 3 "" H 8650 15350 50  0001 C CNN
+	1    8650 15350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8300 15350 8300 15300
+Wire Wire Line
+	8300 15300 8650 15300
+Connection ~ 8650 15300
+Wire Wire Line
+	8650 15300 8650 15250
+Wire Wire Line
+	8200 16450 8200 16750
+Wire Wire Line
+	8200 16750 7950 16750
+Connection ~ 7950 16750
+Wire Wire Line
+	6550 4650 7400 4650
+Wire Wire Line
+	7600 4550 7900 4550
+Wire Wire Line
+	7900 4450 7600 4450
+$Comp
+L ST25.004-rescue:GND-power-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #PWR0102
+U 1 1 60829409
+P 8850 4800
+F 0 "#PWR0102" H 8850 4550 50  0001 C CNN
+F 1 "GND" H 8855 4627 50  0000 C CNN
+F 2 "" H 8850 4800 50  0001 C CNN
+F 3 "" H 8850 4800 50  0001 C CNN
+	1    8850 4800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8850 4800 8850 4750
+Wire Wire Line
+	8850 4650 8800 4650
+Wire Wire Line
+	8800 4750 8850 4750
+Connection ~ 8850 4750
+Wire Wire Line
+	8850 4750 8850 4650
+Wire Wire Line
+	7900 4250 7750 4250
+Wire Wire Line
+	7750 4250 7750 3850
+Wire Wire Line
+	7750 3850 8850 3850
+Wire Wire Line
+	8850 3850 8850 4550
+Connection ~ 8850 4650
+Wire Wire Line
+	7600 4050 7600 4100
+Connection ~ 7400 4650
+Connection ~ 7200 4750
+Wire Wire Line
+	7400 4250 7400 4100
+Wire Wire Line
+	7400 4100 7600 4100
+Connection ~ 7600 4100
+Wire Wire Line
+	7600 4100 7600 4350
+Wire Wire Line
+	7200 4350 7200 4250
+Wire Wire Line
+	7200 4250 7400 4250
+Connection ~ 7400 4250
+Wire Wire Line
+	11200 7650 9250 7650
+Wire Wire Line
+	11200 7650 11200 11100
+Wire Wire Line
+	9250 5000 9250 7650
+Wire Wire Line
+	14800 7700 14800 7900
+Wire Wire Line
+	14800 7900 14950 7900
+Connection ~ 14800 7700
+Wire Wire Line
+	14800 7700 14950 7700
+Wire Wire Line
+	15250 7900 15500 7900
+Wire Wire Line
+	15500 7900 15500 7700
+Connection ~ 15500 7700
+Wire Wire Line
+	15500 7700 15900 7700
+Wire Wire Line
+	14950 7350 14750 7350
+Wire Wire Line
+	14750 7350 14750 7150
+Connection ~ 14750 7150
+Wire Wire Line
+	14750 7150 14950 7150
+Wire Wire Line
+	15250 7350 15500 7350
+Wire Wire Line
+	15500 7350 15500 7150
+Connection ~ 15500 7150
+Wire Wire Line
+	15500 7150 15900 7150
+Wire Wire Line
+	14950 6800 14750 6800
+Wire Wire Line
+	14750 6800 14750 6600
+Connection ~ 14750 6600
+Wire Wire Line
+	14750 6600 14950 6600
+Wire Wire Line
+	15250 6800 15500 6800
+Wire Wire Line
+	15500 6800 15500 6600
+Connection ~ 15500 6600
+Wire Wire Line
+	15500 6600 15900 6600
+Wire Wire Line
+	15250 6250 15500 6250
+Wire Wire Line
+	15500 6250 15500 6050
+Connection ~ 15500 6050
+Wire Wire Line
+	15500 6050 15900 6050
+Wire Wire Line
+	14950 6250 14750 6250
+Wire Wire Line
+	14750 6250 14750 6050
+Connection ~ 14750 6050
+Wire Wire Line
+	14750 6050 14950 6050
+Wire Wire Line
+	13450 10350 13650 10350
+Connection ~ 13650 10350
+Wire Wire Line
+	13650 10350 13650 10200
+Wire Wire Line
+	13450 10650 13650 10650
+Connection ~ 13650 10650
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C253-2
+U 1 1 6037620F
+P 13450 10450
+F 0 "C253-2" V 13450 9800 59  0000 L BNN
+F 1 "18nF" V 13450 10450 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 13450 10450 50  0001 C CNN
+F 3 "" H 13450 10450 50  0001 C CNN
+	1    13450 10450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C263-2
+U 1 1 603767BF
+P 15050 7900
+F 0 "C263-2" V 15000 7400 59  0000 L BNN
+F 1 "12n" V 15000 7100 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 15050 7900 50  0001 C CNN
+F 3 "" H 15050 7900 50  0001 C CNN
+	1    15050 7900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C262-2
+U 1 1 60376E08
+P 15050 7350
+F 0 "C262-2" V 15000 6850 59  0000 L BNN
+F 1 "5n6" V 15000 6600 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 15050 7350 50  0001 C CNN
+F 3 "" H 15050 7350 50  0001 C CNN
+	1    15050 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C260-2
+U 1 1 603771B9
+P 15050 6250
+F 0 "C260-2" V 15000 5750 59  0000 L BNN
+F 1 "1n" V 15000 5500 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 15050 6250 50  0001 C CNN
+F 3 "" H 15050 6250 50  0001 C CNN
+	1    15050 6250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C261-2
+U 1 1 60377443
+P 15050 6800
+F 0 "C261-2" V 15000 6350 59  0000 L BNN
+F 1 "3n3" V 15000 6050 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 15050 6800 50  0001 C CNN
+F 3 "" H 15050 6800 50  0001 C CNN
+	1    15050 6800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C9
+U 1 1 6037D0FA
+P 8200 16350
+F 0 "C9" H 8100 16400 59  0000 L BNN
+F 1 "12pF" H 8100 16300 59  0000 R TNN
+F 2 "ST24.022:C0805K" H 8200 16350 50  0001 C CNN
+F 3 "" H 8200 16350 50  0001 C CNN
+	1    8200 16350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8200 16150 8800 16150
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C10
+U 1 1 6037DA45
+P 8300 15550
+F 0 "C10" H 8350 15300 59  0000 L BNN
+F 1 "12pF" H 8450 15450 59  0000 R TNN
+F 2 "ST24.022:C0805K" H 8300 15550 50  0001 C CNN
+F 3 "" H 8300 15550 50  0001 C CNN
+	1    8300 15550
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8300 15650 8750 15650
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R31
+U 1 1 6037E59B
+P 8000 15650
+F 0 "R31" H 8050 15600 59  0000 R TNN
+F 1 "0R" H 8050 15800 59  0000 R TNN
+F 2 "ST24.022:R0805" H 8000 15650 50  0001 C CNN
+F 3 "" H 8000 15650 50  0001 C CNN
+	1    8000 15650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7700 15550 7700 15650
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R30
+U 1 1 6037F76C
+P 7900 16150
+F 0 "R30" H 8000 16300 59  0000 R TNN
+F 1 "0R" H 7950 16100 59  0000 R TNN
+F 2 "ST24.022:R0805" H 7900 16150 50  0001 C CNN
+F 3 "" H 7900 16150 50  0001 C CNN
+	1    7900 16150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7600 16150 7700 16150
+Wire Wire Line
+	8100 16150 8200 16150
+Connection ~ 8200 16150
+Wire Wire Line
+	7800 15650 7700 15650
+Connection ~ 7700 15650
+Wire Wire Line
+	7700 15650 7700 15750
+Wire Wire Line
+	8200 15650 8300 15650
+Connection ~ 8300 15650
+Wire Wire Line
+	17700 11700 17700 11400
+Wire Wire Line
+	18100 11400 18100 11700
+Wire Wire Line
+	17750 11400 17700 11400
+Wire Wire Line
+	18050 11400 18100 11400
+Wire Wire Line
+	21650 8500 21650 7850
+Connection ~ 22500 10650
+Wire Wire Line
+	19800 10050 19800 10000
+Wire Wire Line
+	19800 10000 19600 10000
+Wire Wire Line
+	19600 10000 19600 10750
+Wire Wire Line
+	19900 10750 19600 10750
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R26
+U 1 1 63A2B076
+P 17350 10150
+F 0 "R26" H 17500 10100 59  0000 R TNN
+F 1 "n.b." H 17300 10100 59  0000 R TNN
+F 2 "ST24.022:R0805" H 17350 10150 50  0001 C CNN
+F 3 "" H 17350 10150 50  0001 C CNN
+	1    17350 10150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	17550 9850 17550 10000
+Connection ~ 17550 10150
+Wire Wire Line
+	17150 9850 16950 9850
+Wire Wire Line
+	17150 10150 17150 10450
+Wire Wire Line
+	17550 10000 16850 10000
+Wire Wire Line
+	16850 10000 16850 11050
+Connection ~ 17550 10000
+Wire Wire Line
+	17550 10000 17550 10150
+Wire Wire Line
+	17550 10400 17550 10150
+Wire Wire Line
+	17550 10800 17550 11050
+Wire Wire Line
+	17550 11050 17250 11050
+Wire Wire Line
+	19300 8500 19300 8250
+Wire Wire Line
+	19100 8500 19100 8250
+Wire Wire Line
+	19100 8250 18950 8250
+Wire Wire Line
+	18950 650  18950 8000
+Connection ~ 19450 8250
+Wire Wire Line
+	19300 8250 19450 8250
+Wire Wire Line
+	19450 8250 19450 11250
+Wire Wire Line
+	19800 8250 19450 8250
+Wire Wire Line
+	19050 7850 21650 7850
+Wire Wire Line
+	22600 7850 21650 7850
+Wire Wire Line
+	22600 7850 22600 8500
+Connection ~ 21650 7850
+Wire Wire Line
+	20000 9500 20000 9850
+Connection ~ 20000 10000
+Connection ~ 22600 10000
+Wire Wire Line
+	22500 11450 22500 11050
+Wire Wire Line
+	17700 11700 17250 11700
+Wire Wire Line
+	17250 11700 17250 11400
+Connection ~ 17700 11700
+Connection ~ 17250 11050
+Wire Wire Line
+	17550 9850 17550 8800
+Wire Wire Line
+	17450 8800 17550 8800
+Connection ~ 17550 9850
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C28
+U 1 1 636E88B7
+P 17150 11400
+F 0 "C28" V 17050 11450 59  0000 L BNN
+F 1 "n.b." V 17000 11350 59  0000 R TNN
+F 2 "ST24.022:C0805K" H 17150 11400 50  0001 C CNN
+F 3 "" H 17150 11400 50  0001 C CNN
+	1    17150 11400
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	16850 11050 17050 11050
+Text Label 19450 8250 0    50   ~ 0
+r_clock
+Text Label 21850 8250 0    50   ~ 0
+!r_clock
+Wire Wire Line
+	20000 8500 20000 8000
+Wire Wire Line
+	20000 8000 18950 8000
+Connection ~ 18950 8000
+Wire Wire Line
+	18950 8000 18950 8250
+Wire Wire Line
+	12750 8650 12750 8950
+Connection ~ 12750 8950
+Wire Wire Line
+	12750 8950 13050 8950
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C250-2
+U 1 1 64DA3F0A
+P 11500 10450
+F 0 "C250-2" V 11500 9800 59  0000 L BNN
+F 1 "1nF" V 11500 10450 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 11500 10450 50  0001 C CNN
+F 3 "" H 11500 10450 50  0001 C CNN
+	1    11500 10450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C251-2
+U 1 1 64DA42D0
+P 12200 10450
+F 0 "C251-2" V 12200 9800 59  0000 L BNN
+F 1 "4n7" V 12200 10450 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 12200 10450 50  0001 C CNN
+F 3 "" H 12200 10450 50  0001 C CNN
+	1    12200 10450
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C252-2
+U 1 1 64DA45CD
+P 12850 10450
+F 0 "C252-2" V 12850 9800 59  0000 L BNN
+F 1 "10n" V 12850 10450 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 12850 10450 50  0001 C CNN
+F 3 "" H 12850 10450 50  0001 C CNN
+	1    12850 10450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11500 10350 11700 10350
+Connection ~ 11700 10350
+Wire Wire Line
+	11500 10650 11700 10650
+Connection ~ 11700 10650
+Wire Wire Line
+	12200 10350 12400 10350
+Connection ~ 12400 10350
+Wire Wire Line
+	12200 10650 12400 10650
+Connection ~ 12400 10650
+Wire Wire Line
+	12850 10350 13050 10350
+Connection ~ 13050 10350
+Wire Wire Line
+	12850 10650 13050 10650
+Connection ~ 13050 10650
+Text Label 22600 9900 0    50   ~ 0
+r2
+Text Label 5150 15250 0    50   ~ 0
+j1
+Text Label 5200 15750 0    50   ~ 0
+j2
+Text Label 5500 14450 0    50   ~ 0
+j3
+Wire Wire Line
+	6550 4350 7000 4350
+Text Label 6650 3650 0    50   ~ 0
+TDI
+Text Label 6650 3750 0    50   ~ 0
+TDO
+Text Label 6650 3850 0    50   ~ 0
+TMS
+Text Label 6650 3950 0    50   ~ 0
+TCK
+Wire Wire Line
+	6650 3950 6550 3950
+Wire Wire Line
+	6650 3850 6550 3850
+Wire Wire Line
+	6650 3750 6550 3750
+Wire Wire Line
+	6650 3650 6550 3650
+Wire Wire Line
+	6650 1650 6550 1650
+Wire Wire Line
+	7300 1650 7050 1650
+Wire Wire Line
+	5450 6450 5600 6450
+Wire Wire Line
+	6550 3050 7400 3050
+Wire Wire Line
+	6550 2950 7450 2950
+Wire Wire Line
+	6550 2850 7500 2850
+Text Label 6650 6450 0    50   ~ 0
+TDO
+Text Label 6650 5850 0    50   ~ 0
+TDI
+Text Label 6650 6650 0    50   ~ 0
+TCK
+NoConn ~ 7750 4450
+$Comp
+L ST25.004-rescue:Conn_01x10_Male-Connector-ST25.001-rescue-ST25.003-rescue J1
+U 1 1 6056E39A
+P 7150 6250
+F 0 "J1" H 7122 6132 50  0000 R CNN
+F 1 "n.b." H 7122 6223 50  0000 R CNN
+F 2 "Connector_PinSocket_1.27mm:PinSocket_2x05_P1.27mm_Vertical" H 7150 6250 50  0001 C CNN
+F 3 "~" H 7150 6250 50  0001 C CNN
+	1    7150 6250
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:GND-power-ST25.001-rescue-ST25.003-rescue #PWR0103
+U 1 1 60815D5F
+P 6350 6550
+F 0 "#PWR0103" H 6350 6300 50  0001 C CNN
+F 1 "GND" H 6355 6377 50  0000 C CNN
+F 2 "" H 6350 6550 50  0001 C CNN
+F 3 "" H 6350 6550 50  0001 C CNN
+	1    6350 6550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6350 6550 6950 6550
+Wire Wire Line
+	6650 6650 6950 6650
+$Comp
+L ST25.004-rescue:+5V-power-ST25.001-rescue-ST25.003-rescue #PWR0104
+U 1 1 60C0D023
+P 6350 6350
+F 0 "#PWR0104" H 6350 6200 50  0001 C CNN
+F 1 "+5V" H 6365 6523 50  0000 C CNN
+F 2 "" H 6350 6350 50  0001 C CNN
+F 3 "" H 6350 6350 50  0001 C CNN
+	1    6350 6350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6350 6350 6950 6350
+Text Label 6650 6250 0    50   ~ 0
+TMS
+Wire Wire Line
+	6650 6250 6950 6250
+Text Label 6650 6150 0    50   ~ 0
+RESET
+Wire Wire Line
+	6650 6150 6950 6150
+$Comp
+L ST25.004-rescue:GND-power-ST25.001-rescue-ST25.003-rescue #PWR0105
+U 1 1 61559BFD
+P 6350 5750
+F 0 "#PWR0105" H 6350 5500 50  0001 C CNN
+F 1 "GND" H 6355 5577 50  0000 C CNN
+F 2 "" H 6350 5750 50  0001 C CNN
+F 3 "" H 6350 5750 50  0001 C CNN
+	1    6350 5750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6350 5750 6950 5750
+Wire Wire Line
+	6000 6450 6950 6450
+Wire Wire Line
+	7400 3050 7400 3950
+Wire Wire Line
+	7400 3950 7150 3950
+Wire Wire Line
+	7350 3300 7350 4000
+Wire Wire Line
+	7350 4000 7300 4000
+Wire Wire Line
+	7450 3850 7150 3850
+Wire Wire Line
+	7450 2950 7450 3850
+Wire Wire Line
+	7500 3750 7150 3750
+Wire Wire Line
+	7500 2850 7500 3750
+Wire Wire Line
+	7000 4350 7000 3650
+Wire Wire Line
+	7000 3650 7150 3650
+$Comp
+L ST25.004-rescue:FODM217D-Isolator-ST25.001-rescue-ST25.003-rescue IC17
+U 1 1 61A586AD
+P 5350 5900
+F 0 "IC17" H 5350 6225 50  0000 C CNN
+F 1 "FODM217D" H 5350 6134 50  0000 C CNN
+F 2 "Package_SO:SOP-4_4.4x2.6mm_P1.27mm" H 5350 5700 50  0001 C CIN
+F 3 "https://www.onsemi.com/pub/Collateral/FODM214-D.PDF" H 5350 5900 50  0001 L CNN
+	1    5350 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:Conn_01x02-Connector_Generic-ST25.001-rescue-ST25.003-rescue J2
+U 1 1 61A61ACA
+P 4000 5900
+F 0 "J2" H 3918 5575 50  0000 C CNN
+F 1 "n.b." H 3918 5666 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4000 5900 50  0001 C CNN
+F 3 "~" H 4000 5900 50  0001 C CNN
+	1    4000 5900
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R23
+U 1 1 61A7C3D7
+P 4700 5800
+F 0 "R23" H 4800 5900 59  0000 R TNN
+F 1 "1k" H 4750 5750 59  0000 R TNN
+F 2 "ST24.022:R0805" H 4700 5800 50  0001 C CNN
+F 3 "" H 4700 5800 50  0001 C CNN
+	1    4700 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R22
+U 1 1 61A7D7BC
+P 4450 6000
+F 0 "R22" H 4550 6100 59  0000 R TNN
+F 1 "1k" H 4500 5950 59  0000 R TNN
+F 2 "ST24.022:R0805" H 4450 6000 50  0001 C CNN
+F 3 "" H 4450 6000 50  0001 C CNN
+	1    4450 6000
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4200 5800 4450 5800
+Wire Wire Line
+	4450 5800 4500 5800
+Connection ~ 4450 5800
+Wire Wire Line
+	4900 5800 4950 5800
+Wire Wire Line
+	5050 6000 5050 6200
+Wire Wire Line
+	5050 6200 4950 6200
+Wire Wire Line
+	4450 6200 4200 6200
+Wire Wire Line
+	4200 6200 4200 5900
+Connection ~ 4450 6200
+$Comp
+L ST25.004-rescue:GND-power-ST25.001-rescue-ST25.003-rescue #PWR01
+U 1 1 6216E59A
+P 5650 6100
+F 0 "#PWR01" H 5650 5850 50  0001 C CNN
+F 1 "GND" H 5655 5927 50  0000 C CNN
+F 2 "" H 5650 6100 50  0001 C CNN
+F 3 "" H 5650 6100 50  0001 C CNN
+	1    5650 6100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5650 6100 5650 6000
+Wire Wire Line
+	5650 5800 5850 5800
+Wire Wire Line
+	5850 5800 5850 5850
+Wire Wire Line
+	5850 5850 6950 5850
+Wire Wire Line
+	7400 4650 7900 4650
+Wire Wire Line
+	7200 4750 7900 4750
+$Comp
+L ST25.004-rescue:PMLL4150-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue D2
+U 1 1 60770935
+P 4950 6000
+F 0 "D2" H 5000 5850 59  0000 L BNN
+F 1 "LL4148" H 4750 6100 59  0000 L BNN
+F 2 "ST24.022:SOD80C" H 4950 6000 50  0001 C CNN
+F 3 "" H 4950 6000 50  0001 C CNN
+	1    4950 6000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4950 5900 4950 5800
+Connection ~ 4950 5800
+Wire Wire Line
+	4950 5800 5050 5800
+Wire Wire Line
+	4950 6100 4950 6200
+Connection ~ 4950 6200
+Wire Wire Line
+	4950 6200 4450 6200
+$Comp
+L ST25.004-rescue:Conn_01x02-Connector_Generic-ST25.001-rescue-ST25.003-rescue J3
+U 1 1 613387DF
+P 4450 14600
+F 0 "J3" H 4368 14275 50  0000 C CNN
+F 1 "n.b. 1.27" H 4368 14366 50  0000 C CNN
+F 2 "Connector_PinSocket_1.27mm:PinSocket_1x02_P1.27mm_Vertical" H 4450 14600 50  0001 C CNN
+F 3 "~" H 4450 14600 50  0001 C CNN
+	1    4450 14600
+	0    -1   1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R34
+U 1 1 61D1377F
+P 8250 4400
+F 0 "R34" H 8400 4350 59  0000 R TNN
+F 1 "n.b." H 8200 4350 59  0000 R TNN
+F 2 "ST24.022:R0805" H 8250 4400 50  0001 C CNN
+F 3 "" H 8250 4400 50  0001 C CNN
+	1    8250 4400
+	0    -1   1    0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R33
+U 1 1 60465454
+P 8700 4350
+F 0 "R33" H 8850 4300 59  0000 R TNN
+F 1 "n.b." H 8650 4300 59  0000 R TNN
+F 2 "ST24.022:R0805" H 8700 4350 50  0001 C CNN
+F 3 "" H 8700 4350 50  0001 C CNN
+	1    8700 4350
+	0    -1   1    0   
+$EndComp
+Wire Wire Line
+	8700 4550 8850 4550
+Connection ~ 8850 4550
+Wire Wire Line
+	8850 4550 8850 4650
+Wire Wire Line
+	7900 4050 8250 4050
+Wire Wire Line
+	8250 4200 8250 4050
+Connection ~ 8250 4050
+Wire Wire Line
+	8250 4600 8150 4600
+Wire Wire Line
+	8150 4600 8150 4350
+Wire Wire Line
+	7600 4350 7900 4350
+Connection ~ 7900 4350
+Wire Wire Line
+	7900 4350 8150 4350
+Connection ~ 22100 8250
+Wire Wire Line
+	22100 8250 22400 8250
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC3
+U 1 1 608FB183
+P 22850 14550
+F 0 "IC3" H 22850 14830 59  0000 C CNN
+F 1 "HEF4066BT" H 22550 14250 59  0001 L BNN
+F 2 "ST24.022:SO14" H 22850 14550 50  0001 C CNN
+F 3 "" H 22850 14550 50  0001 C CNN
+	1    22850 14550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC3
+U 3 1 60902629
+P 22850 13950
+F 0 "IC3" H 22850 14230 59  0000 C CNN
+F 1 "HEF4066BT" H 22550 13650 59  0001 L BNN
+F 2 "ST24.022:SO14" H 22850 13950 50  0001 C CNN
+F 3 "" H 22850 13950 50  0001 C CNN
+	3    22850 13950
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC3
+U 4 1 60905ED3
+P 22850 13400
+F 0 "IC3" H 22850 13680 59  0000 C CNN
+F 1 "HEF4066BT" H 22550 13100 59  0001 L BNN
+F 2 "ST24.022:SO14" H 22850 13400 50  0001 C CNN
+F 3 "" H 22850 13400 50  0001 C CNN
+	4    22850 13400
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC3
+U 5 1 6090998F
+P 22550 6550
+F 0 "IC3" H 22500 6550 59  0000 L CNN
+F 1 "HEF4066BT" H 22250 6250 59  0001 L BNN
+F 2 "ST24.022:SO14" H 22550 6550 50  0001 C CNN
+F 3 "" H 22550 6550 50  0001 C CNN
+	5    22550 6550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	20000 11250 19450 11250
+Connection ~ 19450 11250
+Wire Wire Line
+	19450 11250 19450 12750
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R39
+U 1 1 60D3DE6C
+P 19900 10950
+F 0 "R39" H 20050 10900 59  0000 R TNN
+F 1 "15k" H 19900 11100 59  0000 R TNN
+F 2 "ST24.022:R0805" H 19900 10950 50  0001 C CNN
+F 3 "" H 19900 10950 50  0001 C CNN
+	1    19900 10950
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	21000 11450 21050 11450
+Wire Wire Line
+	21000 11450 21000 11700
+Connection ~ 21000 11450
+$Comp
+L ST25.004-rescue:4066D-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC3
+U 2 1 608FEB3B
+P 20500 11350
+F 0 "IC3" H 20500 11070 59  0000 C CNN
+F 1 "HEF4066BT" H 20200 11050 59  0001 L BNN
+F 2 "ST24.022:SO14" H 20500 11350 50  0001 C CNN
+F 3 "" H 20500 11350 50  0001 C CNN
+	2    20500 11350
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	19900 11150 19900 11450
+Wire Wire Line
+	19900 11450 20000 11450
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C26
+U 1 1 63985771
+P 22800 6500
+F 0 "C26" H 22700 6500 59  0000 L BNN
+F 1 "100nF" H 22700 6350 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 22800 6500 50  0001 C CNN
+F 3 "" H 22800 6500 50  0001 C CNN
+	1    22800 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C27
+U 1 1 63985FA5
+P 22950 6250
+F 0 "C27" H 22900 6250 59  0000 L BNN
+F 1 "100nF" H 22850 6050 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 22950 6250 50  0001 C CNN
+F 3 "" H 22950 6250 50  0001 C CNN
+	1    22950 6250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C29
+U 1 1 6398634F
+P 22950 6850
+F 0 "C29" H 22850 6850 59  0000 L BNN
+F 1 "100nF" H 22850 6650 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 22950 6850 50  0001 C CNN
+F 3 "" H 22950 6850 50  0001 C CNN
+	1    22950 6850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND06
+U 1 1 639867EA
+P 23350 6600
+F 0 "#GND06" H 23350 6600 50  0001 C CNN
+F 1 "AGND" V 23250 6500 59  0000 L BNN
+F 2 "" H 23350 6600 50  0001 C CNN
+F 3 "" H 23350 6600 50  0001 C CNN
+	1    23350 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:+7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P+017
+U 1 1 63986B46
+P 22550 6000
+F 0 "#P+017" H 22550 6000 50  0001 C CNN
+F 1 "+7V5" V 22500 6100 59  0000 L BNN
+F 2 "" H 22550 6000 50  0001 C CNN
+F 3 "" H 22550 6000 50  0001 C CNN
+	1    22550 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:-7V5-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #P-014
+U 1 1 63986F18
+P 22550 7100
+F 0 "#P-014" H 22550 7100 50  0001 C CNN
+F 1 "-7V5" V 22600 7000 59  0000 R TNN
+F 2 "" H 22550 7100 50  0001 C CNN
+F 3 "" H 22550 7100 50  0001 C CNN
+	1    22550 7100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	22550 6250 22550 6100
+Wire Wire Line
+	22550 6850 22550 7000
+Wire Wire Line
+	22850 6850 22800 6850
+Connection ~ 22550 6850
+Wire Wire Line
+	22850 6250 22800 6250
+Connection ~ 22550 6250
+Wire Wire Line
+	23150 6850 23250 6850
+Wire Wire Line
+	23250 6850 23250 6600
+Wire Wire Line
+	23250 6600 23250 6250
+Wire Wire Line
+	23250 6250 23150 6250
+Connection ~ 23250 6600
+Wire Wire Line
+	22800 6850 22800 6700
+Connection ~ 22800 6850
+Wire Wire Line
+	22800 6850 22550 6850
+Wire Wire Line
+	22800 6400 22800 6250
+Connection ~ 22800 6250
+Wire Wire Line
+	22800 6250 22550 6250
+Connection ~ 17250 11400
+Wire Wire Line
+	17250 11400 17250 11050
+Wire Wire Line
+	18100 11700 21000 11700
+Connection ~ 18100 11700
+Connection ~ 17250 11700
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND0104
+U 1 1 65781857
+P 17250 12250
+F 0 "#GND0104" H 17250 12250 50  0001 C CNN
+F 1 "AGND" V 17150 12150 59  0000 L BNN
+F 2 "" H 17250 12250 50  0001 C CNN
+F 3 "" H 17250 12250 50  0001 C CNN
+	1    17250 12250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	17250 12150 17250 12100
+Wire Wire Line
+	16950 11400 16850 11400
+Wire Wire Line
+	16850 11400 16850 11050
+Connection ~ 16850 11050
+Wire Wire Line
+	17850 7750 16200 7750
+Wire Wire Line
+	16200 7750 16200 10800
+Connection ~ 16200 10800
+Text Label 16200 10700 0    50   ~ 0
+UNETZ
+NoConn ~ 17650 650 
+NoConn ~ 17550 650 
+NoConn ~ 15400 16650
+NoConn ~ 22950 16900
+NoConn ~ 2900 11450
+NoConn ~ 2900 11350
+NoConn ~ 2900 11250
+NoConn ~ 14400 17300
+NoConn ~ 14600 17300
+NoConn ~ 14800 17300
+NoConn ~ 15000 17300
+NoConn ~ 15200 17300
+NoConn ~ 15400 17300
+NoConn ~ 6950 5950
+NoConn ~ 6950 6050
+NoConn ~ 4750 15450
+NoConn ~ 4750 15550
+NoConn ~ 4750 15650
+NoConn ~ 4750 15750
+NoConn ~ 3850 15250
+NoConn ~ 3850 15350
+Wire Wire Line
+	22350 14650 22350 14450
+Wire Wire Line
+	22350 14450 22350 14050
+Connection ~ 22350 14450
+Wire Wire Line
+	22350 14050 22350 13850
+Connection ~ 22350 14050
+Wire Wire Line
+	22350 13500 22350 13300
+Wire Wire Line
+	22350 13850 22350 13500
+Connection ~ 22350 13850
+Connection ~ 22350 13500
+$Comp
+L ST25.004-rescue:GND-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND0105
+U 1 1 658A719C
+P 22350 14800
+F 0 "#GND0105" H 22350 14800 50  0001 C CNN
+F 1 "GND" H 22300 14700 50  0001 L BNN
+F 2 "" H 22350 14800 50  0001 C CNN
+F 3 "" H 22350 14800 50  0001 C CNN
+	1    22350 14800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	22350 14700 22350 14650
+Connection ~ 22350 14650
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C245
+U 1 1 E438F555
+P 3050 2550
+F 0 "C245" H 2900 2550 59  0000 L BNN
+F 1 "12pF" H 2950 2400 59  0000 L BNN
+F 2 "ST24.022:C0805K" H 3050 2550 50  0001 C CNN
+F 3 "" H 3050 2550 50  0001 C CNN
+	1    3050 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:CRYSTAL_ABM-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue Q1
+U 1 1 22BC07EB
+P 3450 2500
+F 0 "Q1" H 3450 2300 59  0000 L BNN
+F 1 "C3E-20.000-12-3030-X" H 3450 2500 50  0001 C CNN
+F 2 "ST24.022:CRYSTALABM" H 3450 2500 50  0001 C CNN
+F 3 "" H 3450 2500 50  0001 C CNN
+	1    3450 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L ST25.004-rescue:C-EUC0805K-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue C39
+U 1 1 6054F9D4
+P 3500 3450
+F 0 "C39" H 3500 3450 59  0000 L BNN
+F 1 "100nF" H 3400 3300 59  0000 L BNN
+F 2 "ST25.001:C0805K" H 3500 3450 50  0001 C CNN
+F 3 "" H 3500 3450 50  0001 C CNN
+	1    3500 3450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	14650 8200 14950 8200
+Wire Wire Line
+	15250 8200 15900 8200
+Wire Wire Line
+	10800 2300 10800 2200
+$Comp
+L ST25.004-rescue:PMLL4150-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue D3
+U 1 1 607A1A8E
+P 8400 5200
+F 0 "D3" H 8350 5050 59  0000 L BNN
+F 1 "BAT46" V 8650 4950 59  0000 L BNN
+F 2 "ST24.022:SOD80C" H 8400 5200 50  0001 C CNN
+F 3 "" H 8400 5200 50  0001 C CNN
+	1    8400 5200
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	8400 5100 8400 4200
+Wire Wire Line
+	8400 4200 8250 4200
+Connection ~ 8250 4200
+Wire Wire Line
+	8400 5300 8400 5350
+Wire Wire Line
+	8400 5350 3200 5350
+Wire Wire Line
+	3200 5350 3200 4200
+Wire Wire Line
+	3200 4200 3750 4200
+Text Label 11900 10800 3    70   ~ 0
+KAP0
+Wire Wire Line
+	11900 10200 11900 10800
+Wire Wire Line
+	12600 10200 12600 10800
+Wire Wire Line
+	13250 10200 13250 10800
+Wire Wire Line
+	13850 10200 13850 10800
+Wire Wire Line
+	14450 10200 14450 10800
+Text Label 13500 7500 2    70   ~ 0
+IND3
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R21
+U 1 1 60BEE854
+P 19800 9850
+F 0 "R21" H 19950 9800 59  0000 R TNN
+F 1 "300k" H 19900 9950 59  0000 R TNN
+F 2 "ST24.022:R0805" H 19800 9850 50  0001 C CNN
+F 3 "" H 19800 9850 50  0001 C CNN
+	1    19800 9850
+	1    0    0    -1  
+$EndComp
+Connection ~ 20000 9850
+Wire Wire Line
+	20000 9850 20000 10000
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R35
+U 1 1 60BEF064
+P 22400 9850
+F 0 "R35" H 22450 10000 59  0000 R TNN
+F 1 "300k" H 22500 9800 59  0000 R TNN
+F 2 "ST24.022:R0805" H 22400 9850 50  0001 C CNN
+F 3 "" H 22400 9850 50  0001 C CNN
+	1    22400 9850
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	19600 10000 19600 9850
+Connection ~ 19600 10000
+Wire Wire Line
+	22400 10000 22400 10050
+$Comp
+L ST25.004-rescue:GNDA-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue #GND0102
+U 1 1 61985C73
+P 22200 9650
+F 0 "#GND0102" H 22200 9650 50  0001 C CNN
+F 1 "AGND" V 22250 9350 59  0000 L BNN
+F 2 "" H 22200 9650 50  0001 C CNN
+F 3 "" H 22200 9650 50  0001 C CNN
+	1    22200 9650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	22400 10000 22200 10000
+Wire Wire Line
+	22200 10000 22200 9850
+Connection ~ 22600 9850
+Wire Wire Line
+	22600 9850 22600 10000
+Connection ~ 22200 9850
+Wire Wire Line
+	22200 9750 22200 9850
+Wire Wire Line
+	19100 9650 21650 9650
+Wire Wire Line
+	22600 9500 22600 9850
+Text Label 2050 6550 0    50   ~ 0
+pvcc
+Text Label 3300 7250 0    50   ~ 0
+p0
+Text Label 3300 7450 0    50   ~ 0
+p1
+Text Label 3250 7650 0    50   ~ 0
+p2
+Text Label 3250 7850 0    50   ~ 0
+p3
+Text Label 3250 8050 0    50   ~ 0
+p4
+Text Label 3250 8450 0    50   ~ 0
+p6
+Text Label 3250 8650 0    50   ~ 0
+p7
+Text Label 3300 10700 0    50   ~ 0
+q0
+Text Label 3250 10950 0    50   ~ 0
+q1
+Text Label 3200 11250 0    50   ~ 0
+q2
+Text Label 3200 11450 0    50   ~ 0
+q3
+Text Label 3200 11650 0    50   ~ 0
+q4
+Text Label 1950 10000 0    50   ~ 0
+qvcc
+$Comp
+L ST25.004-rescue:PCA8574PW,118-SamacSys_Parts IC1
+U 1 1 60C761C5
+P 1850 7250
+F 0 "IC1" H 2400 7515 50  0000 C CNN
+F 1 "PCA8574PW,118" H 2400 7424 50  0000 C CNN
+F 2 "SOP65P640X110-16N" H 2800 7350 50  0001 L CNN
+F 3 "http://www.nxp.com/docs/en/data-sheet/PCA8574_PCA8574A.pdf" H 2800 7250 50  0001 L CNN
+F 4 "NXP - PCA8574PW,118 - I/O EXPANDER, 8BIT, 400KHZ, TSSOP-16" H 2800 7150 50  0001 L CNN "Description"
+F 5 "1.1" H 2800 7050 50  0001 L CNN "Height"
+F 6 "NXP" H 2800 6950 50  0001 L CNN "Manufacturer_Name"
+F 7 "PCA8574PW,118" H 2800 6850 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "771-PCA85PW118" H 2800 6750 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/PCA8574PW118?qs=LOCUfHb8d9siFqf%2FsST1Rg%3D%3D" H 2800 6650 50  0001 L CNN "Mouser Price/Stock"
+F 10 "PCA8574PW,118" H 2800 6550 50  0001 L CNN "Arrow Part Number"
+F 11 "https://www.arrow.com/en/products/pca8574pw118/nxp-semiconductors" H 2800 6450 50  0001 L CNN "Arrow Price/Stock"
+	1    1850 7250
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST25.004-rescue:PCA8574PW,118-SamacSys_Parts IC2
+U 1 1 60C7D7AF
+P 1800 10850
+F 0 "IC2" H 2350 11115 50  0000 C CNN
+F 1 "PCA8574PW,118" H 2350 11024 50  0000 C CNN
+F 2 "SOP65P640X110-16N" H 2750 10950 50  0001 L CNN
+F 3 "http://www.nxp.com/docs/en/data-sheet/PCA8574_PCA8574A.pdf" H 2750 10850 50  0001 L CNN
+F 4 "NXP - PCA8574PW,118 - I/O EXPANDER, 8BIT, 400KHZ, TSSOP-16" H 2750 10750 50  0001 L CNN "Description"
+F 5 "1.1" H 2750 10650 50  0001 L CNN "Height"
+F 6 "NXP" H 2750 10550 50  0001 L CNN "Manufacturer_Name"
+F 7 "PCA8574PW,118" H 2750 10450 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "771-PCA85PW118" H 2750 10350 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/PCA8574PW118?qs=LOCUfHb8d9siFqf%2FsST1Rg%3D%3D" H 2750 10250 50  0001 L CNN "Mouser Price/Stock"
+F 10 "PCA8574PW,118" H 2750 10150 50  0001 L CNN "Arrow Part Number"
+F 11 "https://www.arrow.com/en/products/pca8574pw118/nxp-semiconductors" H 2750 10050 50  0001 L CNN "Arrow Price/Stock"
+	1    1800 10850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1850 7550 2200 7550
+Wire Wire Line
+	2200 7550 2200 6800
+Wire Wire Line
+	2200 6800 3350 6800
+Wire Wire Line
+	3350 6800 3350 7250
+Wire Wire Line
+	1850 7650 2250 7650
+Wire Wire Line
+	2250 7650 2250 6850
+Wire Wire Line
+	2250 6850 3300 6850
+Wire Wire Line
+	3300 6850 3300 7450
+Wire Wire Line
+	3300 7450 3350 7450
+Wire Wire Line
+	1850 7750 2300 7750
+Wire Wire Line
+	2300 7750 2300 6900
+Wire Wire Line
+	2300 6900 3250 6900
+Wire Wire Line
+	3250 6900 3250 7650
+Wire Wire Line
+	3250 7650 3350 7650
+Wire Wire Line
+	1850 7850 2350 7850
+Wire Wire Line
+	2350 7850 2350 6950
+Wire Wire Line
+	2350 6950 3200 6950
+Wire Wire Line
+	3200 6950 3200 7850
+Wire Wire Line
+	3200 7850 3350 7850
+Wire Wire Line
+	2950 7950 2950 8050
+Wire Wire Line
+	2950 8050 3350 8050
+Wire Wire Line
+	2950 7850 3000 7850
+Wire Wire Line
+	3000 7850 3000 8250
+Wire Wire Line
+	3000 8250 3400 8250
+Wire Wire Line
+	2950 7750 3050 7750
+Wire Wire Line
+	3050 7750 3050 8450
+Wire Wire Line
+	3050 8450 3700 8450
+Wire Wire Line
+	2950 7650 3100 7650
+Wire Wire Line
+	3100 7650 3100 8650
+Wire Wire Line
+	3100 8650 3350 8650
+NoConn ~ 2950 7550
+Wire Wire Line
+	2950 7250 2950 6650
+Wire Wire Line
+	2950 6650 2050 6650
+Wire Wire Line
+	1850 7350 1850 7250
+Wire Wire Line
+	1850 7250 1850 6450
+Connection ~ 1850 7250
+Connection ~ 1850 6450
+Wire Wire Line
+	1850 6450 2050 6450
+Wire Wire Line
+	1750 6450 1850 6450
+Wire Wire Line
+	1850 7450 1450 7450
+Wire Wire Line
+	1850 7950 1850 8350
+Wire Wire Line
+	2950 7350 3050 7350
+Wire Wire Line
+	3050 7350 3050 6100
+Wire Wire Line
+	3050 6100 2800 6100
+Wire Wire Line
+	2950 7450 3100 7450
+Wire Wire Line
+	3100 7450 3100 6300
+Wire Wire Line
+	1800 11150 2150 11150
+Wire Wire Line
+	2150 11150 2150 10500
+Wire Wire Line
+	2150 10500 3300 10500
+Wire Wire Line
+	3300 10500 3300 10850
+Wire Wire Line
+	1800 11250 2200 11250
+Wire Wire Line
+	2200 11250 2200 10550
+Wire Wire Line
+	2200 10550 3250 10550
+Wire Wire Line
+	3250 10550 3250 11050
+Wire Wire Line
+	1800 11350 2250 11350
+Wire Wire Line
+	2250 11350 2250 10600
+Wire Wire Line
+	2250 10600 3200 10600
+Wire Wire Line
+	3200 10600 3200 11250
+Wire Wire Line
+	1800 11450 2300 11450
+Wire Wire Line
+	2300 11450 2300 10650
+Wire Wire Line
+	2300 10650 3150 10650
+Wire Wire Line
+	3150 10650 3150 11450
+Wire Wire Line
+	2900 11550 2900 11650
+Wire Wire Line
+	2900 11650 3300 11650
+NoConn ~ 2900 11150
+Wire Wire Line
+	2900 10850 2900 10300
+Wire Wire Line
+	2900 10300 2050 10300
+Wire Wire Line
+	2050 10300 2050 10000
+Connection ~ 2050 10000
+Wire Wire Line
+	1700 11850 1700 11550
+Wire Wire Line
+	1700 11550 1800 11550
+Wire Wire Line
+	2900 11050 2550 11050
+Wire Wire Line
+	2900 10950 2550 10950
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R36
+U 1 1 60C79BEB
+P 4350 14050
+F 0 "R36" H 4200 14109 59  0000 L BNN
+F 1 "n.b." H 4200 13920 59  0000 L BNN
+F 2 "Resistor_SMD:R_2010_5025Metric" H 4350 14050 50  0001 C CNN
+F 3 "" H 4350 14050 50  0001 C CNN
+	1    4350 14050
+	0    1    -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:R-EU_R0805-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue R37
+U 1 1 60C7A7E3
+P 4650 14050
+F 0 "R37" H 4500 14109 59  0000 L BNN
+F 1 "n.b." H 4500 13920 59  0000 L BNN
+F 2 "Resistor_SMD:R_2010_5025Metric" H 4650 14050 50  0001 C CNN
+F 3 "" H 4650 14050 50  0001 C CNN
+	1    4650 14050
+	0    1    -1   0   
+$EndComp
+$Comp
+L ST25.004-rescue:RJLSE4038101-SamacSys_Parts-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue J4
+U 1 1 60287026
+P 3850 15250
+F 0 "J4" H 4300 15515 50  0000 C CNN
+F 1 "RJHSE5380" H 4300 15424 50  0000 C CNN
+F 2 "SamacSys_Parts:RJHSE5380-SS603000-11o79merge" H 4600 15350 50  0001 L CNN
+F 3 "https://componentsearchengine.com//RJLSE4038101.pdf" H 4600 15250 50  0001 L CNN
+F 4 "Modular Connectors / Ethernet Connectors 8P8C SMT Shielded 1 Port" H 4600 15150 50  0001 L CNN "Description"
+F 5 "11.85" H 4600 15050 50  0001 L CNN "Height"
+F 6 "523-RJLSE4038101" H 4600 14950 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Amphenol-Commercial-Products/RJLSE4038101/?qs=ToP8pWlZ0bPQpqouwnZkSg%3D%3D" H 4600 14850 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Amphenol" H 4600 14750 50  0001 L CNN "Manufacturer_Name"
+F 9 "RJLSE4038101" H 4600 14650 50  0001 L CNN "Manufacturer_Part_Number"
+	1    3850 15250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4750 15250 4750 15000
+Wire Wire Line
+	4750 15000 4350 15000
+Wire Wire Line
+	4350 15000 4350 14400
+Wire Wire Line
+	4750 15350 4850 15350
+Wire Wire Line
+	4850 15350 4850 14900
+Wire Wire Line
+	4850 14900 4650 14900
+Wire Wire Line
+	4650 14900 4650 14400
+Text GLabel 9550 4050 2    50   Input ~ 0
+J6-Pin8
+Text GLabel 9550 4200 2    50   Input ~ 0
+J6-Pin7
+Wire Wire Line
+	9550 4150 9550 4200
+Connection ~ 8700 4150
+Text GLabel 4350 13800 1    50   Input ~ 0
+J6-Pin8
+Text GLabel 4650 13800 1    50   Input ~ 0
+J6-Pin7
+Wire Wire Line
+	4350 13850 4350 13800
+Wire Wire Line
+	4650 13850 4650 13800
+$Comp
+L ST25.004-rescue:Conn_01x02-Connector_Generic-ST25.001-rescue-ST25.003-rescue J6
+U 1 1 61337BD6
+P 9450 4050
+F 0 "J6" H 9368 3725 50  0000 C CNN
+F 1 "n.b. 1.27mm" H 9368 3816 50  0000 C CNN
+F 2 "Connector_PinSocket_1.27mm:PinSocket_1x02_P1.27mm_Vertical" H 9450 4050 50  0001 C CNN
+F 3 "~" H 9450 4050 50  0001 C CNN
+	1    9450 4050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8250 4050 9250 4050
+Wire Wire Line
+	7900 4150 8700 4150
+Wire Wire Line
+	8700 4150 9250 4150
+Connection ~ 9250 4050
+Wire Wire Line
+	9250 4050 9550 4050
+Connection ~ 9250 4150
+Wire Wire Line
+	9250 4150 9550 4150
+Wire Wire Line
+	4450 14400 4350 14400
+Connection ~ 4350 14400
+Wire Wire Line
+	4350 14400 4350 14250
+Wire Wire Line
+	4550 14400 4650 14400
+Connection ~ 4650 14400
+Wire Wire Line
+	4650 14400 4650 14250
+Text Notes 11500 10200 1    50   ~ 0
+SOLAR 4.700pF  BAT 1.000pF
+Text Notes 12250 10200 1    50   ~ 0
+SOLAR 10.000pF  BAT 4.700pF 
+Text Notes 12900 10200 1    50   ~ 0
+SOLAR 20.000pF  BAT 10.000pF 
+Text Notes 13500 10200 1    50   ~ 0
+SOLAR 40.000pF  BAT 18.000pF 
+Text Notes 14100 10150 1    50   ~ 0
+SOLAR 6.800pF  BAT 1.000pF
+Text Notes 11750 9850 0    50   ~ 0
+0.99
+Text Notes 12450 9850 0    50   ~ 0
+0.98
+Text Notes 13100 9850 0    50   ~ 0
+0.96
+Text Notes 13700 9850 0    50   ~ 0
+0.92
+Text Notes 14300 9850 0    50   ~ 0
+kap
+Text Notes 14150 6100 0    50   ~ 0
+0.99
+Text Notes 14150 6650 0    50   ~ 0
+0.98
+Text Notes 14150 7200 0    50   ~ 0
+0.96
+Text Notes 14150 7750 0    50   ~ 0
+0.92
+Text Notes 14200 8250 0    50   ~ 0
+ind
+Text Notes 14650 5900 0    50   ~ 0
+SOLAR 4.000pF  BAT 1000pF
+Text Notes 14650 6500 0    50   ~ 0
+SOLAR 8.000pF  BAT 4.700pF
+Text Notes 14650 7050 0    50   ~ 0
+SOLAR 14.000pF  BAT 5.600pF 
+Text Notes 14650 7600 0    50   ~ 0
+SOLAR 28.000pF  BAT 12.000pF 
+Text Notes 14650 8100 0    50   ~ 0
+SOLAR 6.800pF  BAT 2000pF 
+Text Notes 17150 8650 0    50   ~ 0
+BAT: n.b.
+Text Notes 11800 12350 0    50   ~ 0
+BAT: ggf.1M
+Text Notes 12000 11800 0    50   ~ 0
+BAT: ca110k
+Text Notes 12200 2900 0    50   ~ 0
+3V3 -> 4V7peak
+Text Notes 13350 2500 0    50   ~ 0
+4V0peak@230V
+Text Notes 14700 2850 0    50   ~ 0
+4V6
+Text Notes 13350 2150 0    50   ~ 0
+4V90@230+20%
+Text Notes 13350 2250 0    50   ~ 0
+4V67@230+15%
+Text Notes 13350 2350 0    50   ~ 0
+4V43@230+10%
+Text Notes 16600 8200 1    50   ~ 0
+BAT: 1M5
+Wire Wire Line
+	1400 10950 1800 10950
+Wire Wire Line
+	1650 10000 1700 10000
+Wire Wire Line
+	1800 11050 1700 11050
+Wire Wire Line
+	1700 11050 1700 10850
+Connection ~ 1700 10000
+Wire Wire Line
+	1700 10000 2050 10000
+Wire Wire Line
+	1800 10850 1700 10850
+Connection ~ 1700 10850
+Wire Wire Line
+	1700 10850 1700 10000
+$Comp
+L ST25.004-rescue:JP1E-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue J7
+U 1 1 60DCA13E
+P 5600 6850
+F 0 "J7" H 5400 6850 59  0000 L BNN
+F 1 "n.b." H 5350 6750 59  0000 L BNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 5600 6850 50  0001 C CNN
+F 3 "" H 5600 6850 50  0001 C CNN
+	1    5600 6850
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	5600 6750 5600 6450
+Connection ~ 5600 6450
+Wire Wire Line
+	5700 6750 6000 6750
+Wire Wire Line
+	6000 6750 6000 6550
+Wire Wire Line
+	6000 6550 6350 6550
+Connection ~ 6350 6550
+Wire Wire Line
+	10500 2350 6550 2350
+Wire Wire Line
+	6550 5050 6800 5050
+Wire Wire Line
+	6550 2150 6950 2150
+Wire Wire Line
+	6550 4750 7200 4750
+Wire Wire Line
+	6550 1850 7200 1850
+Wire Wire Line
+	6550 2650 8100 2650
+Wire Wire Line
+	6550 4850 6800 4850
+Wire Wire Line
+	6550 2750 8200 2750
+Wire Wire Line
+	6550 4950 6800 4950
+Wire Wire Line
+	6550 1750 6700 1750
+$Comp
+L ST25.004-rescue:ATMEGA644A-ST24.022-eagle-import-ST24.022-rescue-ST25.001-rescue-ST25.003-rescue IC15
+U 1 1 16C2FAC1
+P 5550 3350
+F 0 "IC15" H 4650 5200 59  0000 L BNN
+F 1 "ATMEGA644PA-AU" H 4650 1450 59  0000 L BNN
+F 2 "ST24.022:TQFP44" H 5550 3350 50  0001 C CNN
+F 3 "" H 5550 3350 50  0001 C CNN
+	1    5550 3350
+	1    0    0    -1  
+$EndComp
+Text Notes 8300 7850 0    79   ~ 0
+BAT UMBAU (6/2021)\nR261=10k\nR215=22k parallel 6n8 (ungünstig für Sinus bei aktiven Stufen)\nR220=2k7 oder kleiner\nR266 ggf. mitzumischen falls Leistung zu hoch\nR219=33k .. 36k\ncos Stufen können bleiben ? ? 
+Text Label 12950 2500 0    50   ~ 0
+üspg
+Text Label 12050 5450 0    50   ~ 0
+üstrom
+Text Label 14950 2850 0    50   ~ 0
+Ü4V6
+Text Label 11500 5250 0    50   ~ 0
+üs_ref
+Text Notes 11950 2000 0    50   ~ 0
+Von 4.5V kommen nur 3.7V an Pin4 Steuerplatine an\n(Messung August 2021). Das ist ein Verlust von 17%.\nDadurch stimmt die Kalkulation nicht mehr. Auch um ca. 17%.\nEine Anpassung von R209 auf 100k stellt um 10% zurück.\nSonst ist die Abschaltung erst bei 310V AC (Varistoren)\nWo bleiben die 17% hängen? Es ist nur R308 in Reihe da \n- UN wird an vielen Orten belastet
+Text Notes 12200 2750 0    50   ~ 0
+MW: 3.7Vpeak@230V
+Text Notes 12200 2500 0    50   ~ 0
+MW: 3V2peak@230V
+Text Notes 11550 650  0    50   ~ 0
+tau=1ms ggf. vorteilhaft für Brumm-Regler
+Wire Bus Line
+	7200 3400 7200 4200
+Wire Bus Line
+	7700 4200 7700 9200
+$EndSCHEMATC

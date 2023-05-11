@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ST25.003-rescue)(type Legacy)(uri ${KIPRJMOD}/ST25.003-rescue.lib)(options "")(descr ""))
+  (lib (name ST25.004-rescue)(type Legacy)(uri ${KIPRJMOD}/ST25.004-rescue.lib)(options "")(descr ""))
+)
